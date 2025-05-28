@@ -1,21 +1,17 @@
-#%%
+# %%
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-import sqlite3
+# import sqlite3
 import pandas as pd
-
-
-
 
 
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service)
 
-driver.get("https://icard.ai/home/all_cards")
 
 
 # 啟動瀏覽器
@@ -23,6 +19,7 @@ service = None
 try:
     from selenium.webdriver.chrome.service import Service
     from webdriver_manager.chrome import ChromeDriverManager
+
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service)
 except Exception:
@@ -36,7 +33,7 @@ time.sleep(3)  # 等待網頁載入
 
 scroll_step = 800  # 每次滑動的像素
 SCROLL_PAUSE_TIME = 3  # 每次滑動後等待秒數
-MAX_NOCHANGE = 10       # 連續幾次沒新資料就結束
+MAX_NOCHANGE = 10  # 連續幾次沒新資料就結束
 
 nochange_count = 0
 last_count = 0
@@ -57,7 +54,9 @@ while nochange_count < MAX_NOCHANGE:
     last_count = now_count
 
 # 取得所有卡片外層區塊
-card_blocks = driver.find_elements(By.CSS_SELECTOR, "div.sc-fkouio-0.jdQMAt")  # 這是每張卡片的外層 class，請依實際 class 名稱調整
+card_blocks = driver.find_elements(
+    By.CSS_SELECTOR, "div.sc-fkouio-0.jdQMAt"
+)  # 這是每張卡片的外層 class，請依實際 class 名稱調整
 
 data = []
 
@@ -67,13 +66,12 @@ for block in card_blocks:
     name = name_elem.text.strip()
 
     # 取得所有優惠說明
-    info_elems = block.find_elements(By.CSS_SELECTOR, "div.sc-fkouio-0.sc-9y76ir-2.ewghcY.jcdfEI")
+    info_elems = block.find_elements(
+        By.CSS_SELECTOR, "div.sc-fkouio-0.sc-9y76ir-2.ewghcY.jcdfEI"
+    )
     for info_elem in info_elems:
         info = info_elem.text.strip()
-        data.append({
-            "卡片名稱": name,
-            "優惠說明": info
-        })
+        data.append({"卡片名稱": name, "優惠說明": info})
 
 # 關閉
 driver.quit()
@@ -82,12 +80,6 @@ driver.quit()
 df = pd.DataFrame(data)
 df.to_excel("icard_cards.xlsx", index=False)
 print("已輸出為 icard_cards.xlsx")
-
-
-
-
-
-
 
 
 # 關閉

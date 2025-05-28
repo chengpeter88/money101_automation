@@ -1,20 +1,20 @@
 {
   "partner_article_counts": {
-    "富邦銀行": 62,
-    "玉山銀行": 187,
-    "中信銀行": 17,
-    "永豐銀行": 425,
+    "富邦銀行": 127,
+    "玉山銀行": 3,
+    "中信銀行": 1,
+    "永豐銀行": 0,
     "滙豐銀行": 282,
-    "台新銀行": 375,
+    "台新銀行": 0,
     "國泰世華銀行": 103,
-    "彰化銀行": 21,
-    "華南銀行": 32,
-    "第一銀行": 52,
-    "合作金庫銀行": 13,
-    "台灣銀行": 30,
+    "彰化銀行": 0,
+    "華南銀行": 0,
+    "第一銀行": 0,
+    "合作金庫銀行": 0,
+    "台灣銀行": 0,
     "台北富邦銀行": 24,
-    "新光銀行": 33,
-    "遠東銀行": 91,
+    "新光銀行": 3,
+    "遠東銀行": 0,
     "華泰銀行": 2,
     "星展銀行": 38,
     "台中銀行": 11,
@@ -22,6 +22,14 @@
     "新光兆豐商業銀行": 0,
     "台灣土地銀行": 15,
     "台灣企銀": 7,
+    "遠東商銀": 15,
+    "樂天銀行": 11,
+    "渣打銀行": 138,
+    "台新國際商業銀行": 35,
+    "聯邦銀行": 0,
+    "王道銀行": 1,
+    "國泰銀行": 3,
+    "匯豐銀行": 28,
     "富邦證券": 31,
     "元富證券": 26,
     "中信證券": 6,
@@ -44,17 +52,6 @@
     "富蘭克林坦伯頓": 0,
     "宏利投信": 1,
     "元大投信": 7,
-    "國泰投信": 37,
-    "永豐投信": 296,
-    "台新投信": 332,
-    "第一金投信": 0,
-    "中信投信": 17,
-    "華南投信": 4,
-    "兆豐投信": 7,
-    "新光投信": 16,
-    "凱基投信": 18,
-    "群益投信": 1,
-    "大華投信": 0,
     "台灣中小企業投信": 0,
     "Garmin Pay": 26,
     "幣安": 1,
@@ -68,14 +65,22 @@
     "台股": 18,
     "基金": 17,
     "富果平台": 0,
-    "亮點App": 3
+    "亮點App": 3,
+    "富邦人壽": 66,
+    "國泰人壽": 33,
+    "新光人壽": 31,
+    "台灣人壽": 7,
+    "中信人壽": 1,
+    "新安東京海上保險": 3,
+    "安達保險": 4,
+    "明台產險": 26,
+    "和泰產險": 19
   },
   "all_mentions": {
-    "永豐銀行": 677,
+    "富邦銀行": 303,
+    "遠東商銀": 61,
+    "渣打銀行": 336,
     "滙豐銀行": 483,
-    "台新銀行": 1017,
-    "永豐投信": 386,
-    "台新投信": 869,
     "LINE Pay": 1710,
     "Apple Pay": 539,
     "Google Pay": 480,
@@ -89,32 +94,30 @@
     "新光證券": 36,
     "凱基證券": 35,
     "ETF": 501,
-    "富邦銀行": 210,
-    "玉山銀行": 457,
+    "王道銀行": 5,
+    "國泰銀行": 22,
     "國泰世華銀行": 146,
-    "第一銀行": 100,
-    "台灣銀行": 108,
-    "新光銀行": 85,
-    "遠東銀行": 144,
     "星展銀行": 127,
-    "國泰投信": 174,
-    "新光投信": 42,
     "台股": 90,
-    "彰化銀行": 40,
-    "華南銀行": 52,
-    "合作金庫銀行": 26,
+    "富邦人壽": 119,
+    "國泰人壽": 58,
+    "新光人壽": 70,
+    "台灣人壽": 14,
+    "明台產險": 41,
+    "和泰產險": 24,
+    "匯豐銀行": 44,
     "台北富邦銀行": 38,
     "台灣土地銀行": 28,
-    "中信銀行": 46,
-    "中信投信": 46,
     "台中銀行": 17,
+    "新光銀行": 5,
     "Garmin Pay": 170,
     "台灣企銀": 15,
+    "樂天銀行": 17,
     "幣安": 4,
+    "台新國際商業銀行": 96,
     "元大投信": 9,
-    "華南投信": 7,
-    "兆豐投信": 14,
-    "凱基投信": 25,
+    "中信人壽": 1,
+    "安達保險": 6,
     "基金": 21,
     "中信證券": 8,
     "康和證券": 8,
@@ -123,9 +126,11 @@
     "群益證券": 5,
     "華泰銀行": 2,
     "鉅亨網": 16,
-    "群益投信": 1,
+    "玉山銀行": 9,
+    "中信銀行": 8,
     "兆豐證券": 3,
     "宏利投信": 1,
+    "新安東京海上保險": 9,
     "第一金證券": 2,
     "亮點App": 9,
     "DWS 投信": 20
@@ -136,7 +141,9 @@
       "url": "無連結",
       "filename": "article_118_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "遠東商銀",
+        "渣打銀行"
       ]
     },
     {
@@ -144,11 +151,7 @@
       "url": "無連結",
       "filename": "article_407_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -178,7 +181,10 @@
       "url": "https://roo.cash/blog/obank-vs-cathay/",
       "filename": "article_110_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "王道銀行",
+        "國泰銀行"
       ]
     },
     {
@@ -195,21 +201,9 @@
       "url": "https://roo.cash/blog/creditcard-recommendation/",
       "filename": "article_31_content.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "第一銀行",
-        "台灣銀行",
-        "新光銀行",
-        "遠東銀行",
         "星展銀行",
-        "國泰投信",
-        "永豐投信",
-        "台新投信",
-        "新光投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -224,11 +218,7 @@
       "url": "無連結",
       "filename": "article_430_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -242,9 +232,10 @@
       "url": "無連結",
       "filename": "article_271_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "台灣人壽"
       ]
     },
     {
@@ -256,13 +247,23 @@
       ]
     },
     {
+      "title": "article_246_tables",
+      "url": "無連結",
+      "filename": "article_246_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "明台產險",
+        "和泰產險"
+      ]
+    },
+    {
       "title": "article_29_tables",
       "url": "無連結",
       "filename": "article_29_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -272,11 +273,7 @@
       "url": "無連結",
       "filename": "article_465_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -290,7 +287,9 @@
       "url": "https://roo.cash/blog/loan-good-or-not/",
       "filename": "article_160_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -298,10 +297,6 @@
       "url": "https://roo.cash/blog/declare-tax-schedule/",
       "filename": "article_430_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -310,11 +305,7 @@
       "url": "無連結",
       "filename": "article_452_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -328,16 +319,7 @@
       "url": "https://roo.cash/blog/taiwanpay-credit-card/",
       "filename": "article_41_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "彰化銀行",
-        "華南銀行",
-        "第一銀行",
-        "合作金庫銀行",
-        "台灣銀行",
         "台北富邦銀行",
-        "新光銀行",
-        "遠東銀行",
         "台灣土地銀行",
         "LINE Pay",
         "Apple Pay",
@@ -346,19 +328,23 @@
       ]
     },
     {
+      "title": "article_213_tables",
+      "url": "無連結",
+      "filename": "article_213_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "明台產險",
+        "和泰產險"
+      ]
+    },
+    {
       "title": "article_224_tables",
       "url": "無連結",
       "filename": "article_224_tables.txt",
       "partners": [
         "LINE Pay"
-      ]
-    },
-    {
-      "title": "article_215_content",
-      "url": "https://roo.cash/blog/travel-insurance-one-year/",
-      "filename": "article_215_content.txt",
-      "partners": [
-        "國泰投信"
       ]
     },
     {
@@ -374,17 +360,8 @@
       "url": "無連結",
       "filename": "article_185_tables.txt",
       "partners": [
-        "永豐銀行"
-      ]
-    },
-    {
-      "title": "article_265_content",
-      "url": "https://roo.cash/blog/insurance-roadside-assistance/",
-      "filename": "article_265_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -393,6 +370,7 @@
       "filename": "article_92_content.txt",
       "partners": [
         "滙豐銀行",
+        "遠東商銀",
         "Apple Pay",
         "Google Pay"
       ]
@@ -402,11 +380,7 @@
       "url": "無連結",
       "filename": "article_83_tables.txt",
       "partners": [
-        "中信銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
-        "中信投信",
         "LINE Pay",
         "PayPal",
         "美股"
@@ -419,8 +393,6 @@
       "partners": [
         "滙豐銀行",
         "國泰世華銀行",
-        "彰化銀行",
-        "遠東銀行",
         "台中銀行"
       ]
     },
@@ -447,10 +419,7 @@
       "filename": "article_538_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -460,12 +429,7 @@
       "url": "https://roo.cash/blog/estate-tax-gift-tax-income-tax-regulation/",
       "filename": "article_402_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "第一銀行",
         "星展銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -474,7 +438,9 @@
       "url": "https://roo.cash/blog/skb-credit-loan/",
       "filename": "article_152_content.txt",
       "partners": [
-        "永豐銀行",
+        "富邦銀行",
+        "新光銀行",
+        "渣打銀行",
         "LINE Pay"
       ]
     },
@@ -484,8 +450,7 @@
       "filename": "article_560_content.txt",
       "partners": [
         "滙豐銀行",
-        "國泰世華銀行",
-        "遠東銀行"
+        "國泰世華銀行"
       ]
     },
     {
@@ -493,7 +458,8 @@
       "url": "無連結",
       "filename": "article_133_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -501,12 +467,8 @@
       "url": "無連結",
       "filename": "article_60_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "LINE Pay",
         "Apple Pay",
@@ -521,12 +483,7 @@
       "url": "無連結",
       "filename": "article_57_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "遠東銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "Apple Pay",
         "Google Pay",
@@ -536,35 +493,19 @@
       ]
     },
     {
-      "title": "article_279_content",
-      "url": "https://roo.cash/blog/scooter-rider-insurance/",
-      "filename": "article_279_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
-      ]
-    },
-    {
       "title": "article_104_tables",
       "url": "無連結",
       "filename": "article_104_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
+        "富邦銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "彰化銀行",
-        "華南銀行",
-        "第一銀行",
-        "合作金庫銀行",
         "台北富邦銀行",
-        "新光銀行",
-        "遠東銀行",
         "星展銀行",
         "台灣土地銀行",
-        "台灣企銀"
+        "台灣企銀",
+        "樂天銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -588,9 +529,6 @@
       "url": "無連結",
       "filename": "article_238_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -599,8 +537,6 @@
       "url": "https://roo.cash/blog/asset-allocation-3/",
       "filename": "article_472_content.txt",
       "partners": [
-        "彰化銀行",
-        "第一銀行",
         "ETF"
       ]
     },
@@ -609,7 +545,8 @@
       "url": "https://roo.cash/blog/credit-loan/",
       "filename": "article_122_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -625,8 +562,6 @@
       "url": "https://roo.cash/blog/hospital-credit-card-notice/",
       "filename": "article_4_content.txt",
       "partners": [
-        "台新銀行",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -635,7 +570,8 @@
       "url": "無連結",
       "filename": "article_166_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -644,8 +580,6 @@
       "filename": "article_35_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -655,19 +589,7 @@
       "url": "https://roo.cash/blog/mobile-payment-tax-discount/",
       "filename": "article_396_content.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "永豐銀行",
-        "台新銀行",
-        "彰化銀行",
-        "華南銀行",
-        "第一銀行",
-        "台灣銀行",
-        "新光銀行",
         "台灣土地銀行",
-        "永豐投信",
-        "台新投信",
-        "新光投信",
         "LINE Pay"
       ]
     },
@@ -676,11 +598,7 @@
       "url": "無連結",
       "filename": "article_479_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -690,21 +608,12 @@
       ]
     },
     {
-      "title": "article_257_content",
-      "url": "https://roo.cash/blog/car-insurance/",
-      "filename": "article_257_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
-      ]
-    },
-    {
       "title": "article_199_tables",
       "url": "無連結",
       "filename": "article_199_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -713,19 +622,8 @@
       "filename": "article_486_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
-      ]
-    },
-    {
-      "title": "article_181_content",
-      "url": "https://roo.cash/blog/mortgage-loan-interest/",
-      "filename": "article_181_content.txt",
-      "partners": [
-        "彰化銀行",
-        "華南銀行"
       ]
     },
     {
@@ -733,16 +631,12 @@
       "url": "無連結",
       "filename": "article_386_tables.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
-        "遠東銀行",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "PayPal",
-        "美股"
+        "美股",
+        "富邦人壽"
       ]
     },
     {
@@ -758,7 +652,6 @@
       "url": "https://roo.cash/blog/penalty-creditcard-recommendation/",
       "filename": "article_48_content.txt",
       "partners": [
-        "合作金庫銀行",
         "LINE Pay"
       ]
     },
@@ -767,7 +660,10 @@
       "url": "https://roo.cash/blog/bad-credit/",
       "filename": "article_169_content.txt",
       "partners": [
-        "台新銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -775,25 +671,9 @@
       "url": "無連結",
       "filename": "article_397_tables.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "中信銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "華南銀行",
-        "第一銀行",
-        "新光銀行",
-        "遠東銀行",
+        "樂天銀行",
         "元大投信",
-        "國泰投信",
-        "永豐投信",
-        "台新投信",
-        "中信投信",
-        "華南投信",
-        "兆豐投信",
-        "新光投信",
-        "凱基投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -803,25 +683,12 @@
       ]
     },
     {
-      "title": "article_232_content",
-      "url": "https://roo.cash/blog/car-insurance-collision/",
-      "filename": "article_232_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
-      ]
-    },
-    {
       "title": "article_583_tables",
       "url": "無連結",
       "filename": "article_583_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -836,21 +703,13 @@
       ]
     },
     {
-      "title": "article_449_content",
-      "url": "https://roo.cash/blog/insurence-rpu/",
-      "filename": "article_449_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
-      ]
-    },
-    {
       "title": "article_119_content",
       "url": "https://roo.cash/blog/stock-pledged-loan-bank-recommendation/",
       "filename": "article_119_content.txt",
       "partners": [
-        "台新銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -858,7 +717,6 @@
       "url": "https://roo.cash/blog/00980a-etf-article/",
       "filename": "article_291_content.txt",
       "partners": [
-        "華南銀行",
         "ETF"
       ]
     },
@@ -868,8 +726,6 @@
       "filename": "article_24_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "LINE Pay",
         "PayPal",
         "美股"
@@ -880,11 +736,7 @@
       "url": "無連結",
       "filename": "article_468_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -898,8 +750,6 @@
       "url": "https://roo.cash/blog/ctbc-creditcard-verification/",
       "filename": "article_66_content.txt",
       "partners": [
-        "永豐銀行",
-        "永豐投信",
         "Apple Pay",
         "Google Pay"
       ]
@@ -909,10 +759,7 @@
       "url": "無連結",
       "filename": "article_13_tables.txt",
       "partners": [
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -922,7 +769,9 @@
       "url": "https://roo.cash/blog/apply-loan-requirement/",
       "filename": "article_147_content.txt",
       "partners": [
-        "台新銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -930,12 +779,7 @@
       "url": "https://roo.cash/blog/house-and-land-transactions-income-tax/",
       "filename": "article_417_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "第一銀行",
         "星展銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -945,9 +789,22 @@
       "filename": "article_575_content.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台中銀行",
-        "台新投信"
+        "台中銀行"
+      ]
+    },
+    {
+      "title": "article_229_tables",
+      "url": "無連結",
+      "filename": "article_229_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "台灣人壽",
+        "中信人壽",
+        "安達保險",
+        "明台產險",
+        "和泰產險"
       ]
     },
     {
@@ -955,7 +812,8 @@
       "url": "無連結",
       "filename": "article_115_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -964,8 +822,6 @@
       "filename": "article_46_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -990,10 +846,7 @@
       "url": "https://roo.cash/blog/vietnam-travel-credit-card/",
       "filename": "article_16_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -1002,11 +855,7 @@
       "url": "無連結",
       "filename": "article_71_tables.txt",
       "partners": [
-        "富邦銀行",
         "滙豐銀行",
-        "台新銀行",
-        "第一銀行",
-        "台新投信",
         "PayPal",
         "美股",
         "台股"
@@ -1017,7 +866,8 @@
       "url": "無連結",
       "filename": "article_122_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -1025,10 +875,6 @@
       "url": "https://roo.cash/blog/retirement-pension-tax/",
       "filename": "article_467_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -1046,10 +892,7 @@
       "filename": "article_529_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -1076,11 +919,7 @@
       "url": "無連結",
       "filename": "article_92_tables.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "PayPal",
@@ -1097,24 +936,11 @@
       ]
     },
     {
-      "title": "article_270_content",
-      "url": "https://roo.cash/blog/car-insurance-compensation-process/",
-      "filename": "article_270_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
-      ]
-    },
-    {
       "title": "article_87_content",
       "url": "https://roo.cash/blog/ikea-credit-cards/",
       "filename": "article_87_content.txt",
       "partners": [
-        "富邦銀行",
-        "永豐銀行",
         "台北富邦銀行",
-        "國泰投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -1131,13 +957,24 @@
       ]
     },
     {
+      "title": "article_235_tables",
+      "url": "無連結",
+      "filename": "article_235_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "明台產險",
+        "和泰產險"
+      ]
+    },
+    {
       "title": "article_560_tables",
       "url": "無連結",
       "filename": "article_560_tables.txt",
       "partners": [
         "滙豐銀行",
-        "國泰世華銀行",
-        "遠東銀行"
+        "國泰世華銀行"
       ]
     },
     {
@@ -1161,13 +998,7 @@
       "url": "https://roo.cash/blog/insurance-physical-examination-hospital/",
       "filename": "article_455_content.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "永豐銀行",
-        "新光銀行",
-        "永豐投信",
-        "新光投信",
-        "凱基投信"
+        "台灣人壽"
       ]
     },
     {
@@ -1175,7 +1006,8 @@
       "url": "https://roo.cash/blog/loan-increasing-interest-mortgage-loan/",
       "filename": "article_105_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -1183,11 +1015,7 @@
       "url": "無連結",
       "filename": "article_443_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -1201,18 +1029,13 @@
       "url": "無連結",
       "filename": "article_38_tables.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
         "PayPal",
-        "美股"
+        "美股",
+        "富邦人壽"
       ]
     },
     {
@@ -1221,8 +1044,6 @@
       "filename": "article_474_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -1232,9 +1053,6 @@
       "url": "無連結",
       "filename": "article_257_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -1243,9 +1061,6 @@
       "url": "無連結",
       "filename": "article_260_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -1254,7 +1069,6 @@
       "url": "https://roo.cash/blog/lol-debit-card/",
       "filename": "article_54_content.txt",
       "partners": [
-        "台新銀行",
         "LINE Pay"
       ]
     },
@@ -1263,11 +1077,7 @@
       "url": "無連結",
       "filename": "article_421_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -1281,11 +1091,7 @@
       "url": "無連結",
       "filename": "article_416_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -1299,7 +1105,9 @@
       "url": "無連結",
       "filename": "article_109_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -1326,28 +1134,12 @@
       ]
     },
     {
-      "title": "article_386_content",
-      "url": "https://roo.cash/blog/travel-korea-exchange-money/",
-      "filename": "article_386_content.txt",
-      "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "台新銀行",
-        "華南銀行",
-        "遠東銀行",
-        "台新投信"
-      ]
-    },
-    {
       "title": "article_579_tables",
       "url": "無連結",
       "filename": "article_579_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -1357,9 +1149,7 @@
       "url": "https://roo.cash/blog/car-insurance-excess-liability-types/",
       "filename": "article_219_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "國泰人壽"
       ]
     },
     {
@@ -1367,17 +1157,12 @@
       "url": "無連結",
       "filename": "article_16_tables.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "PayPal",
-        "美股"
+        "美股",
+        "富邦人壽"
       ]
     },
     {
@@ -1385,9 +1170,6 @@
       "url": "無連結",
       "filename": "article_338_tables.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "台新銀行",
         "國泰世華銀行"
       ]
     },
@@ -1396,9 +1178,6 @@
       "url": "https://roo.cash/blog/steam-credit-card-cashback/",
       "filename": "article_13_content.txt",
       "partners": [
-        "富邦銀行",
-        "永豐銀行",
-        "永豐投信",
         "Apple Pay",
         "PayPal",
         "美股"
@@ -1409,7 +1188,8 @@
       "url": "https://roo.cash/blog/card-debt-negotiate/",
       "filename": "article_132_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -1417,10 +1197,6 @@
       "url": "https://roo.cash/blog/civil-servant-pension-tax/",
       "filename": "article_462_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -1429,7 +1205,8 @@
       "url": "無連結",
       "filename": "article_172_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -1437,11 +1214,7 @@
       "url": "無連結",
       "filename": "article_21_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "Apple Pay",
         "Google Pay",
@@ -1453,9 +1226,6 @@
       "url": "無連結",
       "filename": "article_279_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -1472,7 +1242,9 @@
       "url": "無連結",
       "filename": "article_127_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -1480,11 +1252,7 @@
       "url": "無連結",
       "filename": "article_74_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "Apple Pay",
         "Google Pay",
@@ -1498,11 +1266,7 @@
       "url": "無連結",
       "filename": "article_438_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -1517,8 +1281,6 @@
       "filename": "article_43_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "Garmin Pay",
         "Apple Pay",
         "Google Pay",
@@ -1528,19 +1290,13 @@
       ]
     },
     {
-      "title": "article_63_content",
-      "url": "https://roo.cash/blog/fubon-j-credit-card-travel-insurance-article/",
-      "filename": "article_63_content.txt",
-      "partners": [
-        "富邦銀行"
-      ]
-    },
-    {
       "title": "article_110_tables",
       "url": "無連結",
       "filename": "article_110_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "遠東商銀",
+        "渣打銀行"
       ]
     },
     {
@@ -1548,10 +1304,6 @@
       "url": "https://roo.cash/blog/citizen-digital-certificate-application/",
       "filename": "article_412_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -1560,35 +1312,15 @@
       "url": "無連結",
       "filename": "article_286_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
-        "Samsung Pay"
-      ]
-    },
-    {
-      "title": "article_237_content",
-      "url": "https://roo.cash/blog/usage-based-insurance-article/",
-      "filename": "article_237_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
-      ]
-    },
-    {
-      "title": "article_325_content",
-      "url": "https://roo.cash/blog/usd-time-deposit/",
-      "filename": "article_325_content.txt",
-      "partners": [
-        "凱基投信"
+        "Samsung Pay",
+        "富邦人壽",
+        "國泰人壽",
+        "明台產險"
       ]
     },
     {
@@ -1597,9 +1329,6 @@
       "filename": "article_247_content.txt",
       "partners": [
         "國泰世華銀行",
-        "台灣銀行",
-        "遠東銀行",
-        "國泰投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -1612,11 +1341,7 @@
       "url": "無連結",
       "filename": "article_471_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -1630,7 +1355,8 @@
       "url": "無連結",
       "filename": "article_159_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -1638,11 +1364,7 @@
       "url": "無連結",
       "filename": "article_446_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -1657,12 +1379,19 @@
       "filename": "article_565_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
+      ]
+    },
+    {
+      "title": "article_207_tables",
+      "url": "無連結",
+      "filename": "article_207_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "國泰人壽",
+        "明台產險"
       ]
     },
     {
@@ -1670,9 +1399,6 @@
       "url": "無連結",
       "filename": "article_230_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -1681,10 +1407,6 @@
       "url": "https://roo.cash/blog/new-graduate-card-recommendation/",
       "filename": "article_51_content.txt",
       "partners": [
-        "富邦銀行",
-        "台新銀行",
-        "國泰投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay"
       ]
@@ -1694,10 +1416,6 @@
       "url": "https://roo.cash/blog/tax-relief-package/",
       "filename": "article_420_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -1706,7 +1424,9 @@
       "url": "https://roo.cash/blog/line-bank-loan/",
       "filename": "article_170_content.txt",
       "partners": [
-        "台新銀行",
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行",
         "LINE Pay"
       ]
     },
@@ -1715,11 +1435,7 @@
       "url": "無連結",
       "filename": "article_413_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -1733,10 +1449,8 @@
       "url": "https://roo.cash/blog/macutea-drink-recommendation/",
       "filename": "article_532_content.txt",
       "partners": [
-        "玉山銀行",
         "滙豐銀行",
         "國泰世華銀行",
-        "遠東銀行",
         "LINE Pay"
       ]
     },
@@ -1760,26 +1474,10 @@
       "url": "無連結",
       "filename": "article_68_tables.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "中信銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "華南銀行",
-        "第一銀行",
         "台北富邦銀行",
-        "新光銀行",
-        "遠東銀行",
         "元大投信",
-        "國泰投信",
-        "永豐投信",
-        "台新投信",
-        "中信投信",
-        "兆豐投信",
-        "新光投信",
-        "凱基投信",
         "LINE Pay",
         "PayPal",
         "美股",
@@ -1791,11 +1489,7 @@
       "url": "無連結",
       "filename": "article_424_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -1809,10 +1503,11 @@
       "url": "無連結",
       "filename": "article_265_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
-        "LINE Pay"
+        "LINE Pay",
+        "富邦人壽",
+        "國泰人壽",
+        "明台產險",
+        "和泰產險"
       ]
     },
     {
@@ -1821,10 +1516,7 @@
       "filename": "article_507_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -1844,10 +1536,7 @@
       "filename": "article_530_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -1857,7 +1546,7 @@
       "url": "https://roo.cash/blog/alipay-taiwan-card-article/",
       "filename": "article_21_content.txt",
       "partners": [
-        "玉山銀行",
+        "渣打銀行",
         "LINE Pay"
       ]
     },
@@ -1866,11 +1555,18 @@
       "url": "https://roo.cash/blog/income-tax-filing/",
       "filename": "article_450_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
+      ]
+    },
+    {
+      "title": "article_252_tables",
+      "url": "無連結",
+      "filename": "article_252_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "新光人壽",
+        "明台產險",
+        "和泰產險"
       ]
     },
     {
@@ -1878,11 +1574,6 @@
       "url": "https://roo.cash/blog/telecom-creditcard/",
       "filename": "article_100_content.txt",
       "partners": [
-        "富邦銀行",
-        "中信銀行",
-        "台新銀行",
-        "台新投信",
-        "中信投信",
         "Google Pay",
         "美股",
         "台股"
@@ -1893,7 +1584,6 @@
       "url": "https://roo.cash/blog/stock-open-account-recommendation/",
       "filename": "article_317_content.txt",
       "partners": [
-        "富邦銀行",
         "富邦證券",
         "永豐金證券",
         "新光證券",
@@ -1902,25 +1592,12 @@
       ]
     },
     {
-      "title": "article_275_content",
-      "url": "https://roo.cash/blog/property-damage-liability-insuranc-rate/",
-      "filename": "article_275_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
-      ]
-    },
-    {
       "title": "article_97_tables",
       "url": "無連結",
       "filename": "article_97_tables.txt",
       "partners": [
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
         "星展銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -1930,12 +1607,7 @@
       "url": "https://roo.cash/blog/elifemall-creditcard/",
       "filename": "article_82_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "台灣銀行",
         "星展銀行",
-        "永豐投信",
-        "凱基投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -1948,13 +1620,11 @@
       "filename": "article_8_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "台新投信",
-        "凱基投信",
         "LINE Pay",
         "PayPal",
-        "美股"
+        "美股",
+        "富邦人壽"
       ]
     },
     {
@@ -1981,10 +1651,6 @@
       "url": "https://roo.cash/blog/tax-withholding-voucher-download/",
       "filename": "article_483_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -1999,24 +1665,12 @@
       ]
     },
     {
-      "title": "article_260_content",
-      "url": "https://roo.cash/blog/car-insurance-set/",
-      "filename": "article_260_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
-      ]
-    },
-    {
       "title": "article_97_content",
       "url": "https://roo.cash/blog/movie-vieshow-cinemas-creditcard/",
       "filename": "article_97_content.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "星展銀行",
-        "台新投信"
+        "星展銀行"
       ]
     },
     {
@@ -2026,7 +1680,6 @@
       "partners": [
         "滙豐銀行",
         "國泰世華銀行",
-        "遠東銀行",
         "LINE Pay"
       ]
     },
@@ -2044,20 +1697,8 @@
       "filename": "article_86_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
-      ]
-    },
-    {
-      "title": "article_210_content",
-      "url": "https://roo.cash/blog/car-insurence-parts-theft-loss/",
-      "filename": "article_210_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
       ]
     },
     {
@@ -2066,8 +1707,19 @@
       "filename": "article_509_content.txt",
       "partners": [
         "滙豐銀行",
-        "國泰世華銀行",
-        "遠東銀行"
+        "國泰世華銀行"
+      ]
+    },
+    {
+      "title": "article_243_tables",
+      "url": "無連結",
+      "filename": "article_243_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "明台產險",
+        "和泰產險"
       ]
     },
     {
@@ -2075,10 +1727,8 @@
       "url": "無連結",
       "filename": "article_274_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
-        "LINE Pay"
+        "LINE Pay",
+        "富邦人壽"
       ]
     },
     {
@@ -2086,15 +1736,10 @@
       "url": "無連結",
       "filename": "article_79_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "第一銀行",
         "星展銀行",
-        "永豐投信",
-        "台新投信",
+        "渣打銀行",
         "Garmin Pay",
         "LINE Pay",
         "Apple Pay",
@@ -2109,11 +1754,7 @@
       "url": "無連結",
       "filename": "article_435_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -2127,7 +1768,8 @@
       "url": "https://roo.cash/blog/low-loan-rate-comparison-recommendation/",
       "filename": "article_165_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -2135,13 +1777,8 @@
       "url": "無連結",
       "filename": "article_402_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "第一銀行",
         "星展銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -2155,10 +1792,6 @@
       "url": "https://roo.cash/blog/fuel-tax-overdue/",
       "filename": "article_435_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -2167,11 +1800,7 @@
       "url": "https://roo.cash/blog/sushiro-credit-card/",
       "filename": "article_44_content.txt",
       "partners": [
-        "中信銀行",
         "滙豐銀行",
-        "國泰投信",
-        "中信投信",
-        "凱基投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -2183,10 +1812,15 @@
       "url": "無連結",
       "filename": "article_221_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
+      ]
+    },
+    {
+      "title": "article_216_tables",
+      "url": "無連結",
+      "filename": "article_216_tables.txt",
+      "partners": [
+        "富邦人壽"
       ]
     },
     {
@@ -2194,11 +1828,7 @@
       "url": "無連結",
       "filename": "article_457_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -2212,7 +1842,8 @@
       "url": "https://roo.cash/blog/government-loan/",
       "filename": "article_115_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -2220,10 +1851,6 @@
       "url": "https://roo.cash/blog/premium-listed-deduction/",
       "filename": "article_445_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -2250,19 +1877,10 @@
       "url": "https://roo.cash/blog/bonus-points-creditcard-recommendation/",
       "filename": "article_34_content.txt",
       "partners": [
-        "玉山銀行",
-        "中信銀行",
-        "永豐銀行",
-        "台新銀行",
         "台北富邦銀行",
-        "新光銀行",
         "星展銀行",
+        "渣打銀行",
         "元大投信",
-        "永豐投信",
-        "台新投信",
-        "中信投信",
-        "兆豐投信",
-        "新光投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay"
@@ -2273,7 +1891,8 @@
       "url": "https://roo.cash/blog/how-to-calculate-loan-rate/",
       "filename": "article_109_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -2281,10 +1900,6 @@
       "url": "https://roo.cash/blog/estate-tax-gift-tax-pros-and-cons/",
       "filename": "article_459_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -2293,11 +1908,7 @@
       "url": "https://roo.cash/blog/onlyfans-credit-card-article/",
       "filename": "article_28_content.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Google Pay"
       ]
@@ -2307,10 +1918,7 @@
       "url": "無連結",
       "filename": "article_5_tables.txt",
       "partners": [
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -2320,11 +1928,7 @@
       "url": "無連結",
       "filename": "article_483_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -2338,14 +1942,7 @@
       "url": "https://roo.cash/blog/line-pay-money-license-tax/",
       "filename": "article_429_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "台新銀行",
-        "新光銀行",
-        "遠東銀行",
         "台中銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -2354,8 +1951,6 @@
       "url": "https://roo.cash/blog/license-tax-creditcard-recommendation/",
       "filename": "article_58_content.txt",
       "partners": [
-        "玉山銀行",
-        "台灣銀行",
         "台北富邦銀行",
         "Google Pay"
       ]
@@ -2373,7 +1968,9 @@
       "url": "https://roo.cash/blog/loan-interest-calculation-article/",
       "filename": "article_184_content.txt",
       "partners": [
-        "台新銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -2397,9 +1994,9 @@
       "url": "無連結",
       "filename": "article_101_tables.txt",
       "partners": [
-        "永豐銀行",
-        "第一銀行",
-        "台北富邦銀行"
+        "富邦銀行",
+        "台北富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -2407,13 +2004,8 @@
       "url": "無連結",
       "filename": "article_52_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "永豐投信",
-        "台新投信",
         "Apple Pay",
         "Google Pay",
         "PayPal",
@@ -2426,8 +2018,6 @@
       "filename": "article_65_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -2437,11 +2027,7 @@
       "url": "無連結",
       "filename": "article_429_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -2463,7 +2049,8 @@
       "url": "無連結",
       "filename": "article_136_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -2471,9 +2058,7 @@
       "url": "無連結",
       "filename": "article_268_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "富邦人壽"
       ]
     },
     {
@@ -2481,10 +2066,6 @@
       "url": "https://roo.cash/blog/couple-gift-tax/",
       "filename": "article_477_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -2493,7 +2074,9 @@
       "url": "https://roo.cash/blog/apply-loan-categories/",
       "filename": "article_127_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -2501,10 +2084,8 @@
       "url": "https://roo.cash/blog/chingshin-drink-recommendation/",
       "filename": "article_565_content.txt",
       "partners": [
-        "玉山銀行",
         "滙豐銀行",
-        "國泰世華銀行",
-        "遠東銀行"
+        "國泰世華銀行"
       ]
     },
     {
@@ -2512,10 +2093,7 @@
       "url": "無連結",
       "filename": "article_30_tables.txt",
       "partners": [
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -2525,7 +2103,8 @@
       "url": "無連結",
       "filename": "article_163_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -2533,18 +2112,9 @@
       "url": "無連結",
       "filename": "article_154_tables.txt",
       "partners": [
-        "玉山銀行",
-        "滙豐銀行"
-      ]
-    },
-    {
-      "title": "article_281_content",
-      "url": "https://roo.cash/blog/compulsory-insurance-duplicate-coverage-article/",
-      "filename": "article_281_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "滙豐銀行",
+        "渣打銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -2552,10 +2122,6 @@
       "url": "https://roo.cash/blog/renter-and-landlord-income-tax-notice/",
       "filename": "article_407_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -2565,9 +2131,7 @@
       "filename": "article_157_content.txt",
       "partners": [
         "富邦銀行",
-        "永豐銀行",
-        "新光銀行",
-        "新光投信"
+        "渣打銀行"
       ]
     },
     {
@@ -2575,12 +2139,6 @@
       "url": "https://roo.cash/blog/hypermarket-cashback-creditcard-comparison/",
       "filename": "article_76_content.txt",
       "partners": [
-        "富邦銀行",
-        "永豐銀行",
-        "台新銀行",
-        "國泰投信",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -2600,7 +2158,8 @@
       "url": "https://roo.cash/blog/loan-criteria/",
       "filename": "article_124_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -2608,9 +2167,6 @@
       "url": "無連結",
       "filename": "article_258_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -2619,7 +2175,9 @@
       "url": "無連結",
       "filename": "article_106_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "遠東商銀",
+        "渣打銀行"
       ]
     },
     {
@@ -2628,10 +2186,7 @@
       "filename": "article_55_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -2649,10 +2204,6 @@
       "url": "無連結",
       "filename": "article_419_tables.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -2664,14 +2215,9 @@
       "url": "無連結",
       "filename": "article_62_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
         "台北富邦銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "Apple Pay",
         "Google Pay",
@@ -2685,8 +2231,11 @@
       "url": "無連結",
       "filename": "article_131_tables.txt",
       "partners": [
-        "永豐銀行",
-        "滙豐銀行"
+        "富邦銀行",
+        "滙豐銀行",
+        "渣打銀行",
+        "台新國際商業銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -2704,11 +2253,8 @@
       "filename": "article_2_content.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "新光銀行",
-        "遠東銀行",
         "星展銀行",
-        "台新投信",
+        "樂天銀行",
         "Garmin Pay",
         "Apple Pay",
         "Google Pay",
@@ -2720,10 +2266,6 @@
       "url": "https://roo.cash/blog/estate-tax-filing/",
       "filename": "article_404_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -2732,7 +2274,9 @@
       "url": "https://roo.cash/blog/obank-credit-loan/",
       "filename": "article_154_content.txt",
       "partners": [
-        "永豐銀行",
+        "富邦銀行",
+        "新光銀行",
+        "渣打銀行",
         "LINE Pay"
       ]
     },
@@ -2741,13 +2285,6 @@
       "url": "https://roo.cash/blog/louisacoffee-creditcard/",
       "filename": "article_75_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "第一銀行",
-        "台灣銀行",
-        "新光銀行",
-        "永豐投信",
-        "新光投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -2760,22 +2297,9 @@
       "filename": "article_558_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
-      ]
-    },
-    {
-      "title": "article_282_content",
-      "url": "https://roo.cash/blog/scooter-property-damage-liability-insurance/",
-      "filename": "article_282_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
       ]
     },
     {
@@ -2784,11 +2308,7 @@
       "filename": "article_37_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "第一銀行",
-        "遠東銀行",
-        "台新投信",
         "LINE Pay",
         "PayPal",
         "美股"
@@ -2799,10 +2319,9 @@
       "url": "無連結",
       "filename": "article_164_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "台新銀行",
-        "國泰世華銀行"
+        "富邦銀行",
+        "國泰世華銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -2819,9 +2338,11 @@
       "url": "無連結",
       "filename": "article_153_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "滙豐銀行"
+        "富邦銀行",
+        "滙豐銀行",
+        "樂天銀行",
+        "渣打銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -2829,11 +2350,8 @@
       "url": "https://roo.cash/blog/truedan-menu/",
       "filename": "article_538_content.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -2842,11 +2360,7 @@
       "url": "無連結",
       "filename": "article_484_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -2860,9 +2374,7 @@
       "url": "https://roo.cash/blog/car-insurance-mini-electric-vehicle/",
       "filename": "article_221_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "國泰人壽"
       ]
     },
     {
@@ -2885,10 +2397,7 @@
       "filename": "article_2_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -2898,7 +2407,8 @@
       "url": "https://roo.cash/blog/kgi-revolving-credit/",
       "filename": "article_187_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -2921,9 +2431,6 @@
       "url": "無連結",
       "filename": "article_290_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -2932,7 +2439,9 @@
       "url": "https://roo.cash/blog/loan-raising/",
       "filename": "article_166_content.txt",
       "partners": [
-        "台新銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -2940,10 +2449,6 @@
       "url": "https://roo.cash/blog/fuel-tax-search/",
       "filename": "article_436_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -2985,15 +2490,24 @@
       "url": "無連結",
       "filename": "article_49_tables.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
         "星展銀行",
-        "永豐投信",
-        "台新投信",
+        "LINE Pay",
+        "Apple Pay",
+        "Google Pay",
+        "Samsung Pay",
+        "PayPal",
+        "美股",
+        "富邦人壽"
+      ]
+    },
+    {
+      "title": "article_405_tables",
+      "url": "無連結",
+      "filename": "article_405_tables.txt",
+      "partners": [
+        "滙豐銀行",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -3003,21 +2517,15 @@
       ]
     },
     {
-      "title": "article_405_tables",
+      "title": "article_244_tables",
       "url": "無連結",
-      "filename": "article_405_tables.txt",
+      "filename": "article_244_tables.txt",
       "partners": [
-        "永豐銀行",
-        "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
-        "LINE Pay",
-        "Apple Pay",
-        "Google Pay",
-        "Samsung Pay",
-        "PayPal",
-        "美股"
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "明台產險",
+        "和泰產險"
       ]
     },
     {
@@ -3026,10 +2534,7 @@
       "filename": "article_511_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -3039,10 +2544,8 @@
       "url": "無連結",
       "filename": "article_273_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
-        "LINE Pay"
+        "LINE Pay",
+        "富邦人壽"
       ]
     },
     {
@@ -3050,7 +2553,9 @@
       "url": "https://roo.cash/blog/ctbc-credit-loan/",
       "filename": "article_116_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -3058,10 +2563,6 @@
       "url": "https://roo.cash/blog/income-tax-receipts-download/",
       "filename": "article_446_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -3071,10 +2572,7 @@
       "filename": "article_37_content.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "第一銀行",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -3083,11 +2581,7 @@
       "url": "無連結",
       "filename": "article_450_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -3101,17 +2595,33 @@
       "url": "無連結",
       "filename": "article_467_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
         "Samsung Pay",
         "PayPal",
         "美股"
+      ]
+    },
+    {
+      "title": "article_226_tables",
+      "url": "無連結",
+      "filename": "article_226_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽"
+      ]
+    },
+    {
+      "title": "article_211_tables",
+      "url": "無連結",
+      "filename": "article_211_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "明台產險",
+        "和泰產險"
       ]
     },
     {
@@ -3123,21 +2633,12 @@
       ]
     },
     {
-      "title": "article_263_content",
-      "url": "https://roo.cash/blog/travel-insurance-credictcard-compare/",
-      "filename": "article_263_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
-      ]
-    },
-    {
       "title": "article_187_tables",
       "url": "無連結",
       "filename": "article_187_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -3145,19 +2646,7 @@
       "url": "https://roo.cash/blog/couple-income-tax/",
       "filename": "article_418_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
-      ]
-    },
-    {
-      "title": "article_69_content",
-      "url": "https://roo.cash/blog/cub-credit-card-verification/",
-      "filename": "article_69_content.txt",
-      "partners": [
-        "國泰投信"
       ]
     },
     {
@@ -3165,7 +2654,8 @@
       "url": "無連結",
       "filename": "article_398_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -3181,10 +2671,6 @@
       "url": "https://roo.cash/blog/income-tax-overdue/",
       "filename": "article_468_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -3193,13 +2679,7 @@
       "url": "無連結",
       "filename": "article_81_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "遠東銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "Apple Pay",
         "Google Pay",
@@ -3209,28 +2689,11 @@
       ]
     },
     {
-      "title": "article_19_content",
-      "url": "https://roo.cash/blog/car-owner-creditcard-recommendation/",
-      "filename": "article_19_content.txt",
-      "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "台新銀行",
-        "華南銀行",
-        "第一銀行",
-        "國泰投信",
-        "台新投信"
-      ]
-    },
-    {
       "title": "article_90_tables",
       "url": "無連結",
       "filename": "article_90_tables.txt",
       "partners": [
-        "富邦銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "LINE Pay",
         "PayPal",
         "美股"
@@ -3241,12 +2704,6 @@
       "url": "https://roo.cash/blog/carrefour-creditcard-recommendation/",
       "filename": "article_81_content.txt",
       "partners": [
-        "玉山銀行",
-        "台新銀行",
-        "台灣銀行",
-        "遠東銀行",
-        "國泰投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -3269,16 +2726,6 @@
       ]
     },
     {
-      "title": "article_276_content",
-      "url": "https://roo.cash/blog/property-damage-liability-insurance/",
-      "filename": "article_276_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
-      ]
-    },
-    {
       "title": "article_314_content",
       "url": "https://roo.cash/blog/how-to-hedge/",
       "filename": "article_314_content.txt",
@@ -3293,12 +2740,7 @@
       "url": "https://roo.cash/blog/tax-donation-credit/",
       "filename": "article_480_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "第一銀行",
         "星展銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -3307,10 +2749,6 @@
       "url": "https://roo.cash/blog/tax-overpaid-return/",
       "filename": "article_399_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -3320,8 +2758,6 @@
       "filename": "article_489_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "ETF",
         "美股"
@@ -3340,10 +2776,6 @@
       "url": "https://roo.cash/blog/nagomi-shinyeh-credit-cards/",
       "filename": "article_52_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "Apple Pay",
         "Google Pay",
@@ -3356,10 +2788,7 @@
       "filename": "article_562_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -3369,10 +2798,6 @@
       "url": "https://roo.cash/blog/income-tax-calculation/",
       "filename": "article_423_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -3381,9 +2806,10 @@
       "url": "https://roo.cash/blog/credit-loan-recommendation-article/",
       "filename": "article_173_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "台新銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -3391,9 +2817,6 @@
       "url": "無連結",
       "filename": "article_237_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -3402,13 +2825,8 @@
       "url": "無連結",
       "filename": "article_476_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "第一銀行",
         "星展銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -3422,17 +2840,9 @@
       "url": "無連結",
       "filename": "article_169_tables.txt",
       "partners": [
-        "永豐銀行"
-      ]
-    },
-    {
-      "title": "article_258_content",
-      "url": "https://roo.cash/blog/car-insurance-quote/",
-      "filename": "article_258_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -3441,8 +2851,6 @@
       "filename": "article_441_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -3452,16 +2860,10 @@
       "url": "https://roo.cash/blog/anniversary-skm-pay/",
       "filename": "article_22_content.txt",
       "partners": [
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "第一銀行",
         "台北富邦銀行",
-        "新光銀行",
-        "星展銀行",
-        "台新投信",
-        "新光投信"
+        "星展銀行"
       ]
     },
     {
@@ -3469,10 +2871,6 @@
       "url": "https://roo.cash/blog/nhi-card-income-tax-introduction/",
       "filename": "article_453_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -3481,9 +2879,8 @@
       "url": "無連結",
       "filename": "article_262_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "富邦人壽",
+        "新光人壽"
       ]
     },
     {
@@ -3491,7 +2888,8 @@
       "url": "https://roo.cash/blog/youth-farmland-loan/",
       "filename": "article_103_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -3499,9 +2897,6 @@
       "url": "無連結",
       "filename": "article_255_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -3533,27 +2928,16 @@
       "url": "無連結",
       "filename": "article_58_tables.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "彰化銀行",
-        "華南銀行",
-        "第一銀行",
-        "合作金庫銀行",
-        "台灣銀行",
-        "新光銀行",
-        "遠東銀行",
         "華泰銀行",
         "星展銀行",
         "台中銀行",
         "台灣土地銀行",
         "台灣企銀",
+        "遠東商銀",
+        "渣打銀行",
         "元大投信",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -3567,11 +2951,7 @@
       "url": "無連結",
       "filename": "article_414_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -3585,11 +2965,7 @@
       "url": "無連結",
       "filename": "article_423_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -3603,8 +2979,6 @@
       "url": "https://roo.cash/blog/soma-menu/",
       "filename": "article_531_content.txt",
       "partners": [
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -3613,9 +2987,6 @@
       "url": "無連結",
       "filename": "article_281_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -3624,10 +2995,7 @@
       "url": "https://roo.cash/blog/travel-accident-insurance-dbs/",
       "filename": "article_234_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "星展銀行",
-        "永豐投信"
+        "星展銀行"
       ]
     },
     {
@@ -3635,11 +3003,7 @@
       "url": "無連結",
       "filename": "article_395_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -3663,10 +3027,7 @@
       "filename": "article_581_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -3687,9 +3048,6 @@
       "url": "https://roo.cash/blog/green-credit-cards/",
       "filename": "article_10_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "第一銀行",
         "星展銀行"
       ]
     },
@@ -3698,14 +3056,7 @@
       "url": "無連結",
       "filename": "article_11_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "國泰投信",
-        "永豐投信",
-        "台新投信",
-        "凱基投信",
         "PayPal",
         "美股"
       ]
@@ -3715,7 +3066,8 @@
       "url": "https://roo.cash/blog/company-loan-introduction/",
       "filename": "article_131_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -3723,9 +3075,6 @@
       "url": "https://roo.cash/blog/spillover-insurance-intro/",
       "filename": "article_461_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "Apple Pay",
         "Google Pay"
       ]
@@ -3735,12 +3084,8 @@
       "url": "無連結",
       "filename": "article_26_tables.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
         "星展銀行",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "PayPal",
@@ -3776,9 +3121,7 @@
       "url": "https://roo.cash/blog/google-pay-credit-card/",
       "filename": "article_60_content.txt",
       "partners": [
-        "永豐銀行",
         "國泰世華銀行",
-        "永豐投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -3790,7 +3133,9 @@
       "url": "無連結",
       "filename": "article_120_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -3798,12 +3143,7 @@
       "url": "無連結",
       "filename": "article_73_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "Apple Pay",
         "Google Pay",
@@ -3817,10 +3157,6 @@
       "url": "https://roo.cash/blog/income-tax-deduction/",
       "filename": "article_411_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -3830,10 +3166,7 @@
       "filename": "article_44_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -3843,11 +3176,7 @@
       "url": "無連結",
       "filename": "article_408_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -3871,7 +3200,16 @@
       "url": "無連結",
       "filename": "article_117_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
+      ]
+    },
+    {
+      "title": "article_249_tables",
+      "url": "無連結",
+      "filename": "article_249_tables.txt",
+      "partners": [
+        "富邦人壽"
       ]
     },
     {
@@ -3879,11 +3217,7 @@
       "url": "無連結",
       "filename": "article_444_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -3898,8 +3232,6 @@
       "filename": "article_473_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -3909,11 +3241,8 @@
       "url": "https://roo.cash/blog/wanpo-drink-recommendation/",
       "filename": "article_534_content.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -3922,11 +3251,6 @@
       "url": "https://roo.cash/blog/taobao-credit-card/",
       "filename": "article_27_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "國泰投信",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay"
       ]
@@ -3936,9 +3260,6 @@
       "url": "無連結",
       "filename": "article_232_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -3947,10 +3268,6 @@
       "url": "https://roo.cash/blog/mortgage-interest-tax-credit/",
       "filename": "article_456_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -3959,9 +3276,20 @@
       "url": "https://roo.cash/blog/ctbc-vs-cathay/",
       "filename": "article_106_content.txt",
       "partners": [
+        "富邦銀行",
+        "玉山銀行",
         "中信銀行",
-        "永豐銀行",
-        "中信投信"
+        "渣打銀行",
+        "國泰銀行",
+        "匯豐銀行"
+      ]
+    },
+    {
+      "title": "article_205_tables",
+      "url": "無連結",
+      "filename": "article_205_tables.txt",
+      "partners": [
+        "富邦人壽"
       ]
     },
     {
@@ -3969,11 +3297,7 @@
       "url": "無連結",
       "filename": "article_426_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -4002,11 +3326,7 @@
       "url": "無連結",
       "filename": "article_411_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -4016,13 +3336,21 @@
       ]
     },
     {
+      "title": "article_250_tables",
+      "url": "無連結",
+      "filename": "article_250_tables.txt",
+      "partners": [
+        "富邦人壽"
+      ]
+    },
+    {
       "title": "article_57_content",
       "url": "https://roo.cash/blog/happygopay-creditcard-recommend/",
       "filename": "article_57_content.txt",
       "partners": [
         "滙豐銀行",
-        "遠東銀行",
-        "星展銀行"
+        "星展銀行",
+        "遠東商銀"
       ]
     },
     {
@@ -4030,11 +3358,7 @@
       "url": "https://roo.cash/blog/house-tax-calculate/",
       "filename": "article_426_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
         "台中銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -4044,12 +3368,17 @@
       "filename": "article_532_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
+      ]
+    },
+    {
+      "title": "article_176_content",
+      "url": "https://roo.cash/blog/acquittance-proof-article/",
+      "filename": "article_176_content.txt",
+      "partners": [
+        "匯豐銀行"
       ]
     },
     {
@@ -4057,10 +3386,8 @@
       "url": "無連結",
       "filename": "article_267_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
-        "LINE Pay"
+        "LINE Pay",
+        "明台產險"
       ]
     },
     {
@@ -4076,7 +3403,8 @@
       "url": "https://roo.cash/blog/sinopac-credit-loan/",
       "filename": "article_128_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -4084,10 +3412,6 @@
       "url": "https://roo.cash/blog/overseas-income-tax-introduction/",
       "filename": "article_478_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "ETF"
       ]
@@ -4097,7 +3421,6 @@
       "url": "https://roo.cash/blog/baishatun-mazu-pilgrimage-article/",
       "filename": "article_485_content.txt",
       "partners": [
-        "彰化銀行",
         "台中銀行"
       ]
     },
@@ -4106,12 +3429,7 @@
       "url": "無連結",
       "filename": "article_95_tables.txt",
       "partners": [
-        "富邦銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "Apple Pay",
         "Google Pay",
@@ -4134,15 +3452,10 @@
       "url": "https://roo.cash/blog/samsung-pay/",
       "filename": "article_79_content.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "第一銀行",
         "星展銀行",
-        "兆豐投信",
+        "渣打銀行",
         "Garmin Pay",
         "LINE Pay",
         "Apple Pay",
@@ -4155,9 +3468,9 @@
       "url": "https://roo.cash/blog/2022-phoenix-entrepreneurs-loan/",
       "filename": "article_158_content.txt",
       "partners": [
-        "永豐銀行",
-        "台灣銀行",
-        "台灣土地銀行"
+        "富邦銀行",
+        "台灣土地銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -4165,10 +3478,6 @@
       "url": "https://roo.cash/blog/gift-tax-calculate/",
       "filename": "article_408_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -4177,9 +3486,7 @@
       "url": "https://roo.cash/blog/travel-inconvenience-insurance-introduction/",
       "filename": "article_273_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "新光人壽"
       ]
     },
     {
@@ -4187,9 +3494,6 @@
       "url": "無連結",
       "filename": "article_219_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -4198,10 +3502,7 @@
       "url": "https://roo.cash/blog/cashback-creditcard-recommendation/",
       "filename": "article_98_content.txt",
       "partners": [
-        "台新銀行",
         "星展銀行",
-        "國泰投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Samsung Pay",
@@ -4214,8 +3515,6 @@
       "filename": "article_23_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -4225,7 +3524,8 @@
       "url": "無連結",
       "filename": "article_170_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -4233,10 +3533,6 @@
       "url": "https://roo.cash/blog/tax-citizen-certificate-password/",
       "filename": "article_414_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -4253,7 +3549,9 @@
       "url": "無連結",
       "filename": "article_147_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -4261,14 +3559,8 @@
       "url": "無連結",
       "filename": "article_14_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "第一銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Google Pay",
         "Samsung Pay",
@@ -4281,11 +3573,7 @@
       "url": "無連結",
       "filename": "article_458_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -4316,8 +3604,7 @@
       "filename": "article_506_content.txt",
       "partners": [
         "滙豐銀行",
-        "國泰世華銀行",
-        "遠東銀行"
+        "國泰世華銀行"
       ]
     },
     {
@@ -4325,8 +3612,6 @@
       "url": "https://roo.cash/blog/video-platform-creditcard-comparison/",
       "filename": "article_15_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "國泰世華銀行",
         "美股"
       ]
@@ -4336,7 +3621,8 @@
       "url": "https://roo.cash/blog/relief-loan/",
       "filename": "article_134_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -4344,7 +3630,9 @@
       "url": "無連結",
       "filename": "article_112_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -4352,13 +3640,7 @@
       "url": "無連結",
       "filename": "article_41_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台灣銀行",
-        "永豐投信",
-        "台新投信",
-        "兆豐投信",
         "Garmin Pay",
         "LINE Pay",
         "Apple Pay",
@@ -4373,11 +3655,7 @@
       "url": "無連結",
       "filename": "article_76_tables.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -4387,7 +3665,8 @@
       "url": "無連結",
       "filename": "article_125_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -4404,8 +3683,6 @@
       "filename": "article_89_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -4416,7 +3693,6 @@
       "filename": "article_323_content.txt",
       "partners": [
         "滙豐銀行",
-        "凱基投信",
         "台股"
       ]
     },
@@ -4440,10 +3716,7 @@
       "filename": "article_558_content.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "國泰世華銀行",
-        "遠東銀行",
-        "台新投信"
+        "國泰世華銀行"
       ]
     },
     {
@@ -4451,7 +3724,6 @@
       "url": "https://roo.cash/blog/travel-accident-insurance-fubon-j/",
       "filename": "article_241_content.txt",
       "partners": [
-        "富邦銀行",
         "LINE Pay"
       ]
     },
@@ -4472,8 +3744,6 @@
       "filename": "article_490_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "ETF",
         "美股",
@@ -4489,21 +3759,11 @@
       ]
     },
     {
-      "title": "article_336_content",
-      "url": "https://roo.cash/blog/stock-foreign-exchange-margin/",
-      "filename": "article_336_content.txt",
-      "partners": [
-        "群益投信"
-      ]
-    },
-    {
       "title": "article_7_tables",
       "url": "無連結",
       "filename": "article_7_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -4513,27 +3773,13 @@
       "url": "無連結",
       "filename": "article_481_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
         "Samsung Pay",
         "PayPal",
         "美股"
-      ]
-    },
-    {
-      "title": "article_254_content",
-      "url": "https://roo.cash/blog/motorcycle-optional-insurance-article/",
-      "filename": "article_254_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
       ]
     },
     {
@@ -4562,7 +3808,6 @@
       "url": "https://roo.cash/blog/travel-insurence-card-fubon/",
       "filename": "article_224_content.txt",
       "partners": [
-        "富邦銀行",
         "LINE Pay"
       ]
     },
@@ -4571,13 +3816,8 @@
       "url": "無連結",
       "filename": "article_98_tables.txt",
       "partners": [
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "彰化銀行",
-        "第一銀行",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -4591,7 +3831,8 @@
       "url": "無連結",
       "filename": "article_134_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -4599,10 +3840,7 @@
       "url": "無連結",
       "filename": "article_67_tables.txt",
       "partners": [
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -4612,14 +3850,8 @@
       "url": "無連結",
       "filename": "article_349_tables.txt",
       "partners": [
-        "玉山銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "彰化銀行",
-        "華南銀行",
-        "台灣銀行",
         "台北富邦銀行",
-        "新光銀行",
         "台灣土地銀行",
         "富邦證券",
         "中信證券",
@@ -4638,7 +3870,6 @@
       "partners": [
         "滙豐銀行",
         "國泰世華銀行",
-        "遠東銀行",
         "LINE Pay"
       ]
     },
@@ -4648,8 +3879,6 @@
       "filename": "article_50_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -4659,7 +3888,8 @@
       "url": "無連結",
       "filename": "article_103_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -4667,10 +3897,6 @@
       "url": "https://roo.cash/blog/license-tax-overdue/",
       "filename": "article_401_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Google Pay"
       ]
@@ -4680,22 +3906,15 @@
       "url": "https://roo.cash/blog/credit-card-bill/",
       "filename": "article_70_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "彰化銀行",
-        "華南銀行",
-        "第一銀行",
-        "合作金庫銀行",
         "台北富邦銀行",
-        "新光銀行",
-        "遠東銀行",
         "星展銀行",
         "台中銀行",
         "台灣土地銀行",
         "台灣企銀",
+        "樂天銀行",
+        "渣打銀行",
         "LINE Pay"
       ]
     },
@@ -4714,10 +3933,7 @@
       "filename": "article_508_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -4727,19 +3943,8 @@
       "url": "https://roo.cash/blog/strike-travel-inconvenience-insurance/",
       "filename": "article_287_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
-      ]
-    },
-    {
-      "title": "article_449_tables",
-      "url": "無連結",
-      "filename": "article_449_tables.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "台灣人壽",
+        "明台產險"
       ]
     },
     {
@@ -4747,10 +3952,6 @@
       "url": "https://roo.cash/blog/tax-introduction/",
       "filename": "article_395_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -4759,7 +3960,9 @@
       "url": "無連結",
       "filename": "article_156_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -4767,7 +3970,8 @@
       "url": "無連結",
       "filename": "article_161_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -4775,12 +3979,7 @@
       "url": "無連結",
       "filename": "article_32_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -4799,22 +3998,10 @@
       ]
     },
     {
-      "title": "article_7_content",
-      "url": "https://roo.cash/blog/premier-credit-card-recommend/",
-      "filename": "article_7_content.txt",
-      "partners": [
-        "富邦銀行"
-      ]
-    },
-    {
       "title": "article_471_content",
       "url": "https://roo.cash/blog/itemized-deduction-tax/",
       "filename": "article_471_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -4823,8 +4010,17 @@
       "url": "https://roo.cash/blog/electric-car-loan/",
       "filename": "article_121_content.txt",
       "partners": [
-        "永豐銀行",
+        "富邦銀行",
+        "渣打銀行",
         "基金"
+      ]
+    },
+    {
+      "title": "article_208_tables",
+      "url": "無連結",
+      "filename": "article_208_tables.txt",
+      "partners": [
+        "富邦人壽"
       ]
     },
     {
@@ -4849,7 +4045,8 @@
       "url": "無連結",
       "filename": "article_182_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -4875,15 +4072,11 @@
       "filename": "article_84_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "國泰投信",
-        "台新投信",
-        "凱基投信",
         "LINE Pay",
         "PayPal",
-        "美股"
+        "美股",
+        "富邦人壽"
       ]
     },
     {
@@ -4901,22 +4094,8 @@
       "filename": "article_582_content.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "彰化銀行",
-        "遠東銀行",
-        "台中銀行",
-        "台新投信"
-      ]
-    },
-    {
-      "title": "article_266_content",
-      "url": "https://roo.cash/blog/compulsory-motorcycle-insurance/",
-      "filename": "article_266_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "台中銀行"
       ]
     },
     {
@@ -4924,10 +4103,8 @@
       "url": "無連結",
       "filename": "article_289_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
-        "LINE Pay"
+        "LINE Pay",
+        "國泰人壽"
       ]
     },
     {
@@ -4935,10 +4112,10 @@
       "url": "https://roo.cash/blog/car-insurance-d/",
       "filename": "article_238_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
-        "LINE Pay"
+        "LINE Pay",
+        "富邦人壽",
+        "新安東京海上保險",
+        "明台產險"
       ]
     },
     {
@@ -4946,9 +4123,6 @@
       "url": "無連結",
       "filename": "article_276_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -4957,8 +4131,8 @@
       "url": "無連結",
       "filename": "article_241_tables.txt",
       "partners": [
-        "富邦銀行",
-        "美股"
+        "美股",
+        "富邦人壽"
       ]
     },
     {
@@ -4966,9 +4140,7 @@
       "url": "https://roo.cash/blog/tax-loan/",
       "filename": "article_113_content.txt",
       "partners": [
-        "永豐銀行",
-        "遠東銀行",
-        "永豐投信"
+        "遠東商銀"
       ]
     },
     {
@@ -4986,10 +4158,6 @@
       "url": "https://roo.cash/blog/land-value-tax-self-use-residential/",
       "filename": "article_443_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -4998,15 +4166,7 @@
       "url": "https://roo.cash/blog/house-tax/",
       "filename": "article_32_content.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "彰化銀行",
-        "華南銀行",
-        "第一銀行",
-        "台灣銀行",
-        "新光銀行",
         "台灣土地銀行",
-        "新光投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -5018,11 +4178,7 @@
       "url": "無連結",
       "filename": "article_400_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -5036,11 +4192,7 @@
       "url": "無連結",
       "filename": "article_437_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -5054,16 +4206,31 @@
       "url": "無連結",
       "filename": "article_128_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
-      "title": "article_248_content",
-      "url": "https://roo.cash/blog/travel-accident-insurance-flygo/",
-      "filename": "article_248_content.txt",
+      "title": "article_214_tables",
+      "url": "無連結",
+      "filename": "article_214_tables.txt",
       "partners": [
-        "台新銀行",
-        "台新投信"
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "明台產險",
+        "和泰產險"
+      ]
+    },
+    {
+      "title": "article_223_tables",
+      "url": "無連結",
+      "filename": "article_223_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "和泰產險"
       ]
     },
     {
@@ -5071,7 +4238,9 @@
       "url": "https://roo.cash/blog/cub-credit-loan/",
       "filename": "article_163_content.txt",
       "partners": [
-        "台新銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -5079,11 +4248,7 @@
       "url": "無連結",
       "filename": "article_462_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -5097,24 +4262,15 @@
       "url": "https://roo.cash/blog/tax-creditcard-recommendation/",
       "filename": "article_42_content.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "中信銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "彰化銀行",
-        "華南銀行",
-        "第一銀行",
-        "合作金庫銀行",
-        "台灣銀行",
-        "新光銀行",
         "星展銀行",
         "台灣土地銀行",
         "台灣企銀",
+        "遠東商銀",
+        "樂天銀行",
+        "渣打銀行",
         "元大投信",
-        "中信投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -5127,9 +4283,6 @@
       "filename": "article_19_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -5139,9 +4292,6 @@
       "url": "無連結",
       "filename": "article_455_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -5150,7 +4300,9 @@
       "url": "https://roo.cash/blog/jcic-record/",
       "filename": "article_185_content.txt",
       "partners": [
-        "台新銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -5158,9 +4310,12 @@
       "url": "無連結",
       "filename": "article_287_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "安達保險",
+        "明台產險",
+        "和泰產險"
       ]
     },
     {
@@ -5168,8 +4323,6 @@
       "url": "https://roo.cash/blog/hamipay-creditcard/",
       "filename": "article_59_content.txt",
       "partners": [
-        "玉山銀行",
-        "台新銀行",
         "PayPal"
       ]
     },
@@ -5178,7 +4331,6 @@
       "url": "https://roo.cash/blog/quantum-computing-stock/",
       "filename": "article_428_content.txt",
       "partners": [
-        "台灣銀行",
         "Google Pay",
         "台股"
       ]
@@ -5188,23 +4340,14 @@
       "url": "https://roo.cash/blog/nccc-micro-payment-article/",
       "filename": "article_29_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "彰化銀行",
-        "華南銀行",
-        "第一銀行",
-        "合作金庫銀行",
-        "台灣銀行",
         "台北富邦銀行",
-        "新光銀行",
-        "遠東銀行",
         "華泰銀行",
         "星展銀行",
         "台中銀行",
         "台灣土地銀行",
+        "樂天銀行",
         "LINE Pay",
         "Apple Pay",
         "Google Pay"
@@ -5215,10 +4358,6 @@
       "url": "https://roo.cash/blog/house-tax-payment/",
       "filename": "article_458_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -5227,7 +4366,10 @@
       "url": "https://roo.cash/blog/cathay-vs-esun/",
       "filename": "article_108_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "玉山銀行",
+        "渣打銀行",
+        "國泰銀行"
       ]
     },
     {
@@ -5235,7 +4377,8 @@
       "url": "https://roo.cash/blog/integrate-debt-restore-credit-score/",
       "filename": "article_156_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -5243,21 +4386,7 @@
       "url": "https://roo.cash/blog/house-and-land-transactions-income-tax-new/",
       "filename": "article_406_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
-      ]
-    },
-    {
-      "title": "article_280_content",
-      "url": "https://roo.cash/blog/insurance-scooter-roadside/",
-      "filename": "article_280_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
       ]
     },
     {
@@ -5266,8 +4395,6 @@
       "filename": "article_17_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -5278,10 +4405,7 @@
       "filename": "article_20_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -5291,16 +4415,15 @@
       "url": "無連結",
       "filename": "article_173_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
+        "富邦銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "華南銀行",
         "台北富邦銀行",
-        "新光銀行",
-        "遠東銀行",
         "星展銀行",
+        "樂天銀行",
+        "渣打銀行",
+        "台新國際商業銀行",
+        "匯豐銀行",
         "LINE Pay"
       ]
     },
@@ -5310,8 +4433,7 @@
       "filename": "article_564_content.txt",
       "partners": [
         "滙豐銀行",
-        "國泰世華銀行",
-        "遠東銀行"
+        "國泰世華銀行"
       ]
     },
     {
@@ -5319,7 +4441,8 @@
       "url": "https://roo.cash/blog/credit-analysis/",
       "filename": "article_126_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -5327,12 +4450,7 @@
       "url": "https://roo.cash/blog/tax-mobile-citizen-digital-certificate/",
       "filename": "article_476_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "第一銀行",
         "星展銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -5341,9 +4459,6 @@
       "url": "無連結",
       "filename": "article_278_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -5353,8 +4468,6 @@
       "filename": "article_439_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -5372,18 +4485,8 @@
       "url": "無連結",
       "filename": "article_75_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "第一銀行",
-        "台灣銀行",
-        "新光銀行",
-        "遠東銀行",
-        "永豐投信",
-        "台新投信",
-        "新光投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -5397,7 +4500,8 @@
       "url": "無連結",
       "filename": "article_126_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -5406,7 +4510,8 @@
       "filename": "article_111_tables.txt",
       "partners": [
         "富邦銀行",
-        "永豐銀行"
+        "遠東商銀",
+        "渣打銀行"
       ]
     },
     {
@@ -5422,11 +4527,7 @@
       "url": "無連結",
       "filename": "article_42_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -5441,8 +4542,7 @@
       "filename": "article_508_content.txt",
       "partners": [
         "滙豐銀行",
-        "國泰世華銀行",
-        "遠東銀行"
+        "國泰世華銀行"
       ]
     },
     {
@@ -5450,13 +4550,8 @@
       "url": "無連結",
       "filename": "article_96_tables.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
+        "樂天銀行",
         "Garmin Pay",
         "LINE Pay",
         "Apple Pay",
@@ -5479,7 +4574,6 @@
       "url": "https://roo.cash/blog/japan-mobilepayment/",
       "filename": "article_96_content.txt",
       "partners": [
-        "富邦銀行",
         "Apple Pay"
       ]
     },
@@ -5488,23 +4582,10 @@
       "url": "無連結",
       "filename": "article_9_tables.txt",
       "partners": [
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "Apple Pay",
         "PayPal",
         "美股"
-      ]
-    },
-    {
-      "title": "article_261_content",
-      "url": "https://roo.cash/blog/motorcycle-insurance-introduction/",
-      "filename": "article_261_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
       ]
     },
     {
@@ -5521,11 +4602,7 @@
       "url": "無連結",
       "filename": "article_470_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -5547,10 +4624,6 @@
       "url": "https://roo.cash/blog/nhi-card-and-phone-income-tax-comparison/",
       "filename": "article_444_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -5559,8 +4632,8 @@
       "url": "https://roo.cash/blog/kgibank-loan/",
       "filename": "article_114_content.txt",
       "partners": [
-        "永豐銀行",
-        "凱基投信"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -5569,7 +4642,6 @@
       "filename": "article_325_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "台北富邦銀行"
       ]
     },
@@ -5578,11 +4650,7 @@
       "url": "無連結",
       "filename": "article_447_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -5596,7 +4664,8 @@
       "url": "無連結",
       "filename": "article_158_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -5613,10 +4682,7 @@
       "filename": "article_564_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -5634,7 +4700,8 @@
       "url": "無連結",
       "filename": "article_231_tables.txt",
       "partners": [
-        "LINE Pay"
+        "LINE Pay",
+        "富邦人壽"
       ]
     },
     {
@@ -5657,10 +4724,6 @@
       "url": "https://roo.cash/blog/sushi-express-credit-cards/",
       "filename": "article_45_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -5672,10 +4735,6 @@
       "url": "https://roo.cash/blog/year-end-bonus-tax/",
       "filename": "article_434_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -5684,11 +4743,7 @@
       "url": "無連結",
       "filename": "article_412_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -5702,11 +4757,8 @@
       "url": "https://roo.cash/blog/loan-repayment-in-advance/",
       "filename": "article_164_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信"
+        "富邦銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -5715,8 +4767,6 @@
       "filename": "article_425_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -5727,8 +4777,6 @@
       "filename": "article_69_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -5739,10 +4787,7 @@
       "filename": "article_506_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -5756,11 +4801,23 @@
       ]
     },
     {
+      "title": "article_253_tables",
+      "url": "無連結",
+      "filename": "article_253_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "新光人壽",
+        "明台產險",
+        "和泰產險"
+      ]
+    },
+    {
       "title": "article_199_content",
       "url": "https://roo.cash/blog/business-tax-return-401/",
       "filename": "article_199_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -5769,8 +4826,7 @@
       "filename": "article_556_content.txt",
       "partners": [
         "滙豐銀行",
-        "國泰世華銀行",
-        "遠東銀行"
+        "國泰世華銀行"
       ]
     },
     {
@@ -5778,7 +4834,23 @@
       "url": "https://roo.cash/blog/revolving-loan/",
       "filename": "article_101_content.txt",
       "partners": [
-        "台新銀行"
+        "富邦銀行",
+        "遠東商銀",
+        "渣打銀行",
+        "台新國際商業銀行",
+        "匯豐銀行"
+      ]
+    },
+    {
+      "title": "article_242_tables",
+      "url": "無連結",
+      "filename": "article_242_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "明台產險",
+        "和泰產險"
       ]
     },
     {
@@ -5786,10 +4858,6 @@
       "url": "https://roo.cash/blog/income-tax-withholding-tax-statement/",
       "filename": "article_451_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -5798,11 +4866,6 @@
       "url": "https://roo.cash/blog/starbucks-deposit-credit-cards/",
       "filename": "article_20_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "LINE Pay",
         "Apple Pay",
@@ -5826,9 +4889,6 @@
       "url": "無連結",
       "filename": "article_275_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -5837,11 +4897,7 @@
       "url": "無連結",
       "filename": "article_434_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -5856,8 +4912,6 @@
       "filename": "article_78_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -5879,11 +4933,7 @@
       "url": "無連結",
       "filename": "article_403_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -5897,9 +4947,9 @@
       "url": "https://roo.cash/blog/government-loan-recommendation/",
       "filename": "article_171_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "第一銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -5907,12 +4957,7 @@
       "url": "https://roo.cash/blog/tax-installment-pros-and-cons/",
       "filename": "article_421_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "新光銀行",
         "台灣企銀",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -5921,17 +4966,8 @@
       "url": "https://roo.cash/blog/online-shopping-creditcard-comparison/",
       "filename": "article_50_content.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "彰化銀行",
-        "新光銀行",
         "星展銀行",
-        "國泰投信",
-        "台新投信",
-        "兆豐投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -5943,18 +4979,7 @@
       "url": "無連結",
       "filename": "article_220_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
-      ]
-    },
-    {
-      "title": "article_338_content",
-      "url": "https://roo.cash/blog/foreign-currency-account/",
-      "filename": "article_338_content.txt",
-      "partners": [
-        "凱基投信"
       ]
     },
     {
@@ -5971,8 +4996,6 @@
       "filename": "article_575_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "Garmin Pay",
         "Apple Pay",
         "Google Pay",
@@ -5980,27 +5003,11 @@
       ]
     },
     {
-      "title": "article_334_tables",
-      "url": "無連結",
-      "filename": "article_334_tables.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "台新銀行",
-        "華南銀行",
-        "第一銀行"
-      ]
-    },
-    {
       "title": "article_456_tables",
       "url": "無連結",
       "filename": "article_456_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -6010,26 +5017,14 @@
       ]
     },
     {
-      "title": "article_461_tables",
-      "url": "無連結",
-      "filename": "article_461_tables.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
-      ]
-    },
-    {
       "title": "article_181_tables",
       "url": "無連結",
       "filename": "article_181_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
+        "富邦銀行",
         "國泰世華銀行",
-        "華南銀行",
-        "合作金庫銀行",
-        "星展銀行"
+        "星展銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -6037,10 +5032,6 @@
       "url": "https://roo.cash/blog/tax-calculation-notice/",
       "filename": "article_482_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -6049,7 +5040,6 @@
       "url": "https://roo.cash/blog/music-platform-creditcard-recommendation/",
       "filename": "article_9_content.txt",
       "partners": [
-        "永豐銀行",
         "國泰世華銀行",
         "Apple Pay"
       ]
@@ -6067,7 +5057,6 @@
       "url": "https://roo.cash/blog/line-bank-debit-card-introduction/",
       "filename": "article_83_content.txt",
       "partners": [
-        "遠東銀行",
         "LINE Pay"
       ]
     },
@@ -6076,27 +5065,13 @@
       "url": "無連結",
       "filename": "article_87_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "Apple Pay",
         "Google Pay",
         "Samsung Pay",
         "PayPal",
         "美股"
-      ]
-    },
-    {
-      "title": "article_274_content",
-      "url": "https://roo.cash/blog/entire-travel-insurance/",
-      "filename": "article_274_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
       ]
     },
     {
@@ -6108,24 +5083,10 @@
       ]
     },
     {
-      "title": "article_289_content",
-      "url": "https://roo.cash/blog/scooter-third-party-liability-insurance/",
-      "filename": "article_289_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
-      ]
-    },
-    {
       "title": "article_413_content",
       "url": "https://roo.cash/blog/tax-citizen-certificate-expired/",
       "filename": "article_413_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -6134,11 +5095,7 @@
       "url": "無連結",
       "filename": "article_53_tables.txt",
       "partners": [
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
-        "凱基投信",
         "PayPal",
         "美股"
       ]
@@ -6149,8 +5106,6 @@
       "filename": "article_100_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "Google Pay",
         "PayPal",
         "美股"
@@ -6180,8 +5135,6 @@
       "filename": "article_64_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -6196,13 +5149,11 @@
       ]
     },
     {
-      "title": "article_268_content",
-      "url": "https://roo.cash/blog/oversea-travel-accident-insurance/",
-      "filename": "article_268_content.txt",
+      "title": "article_269_tables",
+      "url": "無連結",
+      "filename": "article_269_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "富邦人壽"
       ]
     },
     {
@@ -6210,7 +5161,9 @@
       "url": "無連結",
       "filename": "article_162_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -6218,7 +5171,9 @@
       "url": "https://roo.cash/blog/2022-youth-entrepreneurs-loan/",
       "filename": "article_133_content.txt",
       "partners": [
-        "台新銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -6226,10 +5181,8 @@
       "url": "無連結",
       "filename": "article_31_tables.txt",
       "partners": [
-        "富邦銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
+        "匯豐銀行",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -6243,7 +5196,6 @@
       "url": "https://roo.cash/blog/spotify-creditcard-recommendations/",
       "filename": "article_12_content.txt",
       "partners": [
-        "國泰投信",
         "PayPal"
       ]
     },
@@ -6252,12 +5204,7 @@
       "url": "無連結",
       "filename": "article_328_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "台新銀行",
-        "國泰世華銀行",
-        "華南銀行",
-        "第一銀行"
+        "國泰世華銀行"
       ]
     },
     {
@@ -6265,7 +5212,19 @@
       "url": "無連結",
       "filename": "article_155_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
+      ]
+    },
+    {
+      "title": "article_218_content",
+      "url": "https://roo.cash/blog/car-insurance-faqs/",
+      "filename": "article_218_content.txt",
+      "partners": [
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "安達保險"
       ]
     },
     {
@@ -6291,9 +5250,6 @@
       "filename": "article_4_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "華南銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -6312,11 +5268,7 @@
       "url": "無連結",
       "filename": "article_482_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -6330,12 +5282,7 @@
       "url": "https://roo.cash/blog/travel-inconvenience-insurance/",
       "filename": "article_236_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "永豐投信",
-        "台新投信",
         "美股"
       ]
     },
@@ -6373,10 +5320,12 @@
       "url": "無連結",
       "filename": "article_184_tables.txt",
       "partners": [
-        "永豐銀行",
+        "富邦銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台北富邦銀行"
+        "台北富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -6384,10 +5333,9 @@
       "url": "https://roo.cash/blog/airport-travel-safety-insurance/",
       "filename": "article_271_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "國泰投信",
-        "永豐投信"
+        "國泰人壽",
+        "新光人壽",
+        "台灣人壽"
       ]
     },
     {
@@ -6404,18 +5352,8 @@
       "filename": "article_82_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
-      ]
-    },
-    {
-      "title": "article_487_content",
-      "url": "https://roo.cash/blog/mazu-birthday-article/",
-      "filename": "article_487_content.txt",
-      "partners": [
-        "彰化銀行"
       ]
     },
     {
@@ -6435,11 +5373,7 @@
       "url": "無連結",
       "filename": "article_406_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -6453,10 +5387,9 @@
       "url": "無連結",
       "filename": "article_119_tables.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
+        "富邦銀行",
         "國泰世華銀行",
-        "華南銀行",
+        "渣打銀行",
         "富邦證券",
         "中信證券",
         "國泰證券",
@@ -6468,17 +5401,21 @@
       "url": "無連結",
       "filename": "article_431_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
         "Samsung Pay",
         "PayPal",
         "美股"
+      ]
+    },
+    {
+      "title": "article_189_content",
+      "url": "https://roo.cash/blog/pawn-shop-interest-continue-article/",
+      "filename": "article_189_content.txt",
+      "partners": [
+        "匯豐銀行"
       ]
     },
     {
@@ -6494,10 +5431,6 @@
       "url": "https://roo.cash/blog/house-tax-pay-prove-overdue-payment/",
       "filename": "article_424_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -6506,10 +5439,7 @@
       "url": "https://roo.cash/blog/kura-sush-credit-cardi/",
       "filename": "article_55_content.txt",
       "partners": [
-        "中信銀行",
         "滙豐銀行",
-        "國泰投信",
-        "中信投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -6521,10 +5451,15 @@
       "url": "無連結",
       "filename": "article_270_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
+      ]
+    },
+    {
+      "title": "article_247_tables",
+      "url": "無連結",
+      "filename": "article_247_tables.txt",
+      "partners": [
+        "富邦人壽"
       ]
     },
     {
@@ -6540,11 +5475,7 @@
       "url": "無連結",
       "filename": "article_28_tables.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "PayPal",
@@ -6557,10 +5488,7 @@
       "filename": "article_536_content.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "國泰世華銀行",
-        "遠東銀行",
-        "台新投信"
+        "國泰世華銀行"
       ]
     },
     {
@@ -6568,11 +5496,7 @@
       "url": "無連結",
       "filename": "article_453_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -6586,7 +5510,8 @@
       "url": "https://roo.cash/blog/loan-customer-service-hotline/",
       "filename": "article_104_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -6594,11 +5519,15 @@
       "url": "https://roo.cash/blog/income-tax-split-bill/",
       "filename": "article_454_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
+      ]
+    },
+    {
+      "title": "article_212_tables",
+      "url": "無連結",
+      "filename": "article_212_tables.txt",
+      "partners": [
+        "富邦人壽"
       ]
     },
     {
@@ -6610,13 +5539,21 @@
       ]
     },
     {
+      "title": "article_225_tables",
+      "url": "無連結",
+      "filename": "article_225_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽"
+      ]
+    },
+    {
       "title": "article_487_tables",
       "url": "無連結",
       "filename": "article_487_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -6634,7 +5571,8 @@
       "url": "無連結",
       "filename": "article_198_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -6642,8 +5580,9 @@
       "url": "https://roo.cash/blog/esun-credit-loan/",
       "filename": "article_118_content.txt",
       "partners": [
+        "富邦銀行",
         "玉山銀行",
-        "永豐銀行"
+        "渣打銀行"
       ]
     },
     {
@@ -6651,10 +5590,6 @@
       "url": "https://roo.cash/blog/civil-law-18-tax-new-system/",
       "filename": "article_448_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -6663,9 +5598,6 @@
       "url": "https://roo.cash/blog/tv-credit-card-article/",
       "filename": "article_39_content.txt",
       "partners": [
-        "台新銀行",
-        "第一銀行",
-        "台灣銀行",
         "台北富邦銀行",
         "LINE Pay"
       ]
@@ -6676,8 +5608,6 @@
       "filename": "article_1_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -6687,8 +5617,7 @@
       "url": "https://roo.cash/blog/infectious-diseases-travel-insurance/",
       "filename": "article_233_content.txt",
       "partners": [
-        "華南銀行",
-        "華南投信"
+        "新光人壽"
       ]
     },
     {
@@ -6710,7 +5639,9 @@
       "url": "https://roo.cash/blog/salary-statement/",
       "filename": "article_168_content.txt",
       "partners": [
-        "台新銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -6718,21 +5649,8 @@
       "url": "https://roo.cash/blog/land-value-tax-search/",
       "filename": "article_438_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Google Pay"
-      ]
-    },
-    {
-      "title": "article_49_content",
-      "url": "https://roo.cash/blog/overseas-spending-creditcard-recommendation/",
-      "filename": "article_49_content.txt",
-      "partners": [
-        "台新銀行",
-        "台新投信"
       ]
     },
     {
@@ -6741,10 +5659,7 @@
       "filename": "article_539_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -6772,10 +5687,7 @@
       "filename": "article_61_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "LINE Pay",
         "PayPal",
         "美股"
@@ -6786,14 +5698,6 @@
       "url": "https://roo.cash/blog/phone-income-tax/",
       "filename": "article_466_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "台新銀行",
-        "華南銀行",
-        "第一銀行",
-        "合作金庫銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -6802,7 +5706,9 @@
       "url": "無連結",
       "filename": "article_132_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -6810,17 +5716,8 @@
       "url": "https://roo.cash/blog/food-delivery-loan-comparison/",
       "filename": "article_136_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行"
-      ]
-    },
-    {
-      "title": "article_17_content",
-      "url": "https://roo.cash/blog/creditcard-general-consumption/",
-      "filename": "article_17_content.txt",
-      "partners": [
-        "華南銀行",
-        "第一銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -6844,7 +5741,8 @@
       "url": "無連結",
       "filename": "article_105_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -6852,12 +5750,7 @@
       "url": "無連結",
       "filename": "article_56_tables.txt",
       "partners": [
-        "富邦銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -6867,9 +5760,7 @@
       "url": "無連結",
       "filename": "article_239_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "富邦人壽"
       ]
     },
     {
@@ -6877,21 +5768,7 @@
       "url": "https://roo.cash/blog/how-to-calculate-income-tax/",
       "filename": "article_416_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
-      ]
-    },
-    {
-      "title": "article_67_content",
-      "url": "https://roo.cash/blog/pchome-pi-comparison/",
-      "filename": "article_67_content.txt",
-      "partners": [
-        "玉山銀行",
-        "中信銀行",
-        "中信投信"
       ]
     },
     {
@@ -6899,11 +5776,7 @@
       "url": "無連結",
       "filename": "article_478_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -6918,8 +5791,6 @@
       "filename": "article_34_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -6929,7 +5800,8 @@
       "url": "無連結",
       "filename": "article_167_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -6937,10 +5809,10 @@
       "url": "https://roo.cash/blog/car-insurance-a/",
       "filename": "article_290_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
-        "LINE Pay"
+        "LINE Pay",
+        "富邦人壽",
+        "新安東京海上保險",
+        "明台產險"
       ]
     },
     {
@@ -6948,13 +5820,7 @@
       "url": "https://roo.cash/blog/convenience-store-tax/",
       "filename": "article_397_content.txt",
       "partners": [
-        "富邦銀行",
-        "永豐銀行",
-        "台新銀行",
-        "新光銀行",
-        "永豐投信",
-        "台新投信",
-        "新光投信",
+        "渣打銀行",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -6966,11 +5832,7 @@
       "url": "無連結",
       "filename": "article_469_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -6985,26 +5847,8 @@
       "filename": "article_25_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
-      ]
-    },
-    {
-      "title": "article_208_content",
-      "url": "https://roo.cash/blog/travel-insurence-cradit-card-esun-ubear/",
-      "filename": "article_208_content.txt",
-      "partners": [
-        "玉山銀行"
-      ]
-    },
-    {
-      "title": "article_5_content",
-      "url": "https://roo.cash/blog/net-credit-cards/",
-      "filename": "article_5_content.txt",
-      "partners": [
-        "玉山銀行"
       ]
     },
     {
@@ -7013,10 +5857,7 @@
       "filename": "article_511_content.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "LINE Pay",
         "Google Pay"
       ]
@@ -7026,13 +5867,8 @@
       "url": "無連結",
       "filename": "article_12_tables.txt",
       "partners": [
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "國泰投信",
-        "台新投信",
-        "凱基投信",
         "LINE Pay",
         "PayPal",
         "美股"
@@ -7043,7 +5879,16 @@
       "url": "https://roo.cash/blog/integrate-debt-fraud-trap/",
       "filename": "article_123_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
+      ]
+    },
+    {
+      "title": "article_228_tables",
+      "url": "無連結",
+      "filename": "article_228_tables.txt",
+      "partners": [
+        "富邦人壽"
       ]
     },
     {
@@ -7062,28 +5907,13 @@
       ]
     },
     {
-      "title": "article_278_content",
-      "url": "https://roo.cash/blog/courier-insurance-article/",
-      "filename": "article_278_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
-      ]
-    },
-    {
       "title": "article_47_tables",
       "url": "無連結",
       "filename": "article_47_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "永豐投信",
-        "台新投信",
-        "兆豐投信",
+        "樂天銀行",
         "PayPal",
         "美股"
       ]
@@ -7093,7 +5923,9 @@
       "url": "無連結",
       "filename": "article_114_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "遠東商銀",
+        "渣打銀行"
       ]
     },
     {
@@ -7101,7 +5933,9 @@
       "url": "無連結",
       "filename": "article_123_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -7109,17 +5943,10 @@
       "url": "無連結",
       "filename": "article_70_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "彰化銀行",
-        "第一銀行",
         "台北富邦銀行",
-        "新光銀行",
         "台中銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -7130,10 +5957,7 @@
       "filename": "article_561_content.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "國泰世華銀行",
-        "遠東銀行",
-        "台新投信"
+        "國泰世華銀行"
       ]
     },
     {
@@ -7142,8 +5966,6 @@
       "filename": "article_72_content.txt",
       "partners": [
         "國泰世華銀行",
-        "遠東銀行",
-        "國泰投信",
         "Apple Pay",
         "Google Pay",
         "美股"
@@ -7154,7 +5976,8 @@
       "url": "https://roo.cash/blog/reasonable-loan-rate/",
       "filename": "article_153_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -7162,10 +5985,6 @@
       "url": "https://roo.cash/blog/tax-abandon-inheritance/",
       "filename": "article_403_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -7174,12 +5993,7 @@
       "url": "https://roo.cash/blog/jko-insurance/",
       "filename": "article_285_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信"
+        "滙豐銀行"
       ]
     },
     {
@@ -7197,9 +6011,6 @@
       "url": "無連結",
       "filename": "article_282_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -7208,18 +6019,8 @@
       "url": "無連結",
       "filename": "article_396_tables.txt",
       "partners": [
-        "玉山銀行",
-        "中信銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "華南銀行",
-        "合作金庫銀行",
-        "台灣銀行",
         "台灣企銀",
-        "永豐投信",
-        "台新投信",
-        "中信投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -7229,38 +6030,14 @@
       ]
     },
     {
-      "title": "article_334_content",
-      "url": "https://roo.cash/blog/travel-exchange-money-fee/",
-      "filename": "article_334_content.txt",
-      "partners": [
-        "富邦銀行",
-        "台新銀行",
-        "遠東銀行",
-        "台新投信"
-      ]
-    },
-    {
       "title": "article_582_tables",
       "url": "無連結",
       "filename": "article_582_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
-      ]
-    },
-    {
-      "title": "article_256_content",
-      "url": "https://roo.cash/blog/car-crash-reparation-article/",
-      "filename": "article_256_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
       ]
     },
     {
@@ -7269,10 +6046,7 @@
       "filename": "article_556_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -7282,10 +6056,18 @@
       "url": "無連結",
       "filename": "article_234_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "星展銀行",
-        "永豐投信"
+        "富邦人壽"
+      ]
+    },
+    {
+      "title": "article_203_tables",
+      "url": "無連結",
+      "filename": "article_203_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "新光人壽",
+        "明台產險"
       ]
     },
     {
@@ -7294,8 +6076,7 @@
       "filename": "article_561_tables.txt",
       "partners": [
         "滙豐銀行",
-        "國泰世華銀行",
-        "遠東銀行"
+        "國泰世華銀行"
       ]
     },
     {
@@ -7303,11 +6084,6 @@
       "url": "https://roo.cash/blog/travel-fair-credit-cards-discount-article/",
       "filename": "article_40_content.txt",
       "partners": [
-        "富邦銀行",
-        "中信銀行",
-        "永豐銀行",
-        "永豐投信",
-        "中信投信",
         "LINE Pay"
       ]
     },
@@ -7316,11 +6092,7 @@
       "url": "無連結",
       "filename": "article_442_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -7334,13 +6106,6 @@
       "url": "https://roo.cash/blog/line-pay-tax/",
       "filename": "article_431_content.txt",
       "partners": [
-        "富邦銀行",
-        "永豐銀行",
-        "台新銀行",
-        "新光銀行",
-        "遠東銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -7349,11 +6114,7 @@
       "url": "無連結",
       "filename": "article_475_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -7368,8 +6129,6 @@
       "filename": "article_39_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -7379,11 +6138,7 @@
       "url": "https://roo.cash/blog/travel-how-to-exchange-money/",
       "filename": "article_328_content.txt",
       "partners": [
-        "台新銀行",
-        "國泰世華銀行",
-        "第一銀行",
-        "國泰投信",
-        "台新投信"
+        "國泰世華銀行"
       ]
     },
     {
@@ -7391,7 +6146,6 @@
       "url": "無連結",
       "filename": "article_317_tables.txt",
       "partners": [
-        "富邦銀行",
         "富邦證券",
         "康和證券",
         "永豐金證券",
@@ -7403,9 +6157,7 @@
         "華南永昌證券",
         "群益證券",
         "凱基證券",
-        "元大投信",
-        "國泰投信",
-        "凱基投信"
+        "元大投信"
       ]
     },
     {
@@ -7413,9 +6165,6 @@
       "url": "無連結",
       "filename": "article_256_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -7425,10 +6174,7 @@
       "filename": "article_534_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -7438,9 +6184,6 @@
       "url": "無連結",
       "filename": "article_261_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -7449,11 +6192,7 @@
       "url": "無連結",
       "filename": "article_420_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -7468,9 +6207,6 @@
       "filename": "article_30_content.txt",
       "partners": [
         "滙豐銀行",
-        "新光銀行",
-        "國泰投信",
-        "新光投信",
         "Apple Pay",
         "Google Pay",
         "PayPal",
@@ -7483,11 +6219,8 @@
       "filename": "article_111_content.txt",
       "partners": [
         "富邦銀行",
-        "中信銀行",
-        "台新銀行",
-        "遠東銀行",
-        "中信投信",
-        "凱基投信"
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -7511,7 +6244,9 @@
       "url": "無連結",
       "filename": "article_108_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "遠東商銀",
+        "渣打銀行"
       ]
     },
     {
@@ -7519,13 +6254,8 @@
       "url": "無連結",
       "filename": "article_417_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "第一銀行",
         "星展銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -7565,8 +6295,6 @@
       "filename": "article_93_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -7578,18 +6306,7 @@
       "partners": [
         "滙豐銀行",
         "國泰世華銀行",
-        "遠東銀行",
         "LINE Pay"
-      ]
-    },
-    {
-      "title": "article_93_content",
-      "url": "https://roo.cash/blog/e-sun-credit-card-verification/",
-      "filename": "article_93_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
       ]
     },
     {
@@ -7606,10 +6323,10 @@
       "url": "https://roo.cash/blog/domestic-creditcard-travel-insurance/",
       "filename": "article_267_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
-        "LINE Pay"
+        "LINE Pay",
+        "富邦人壽",
+        "國泰人壽",
+        "明台產險"
       ]
     },
     {
@@ -7617,8 +6334,6 @@
       "url": "https://roo.cash/blog/fubon-credit-card-recommendation/",
       "filename": "article_90_content.txt",
       "partners": [
-        "富邦銀行",
-        "國泰投信",
         "美股"
       ]
     },
@@ -7629,7 +6344,6 @@
       "partners": [
         "滙豐銀行",
         "國泰世華銀行",
-        "遠東銀行",
         "LINE Pay"
       ]
     },
@@ -7639,8 +6353,6 @@
       "filename": "article_94_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -7676,11 +6388,7 @@
       "url": "無連結",
       "filename": "article_445_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -7694,12 +6402,6 @@
       "url": "https://roo.cash/blog/taipei-101-credit-card/",
       "filename": "article_43_content.txt",
       "partners": [
-        "玉山銀行",
-        "台新銀行",
-        "新光銀行",
-        "遠東銀行",
-        "國泰投信",
-        "台新投信",
         "亮點App"
       ]
     },
@@ -7716,16 +6418,27 @@
       "url": "https://roo.cash/blog/financial-statement/",
       "filename": "article_162_content.txt",
       "partners": [
-        "台新銀行",
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行",
+        "匯豐銀行",
         "基金"
       ]
     },
     {
-      "title": "article_249_content",
-      "url": "https://roo.cash/blog/travel-accident-insurance-esun/",
-      "filename": "article_249_content.txt",
+      "title": "article_233_tables",
+      "url": "無連結",
+      "filename": "article_233_tables.txt",
       "partners": [
-        "玉山銀行"
+        "富邦人壽"
+      ]
+    },
+    {
+      "title": "article_204_tables",
+      "url": "無連結",
+      "filename": "article_204_tables.txt",
+      "partners": [
+        "富邦人壽"
       ]
     },
     {
@@ -7733,11 +6446,7 @@
       "url": "無連結",
       "filename": "article_427_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -7751,11 +6460,7 @@
       "url": "無連結",
       "filename": "article_410_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -7769,25 +6474,15 @@
       "url": "https://roo.cash/blog/income-tax/",
       "filename": "article_33_content.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "中信銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "彰化銀行",
-        "華南銀行",
-        "第一銀行",
-        "合作金庫銀行",
-        "台灣銀行",
-        "新光銀行",
         "星展銀行",
         "台灣土地銀行",
         "台灣企銀",
+        "遠東商銀",
+        "樂天銀行",
+        "渣打銀行",
         "元大投信",
-        "台新投信",
-        "中信投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -7799,10 +6494,6 @@
       "url": "https://roo.cash/blog/tax-labor-pension/",
       "filename": "article_442_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -7826,7 +6517,19 @@
       "url": "https://roo.cash/blog/loan-rates-calculation/",
       "filename": "article_112_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
+      ]
+    },
+    {
+      "title": "article_251_tables",
+      "url": "無連結",
+      "filename": "article_251_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "新光人壽",
+        "明台產險",
+        "和泰產險"
       ]
     },
     {
@@ -7834,10 +6537,12 @@
       "url": "無連結",
       "filename": "article_266_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
-        "LINE Pay"
+        "LINE Pay",
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "明台產險",
+        "和泰產險"
       ]
     },
     {
@@ -7845,9 +6550,8 @@
       "url": "https://roo.cash/blog/sudden-illness-travel-insurance-article/",
       "filename": "article_239_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "台灣人壽",
+        "安達保險"
       ]
     },
     {
@@ -7855,12 +6559,7 @@
       "url": "無連結",
       "filename": "article_88_tables.txt",
       "partners": [
-        "富邦銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "PayPal",
         "美股"
@@ -7871,16 +6570,12 @@
       "url": "無連結",
       "filename": "article_285_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "Apple Pay",
         "Google Pay",
-        "Samsung Pay"
+        "Samsung Pay",
+        "富邦人壽"
       ]
     },
     {
@@ -7897,9 +6592,7 @@
       "url": "https://roo.cash/blog/excess-liability-insurance/",
       "filename": "article_255_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "國泰人壽"
       ]
     },
     {
@@ -7907,10 +6600,11 @@
       "url": "https://roo.cash/blog/student-loan-payment/",
       "filename": "article_183_content.txt",
       "partners": [
-        "台新銀行",
-        "台灣銀行",
+        "富邦銀行",
         "台北富邦銀行",
-        "台灣土地銀行"
+        "台灣土地銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -7926,7 +6620,6 @@
       "url": "https://roo.cash/blog/mu-stock-article/",
       "filename": "article_369_content.txt",
       "partners": [
-        "台灣銀行",
         "美股"
       ]
     },
@@ -7935,7 +6628,9 @@
       "url": "https://roo.cash/blog/policy-loan/",
       "filename": "article_120_content.txt",
       "partners": [
-        "台新銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -7943,10 +6638,6 @@
       "url": "https://roo.cash/blog/standard-deduction-vs-itemized-deduction/",
       "filename": "article_470_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -7955,11 +6646,7 @@
       "url": "https://roo.cash/blog/nitori-credit-card/",
       "filename": "article_6_content.txt",
       "partners": [
-        "富邦銀行",
-        "永豐銀行",
-        "台新銀行",
         "台北富邦銀行",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay"
@@ -7970,12 +6657,11 @@
       "url": "無連結",
       "filename": "article_171_tables.txt",
       "partners": [
-        "永豐銀行",
+        "富邦銀行",
         "滙豐銀行",
-        "華南銀行",
-        "第一銀行",
-        "合作金庫銀行",
-        "台灣土地銀行"
+        "台灣土地銀行",
+        "渣打銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -7991,11 +6677,7 @@
       "url": "無連結",
       "filename": "article_22_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "Apple Pay",
         "Google Pay",
@@ -8009,11 +6691,7 @@
       "url": "無連結",
       "filename": "article_459_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -8023,27 +6701,11 @@
       ]
     },
     {
-      "title": "article_394_content",
-      "url": "https://roo.cash/blog/golf-insurence-hole-in-one/",
-      "filename": "article_394_content.txt",
-      "partners": [
-        "華南銀行",
-        "國泰投信",
-        "華南投信"
-      ]
-    },
-    {
       "title": "article_15_tables",
       "url": "無連結",
       "filename": "article_15_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
-        "凱基投信",
         "PayPal",
         "美股"
       ]
@@ -8053,13 +6715,9 @@
       "url": "https://roo.cash/blog/line-pay-insurance/",
       "filename": "article_286_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
-        "LINE Pay"
+        "LINE Pay",
+        "富邦人壽"
       ]
     },
     {
@@ -8075,10 +6733,6 @@
       "url": "https://roo.cash/blog/mobilebill-creditcard-recommendation/",
       "filename": "article_71_content.txt",
       "partners": [
-        "富邦銀行",
-        "台新銀行",
-        "台新投信",
-        "凱基投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -8091,14 +6745,6 @@
       "url": "https://roo.cash/blog/license-tax-search/",
       "filename": "article_400_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "台新銀行",
-        "台灣銀行",
-        "遠東銀行",
-        "國泰投信",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -8110,13 +6756,8 @@
       "url": "無連結",
       "filename": "article_40_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "台北富邦銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "LINE Pay",
         "Apple Pay",
@@ -8131,10 +6772,8 @@
       "url": "https://roo.cash/blog/tp-tea-drink-recommendation/",
       "filename": "article_562_content.txt",
       "partners": [
-        "玉山銀行",
         "滙豐銀行",
-        "國泰世華銀行",
-        "遠東銀行"
+        "國泰世華銀行"
       ]
     },
     {
@@ -8142,7 +6781,8 @@
       "url": "無連結",
       "filename": "article_124_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -8150,11 +6790,7 @@
       "url": "無連結",
       "filename": "article_77_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "Apple Pay",
         "Google Pay",
@@ -8178,8 +6814,6 @@
       "filename": "article_66_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -8189,10 +6823,10 @@
       "url": "無連結",
       "filename": "article_135_tables.txt",
       "partners": [
-        "永豐銀行",
+        "富邦銀行",
         "滙豐銀行",
-        "第一銀行",
-        "新光銀行"
+        "渣打銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -8200,10 +6834,6 @@
       "url": "https://roo.cash/blog/medical-expense-itemized-deduction-notice/",
       "filename": "article_465_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -8212,7 +6842,8 @@
       "url": "https://roo.cash/blog/loan-financial-industry/",
       "filename": "article_135_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -8221,21 +6852,9 @@
       "filename": "article_51_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "國泰投信",
-        "台新投信",
         "LINE Pay",
         "PayPal",
         "美股"
-      ]
-    },
-    {
-      "title": "article_14_content",
-      "url": "https://roo.cash/blog/taiwan-travel-creditcard-recommendation/",
-      "filename": "article_14_content.txt",
-      "partners": [
-        "第一銀行",
-        "國泰投信"
       ]
     },
     {
@@ -8244,8 +6863,7 @@
       "filename": "article_507_content.txt",
       "partners": [
         "滙豐銀行",
-        "國泰世華銀行",
-        "遠東銀行"
+        "國泰世華銀行"
       ]
     },
     {
@@ -8271,10 +6889,7 @@
       "filename": "article_509_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -8284,8 +6899,8 @@
       "url": "無連結",
       "filename": "article_157_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -8293,11 +6908,7 @@
       "url": "無連結",
       "filename": "article_448_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -8311,10 +6922,6 @@
       "url": "https://roo.cash/blog/exemption-tax/",
       "filename": "article_415_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -8323,11 +6930,7 @@
       "url": "無連結",
       "filename": "article_33_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -8341,9 +6944,11 @@
       "url": "無連結",
       "filename": "article_160_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "滙豐銀行"
+        "富邦銀行",
+        "滙豐銀行",
+        "渣打銀行",
+        "台新國際商業銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -8359,10 +6964,17 @@
       "url": "https://roo.cash/blog/tk3c-credit-cards/",
       "filename": "article_99_content.txt",
       "partners": [
-        "玉山銀行",
         "星展銀行",
         "LINE Pay",
         "Apple Pay"
+      ]
+    },
+    {
+      "title": "article_209_tables",
+      "url": "無連結",
+      "filename": "article_209_tables.txt",
+      "partners": [
+        "富邦人壽"
       ]
     },
     {
@@ -8370,11 +6982,8 @@
       "url": "https://roo.cash/blog/ev-insurence-intro/",
       "filename": "article_230_content.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
-        "LINE Pay"
+        "LINE Pay",
+        "新安東京海上保險"
       ]
     },
     {
@@ -8382,10 +6991,7 @@
       "url": "無連結",
       "filename": "article_6_tables.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "台北富邦銀行",
-        "台新投信"
+        "台北富邦銀行"
       ]
     },
     {
@@ -8395,7 +7001,6 @@
       "partners": [
         "滙豐銀行",
         "國泰世華銀行",
-        "遠東銀行",
         "LINE Pay"
       ]
     },
@@ -8404,13 +7009,8 @@
       "url": "無連結",
       "filename": "article_480_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "第一銀行",
         "星展銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -8435,8 +7035,6 @@
       "filename": "article_294_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -8446,8 +7044,6 @@
       "url": "https://roo.cash/blog/chunshuitang-menu-article/",
       "filename": "article_559_content.txt",
       "partners": [
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -8479,10 +7075,7 @@
       "url": "無連結",
       "filename": "article_99_tables.txt",
       "partners": [
-        "玉山銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -8492,9 +7085,6 @@
       "url": "無連結",
       "filename": "article_277_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -8503,10 +7093,6 @@
       "url": "https://roo.cash/blog/house-tax-search-calculate/",
       "filename": "article_427_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -8515,13 +7101,20 @@
       "url": "https://roo.cash/blog/kol-lixiang-life-creditcard-digital-account/",
       "filename": "article_56_content.txt",
       "partners": [
-        "富邦銀行",
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "美股"
+      ]
+    },
+    {
+      "title": "article_240_tables",
+      "url": "無連結",
+      "filename": "article_240_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "明台產險",
+        "和泰產險"
       ]
     },
     {
@@ -8529,11 +7122,7 @@
       "url": "無連結",
       "filename": "article_401_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -8558,7 +7147,8 @@
       "url": "無連結",
       "filename": "article_129_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -8566,11 +7156,7 @@
       "url": "無連結",
       "filename": "article_436_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -8580,11 +7166,21 @@
       ]
     },
     {
+      "title": "article_215_tables",
+      "url": "無連結",
+      "filename": "article_215_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "國泰人壽"
+      ]
+    },
+    {
       "title": "article_107_content",
       "url": "https://roo.cash/blog/apr/",
       "filename": "article_107_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -8592,11 +7188,17 @@
       "url": "https://roo.cash/blog/first-tax-filing-guide/",
       "filename": "article_457_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
+      ]
+    },
+    {
+      "title": "article_222_tables",
+      "url": "無連結",
+      "filename": "article_222_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽"
       ]
     },
     {
@@ -8604,13 +7206,9 @@
       "url": "https://roo.cash/blog/europe-credit-cards/",
       "filename": "article_26_content.txt",
       "partners": [
-        "富邦銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "台北富邦銀行",
         "星展銀行",
-        "台新投信",
         "美股"
       ]
     },
@@ -8620,10 +7218,7 @@
       "filename": "article_540_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -8649,11 +7244,7 @@
       "url": "無連結",
       "filename": "article_454_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -8668,20 +7259,8 @@
       "filename": "article_18_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
-      ]
-    },
-    {
-      "title": "article_272_content",
-      "url": "https://roo.cash/blog/third-party-insurance-faq/",
-      "filename": "article_272_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
       ]
     },
     {
@@ -8689,8 +7268,6 @@
       "url": "https://roo.cash/blog/card-insurance-cashback/",
       "filename": "article_85_content.txt",
       "partners": [
-        "第一銀行",
-        "國泰投信",
         "LINE Pay",
         "美股"
       ]
@@ -8700,7 +7277,8 @@
       "url": "無連結",
       "filename": "article_183_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -8717,18 +7295,8 @@
       "filename": "article_159_content.txt",
       "partners": [
         "富邦銀行",
-        "台新銀行"
-      ]
-    },
-    {
-      "title": "article_78_content",
-      "url": "https://roo.cash/blog/taishin-credit-card-verification/",
-      "filename": "article_78_content.txt",
-      "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信"
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -8745,14 +7313,8 @@
       "url": "無連結",
       "filename": "article_85_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "第一銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "PayPal",
         "美股"
@@ -8763,10 +7325,6 @@
       "url": "https://roo.cash/blog/electric-car-license-tax-fuel-tax/",
       "filename": "article_484_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -8775,10 +7333,6 @@
       "url": "https://roo.cash/blog/income-tax-refund/",
       "filename": "article_479_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -8787,7 +7341,8 @@
       "url": "https://roo.cash/blog/loan-imei-code-introduction/",
       "filename": "article_129_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -8804,7 +7359,8 @@
       "url": "無連結",
       "filename": "article_288_tables.txt",
       "partners": [
-        "LINE Pay"
+        "LINE Pay",
+        "富邦人壽"
       ]
     },
     {
@@ -8822,8 +7378,6 @@
       "filename": "article_485_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -8833,10 +7387,8 @@
       "url": "無連結",
       "filename": "article_3_tables.txt",
       "partners": [
-        "富邦銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
+        "匯豐銀行",
         "LINE Pay",
         "PayPal",
         "美股"
@@ -8879,9 +7431,9 @@
       "url": "無連結",
       "filename": "article_259_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽"
       ]
     },
     {
@@ -8889,10 +7441,6 @@
       "url": "無連結",
       "filename": "article_418_tables.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -8905,8 +7453,6 @@
       "filename": "article_54_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -8925,7 +7471,8 @@
       "url": "無連結",
       "filename": "article_107_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -8944,10 +7491,6 @@
       "url": "https://roo.cash/blog/stock-income-tax/",
       "filename": "article_410_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -8956,7 +7499,8 @@
       "url": "無連結",
       "filename": "article_130_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -8972,13 +7516,11 @@
       "url": "無連結",
       "filename": "article_63_tables.txt",
       "partners": [
-        "富邦銀行",
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "LINE Pay",
         "PayPal",
-        "美股"
+        "美股",
+        "富邦人壽"
       ]
     },
     {
@@ -8995,8 +7537,6 @@
       "filename": "article_559_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -9023,7 +7563,8 @@
       "url": "無連結",
       "filename": "article_165_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -9032,8 +7573,6 @@
       "filename": "article_36_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -9043,8 +7582,10 @@
       "url": "無連結",
       "filename": "article_152_tables.txt",
       "partners": [
-        "玉山銀行",
-        "滙豐銀行"
+        "滙豐銀行",
+        "新光銀行",
+        "渣打銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -9060,9 +7601,9 @@
       "url": "https://roo.cash/blog/taishin-loan/",
       "filename": "article_130_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "台新投信"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -9070,10 +7611,7 @@
       "url": "https://roo.cash/blog/disney-plus-card-recommendation/",
       "filename": "article_11_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "國泰世華銀行",
-        "永豐投信",
         "PayPal",
         "美股"
       ]
@@ -9091,7 +7629,8 @@
       "url": "無連結",
       "filename": "article_186_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -9099,21 +7638,7 @@
       "url": "https://roo.cash/blog/standard-deduction-tax/",
       "filename": "article_481_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
-      ]
-    },
-    {
-      "title": "article_277_content",
-      "url": "https://roo.cash/blog/scooter-theft-insurance/",
-      "filename": "article_277_content.txt",
-      "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
       ]
     },
     {
@@ -9121,11 +7646,7 @@
       "url": "無連結",
       "filename": "article_399_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -9139,16 +7660,8 @@
       "url": "無連結",
       "filename": "article_80_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "彰化銀行",
-        "華南銀行",
-        "第一銀行",
-        "台灣銀行",
         "台灣土地銀行",
-        "台新投信",
         "LINE Pay",
         "PayPal",
         "美股"
@@ -9159,10 +7672,6 @@
       "url": "無連結",
       "filename": "article_351_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "華南銀行",
-        "台灣銀行",
         "ETF"
       ]
     },
@@ -9173,7 +7682,6 @@
       "partners": [
         "滙豐銀行",
         "國泰世華銀行",
-        "遠東銀行",
         "LINE Pay"
       ]
     },
@@ -9182,22 +7690,8 @@
       "url": "無連結",
       "filename": "article_433_tables.txt",
       "partners": [
-        "永豐銀行"
-      ]
-    },
-    {
-      "title": "article_229_content",
-      "url": "https://roo.cash/blog/online-travel-accident-insurance/",
-      "filename": "article_229_content.txt",
-      "partners": [
-        "中信銀行",
-        "華南銀行",
-        "台灣銀行",
-        "新光銀行",
-        "國泰投信",
-        "中信投信",
-        "華南投信",
-        "新光投信"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -9205,11 +7699,7 @@
       "url": "無連結",
       "filename": "article_404_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -9224,8 +7714,6 @@
       "filename": "article_48_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -9245,7 +7733,12 @@
       "url": "無連結",
       "filename": "article_245_tables.txt",
       "partners": [
-        "LINE Pay"
+        "LINE Pay",
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "明台產險",
+        "和泰產險"
       ]
     },
     {
@@ -9253,9 +7746,6 @@
       "url": "無連結",
       "filename": "article_272_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -9264,10 +7754,6 @@
       "url": "https://roo.cash/blog/tax-income-query-code/",
       "filename": "article_452_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -9276,13 +7762,6 @@
       "url": "https://roo.cash/blog/18-years-old-creditcard/",
       "filename": "article_23_content.txt",
       "partners": [
-        "富邦銀行",
-        "中信銀行",
-        "台新銀行",
-        "第一銀行",
-        "國泰投信",
-        "台新投信",
-        "中信投信",
         "LINE Pay",
         "台股"
       ]
@@ -9293,10 +7772,7 @@
       "filename": "article_540_content.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "國泰世華銀行",
-        "遠東銀行",
-        "台新投信"
+        "國泰世華銀行"
       ]
     },
     {
@@ -9304,11 +7780,7 @@
       "url": "無連結",
       "filename": "article_451_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -9330,9 +7802,10 @@
       "url": "https://roo.cash/blog/online-insurance/",
       "filename": "article_259_content.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "LINE Pay"
+        "LINE Pay",
+        "國泰人壽",
+        "新光人壽"
       ]
     },
     {
@@ -9340,11 +7813,7 @@
       "url": "無連結",
       "filename": "article_466_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -9354,12 +7823,27 @@
       ]
     },
     {
+      "title": "article_227_tables",
+      "url": "無連結",
+      "filename": "article_227_tables.txt",
+      "partners": [
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽",
+        "明台產險",
+        "和泰產險"
+      ]
+    },
+    {
       "title": "article_172_content",
       "url": "https://roo.cash/blog/get-loan-approved/",
       "filename": "article_172_content.txt",
       "partners": [
+        "富邦銀行",
         "滙豐銀行",
-        "台新銀行"
+        "渣打銀行",
+        "台新國際商業銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -9367,10 +7851,6 @@
       "url": "https://roo.cash/blog/income-tax-calculation-guide/",
       "filename": "article_422_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -9389,9 +7869,6 @@
       "url": "無連結",
       "filename": "article_210_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -9401,10 +7878,7 @@
       "filename": "article_563_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -9422,12 +7896,9 @@
       "url": "無連結",
       "filename": "article_236_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "台新銀行",
-        "國泰投信",
-        "永豐投信",
-        "台新投信"
+        "富邦人壽",
+        "國泰人壽",
+        "新光人壽"
       ]
     },
     {
@@ -9435,7 +7906,10 @@
       "url": "無連結",
       "filename": "article_168_tables.txt",
       "partners": [
-        "滙豐銀行"
+        "滙豐銀行",
+        "遠東商銀",
+        "渣打銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -9443,11 +7917,7 @@
       "url": "無連結",
       "filename": "article_477_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -9462,8 +7932,6 @@
       "filename": "article_440_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -9473,10 +7941,6 @@
       "url": "https://roo.cash/blog/freelance-tax-return/",
       "filename": "article_447_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -9485,7 +7949,10 @@
       "url": "https://roo.cash/blog/guarantor/",
       "filename": "article_117_content.txt",
       "partners": [
-        "台新銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行",
+        "匯豐銀行"
       ]
     },
     {
@@ -9493,9 +7960,7 @@
       "url": "無連結",
       "filename": "article_263_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "富邦人壽"
       ]
     },
     {
@@ -9504,10 +7969,7 @@
       "filename": "article_536_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -9517,9 +7979,6 @@
       "url": "無連結",
       "filename": "article_254_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -9528,11 +7987,7 @@
       "url": "無連結",
       "filename": "article_415_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -9546,19 +8001,15 @@
       "url": "無連結",
       "filename": "article_59_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "遠東銀行",
-        "永豐投信",
-        "台新投信",
         "Garmin Pay",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
         "Samsung Pay",
         "PayPal",
-        "美股"
+        "美股",
+        "台灣人壽"
       ]
     },
     {
@@ -9581,8 +8032,6 @@
       "url": "https://roo.cash/blog/skb-credit-card-verification/",
       "filename": "article_46_content.txt",
       "partners": [
-        "新光銀行",
-        "新光投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay"
@@ -9593,10 +8042,6 @@
       "url": "https://roo.cash/blog/car-and-scooter-tax/",
       "filename": "article_437_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -9605,11 +8050,7 @@
       "url": "無連結",
       "filename": "article_422_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -9623,7 +8064,9 @@
       "url": "https://roo.cash/blog/rakuten-credit-loan-article/",
       "filename": "article_167_content.txt",
       "partners": [
-        "台新銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -9631,10 +8074,6 @@
       "url": "https://roo.cash/blog/income-tax-proof-of-support/",
       "filename": "article_469_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -9644,9 +8083,6 @@
       "filename": "article_91_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -9679,13 +8115,7 @@
       "url": "https://roo.cash/blog/convenience-store-creditcard-collection-and-payment/",
       "filename": "article_68_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "台新銀行",
         "台北富邦銀行",
-        "新光銀行",
-        "國泰投信",
-        "新光投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -9705,10 +8135,6 @@
       "url": "https://roo.cash/blog/parenting-income-tax/",
       "filename": "article_419_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -9717,7 +8143,6 @@
       "url": "https://roo.cash/blog/reits/",
       "filename": "article_300_content.txt",
       "partners": [
-        "台灣銀行",
         "ETF",
         "基金"
       ]
@@ -9728,8 +8153,6 @@
       "filename": "article_488_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
-        "台新投信",
         "PayPal",
         "ETF",
         "美股"
@@ -9740,9 +8163,8 @@
       "url": "https://roo.cash/blog/europe-travel-insurance/",
       "filename": "article_262_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信"
+        "國泰人壽",
+        "新光人壽"
       ]
     },
     {
@@ -9750,8 +8172,6 @@
       "url": "https://roo.cash/blog/electricitybill-and-phonebill-cashback-creditcard/",
       "filename": "article_95_content.txt",
       "partners": [
-        "富邦銀行",
-        "第一銀行",
         "台股"
       ]
     },
@@ -9760,13 +8180,8 @@
       "url": "無連結",
       "filename": "article_10_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "第一銀行",
         "星展銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -9776,9 +8191,6 @@
       "url": "https://roo.cash/blog/first-credit-card-verification/",
       "filename": "article_89_content.txt",
       "partners": [
-        "中信銀行",
-        "台灣銀行",
-        "中信投信",
         "LINE Pay",
         "Google Pay"
       ]
@@ -9788,12 +8200,7 @@
       "url": "無連結",
       "filename": "article_27_tables.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "國泰投信",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "PayPal",
@@ -9805,11 +8212,8 @@
       "url": "https://roo.cash/blog/mcdonalds-mobile-payment-recommendation/",
       "filename": "article_74_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
         "國泰世華銀行",
-        "台灣銀行",
         "Garmin Pay",
         "LINE Pay",
         "Apple Pay",
@@ -9823,7 +8227,9 @@
       "url": "https://roo.cash/blog/jcic-credit-score/",
       "filename": "article_155_content.txt",
       "partners": [
-        "台新銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -9831,10 +8237,6 @@
       "url": "https://roo.cash/blog/estate-tax-regulation/",
       "filename": "article_405_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -9852,18 +8254,13 @@
       "url": "無連結",
       "filename": "article_72_tables.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "永豐銀行",
         "滙豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
         "PayPal",
-        "美股"
+        "美股",
+        "富邦人壽"
       ]
     },
     {
@@ -9871,7 +8268,8 @@
       "url": "無連結",
       "filename": "article_121_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -9879,7 +8277,9 @@
       "url": "無連結",
       "filename": "article_116_tables.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "遠東商銀",
+        "渣打銀行"
       ]
     },
     {
@@ -9887,7 +8287,6 @@
       "url": "https://roo.cash/blog/podcast-stranger-tale-finance-weekly/",
       "filename": "article_391_content.txt",
       "partners": [
-        "台灣銀行",
         "LINE Pay",
         "Apple Pay",
         "Google Pay",
@@ -9902,13 +8301,18 @@
       "filename": "article_45_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "Apple Pay",
         "PayPal",
         "美股"
+      ]
+    },
+    {
+      "title": "article_248_tables",
+      "url": "無連結",
+      "filename": "article_248_tables.txt",
+      "partners": [
+        "富邦人壽"
       ]
     },
     {
@@ -9916,7 +8320,8 @@
       "url": "https://roo.cash/blog/case-study-suspend-card/",
       "filename": "article_125_content.txt",
       "partners": [
-        "永豐銀行"
+        "富邦銀行",
+        "渣打銀行"
       ]
     },
     {
@@ -9924,10 +8329,6 @@
       "url": "https://roo.cash/blog/tax-overdue-search-how-to/",
       "filename": "article_475_content.txt",
       "partners": [
-        "永豐銀行",
-        "台新銀行",
-        "永豐投信",
-        "台新投信",
         "LINE Pay"
       ]
     },
@@ -9936,9 +8337,6 @@
       "url": "無連結",
       "filename": "article_280_tables.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -9951,20 +8349,13 @@
       ]
     },
     {
-      "title": "article_250_content",
-      "url": "https://roo.cash/blog/travel-accident-insurance-taisin/",
-      "filename": "article_250_content.txt",
-      "partners": [
-        "台新銀行",
-        "台新投信"
-      ]
-    },
-    {
       "title": "article_186_content",
       "url": "https://roo.cash/blog/stock-pledged-loan-maintenance-rate/",
       "filename": "article_186_content.txt",
       "partners": [
-        "台新銀行"
+        "富邦銀行",
+        "渣打銀行",
+        "台新國際商業銀行"
       ]
     },
     {
@@ -9973,10 +8364,7 @@
       "filename": "article_580_tables.txt",
       "partners": [
         "滙豐銀行",
-        "台新銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "台新投信",
         "PayPal",
         "美股"
       ]
@@ -9986,13 +8374,7 @@
       "url": "https://roo.cash/blog/stock-epassbook-introduction/",
       "filename": "article_342_content.txt",
       "partners": [
-        "玉山銀行",
-        "永豐銀行",
         "國泰世華銀行",
-        "彰化銀行",
-        "華南銀行",
-        "第一銀行",
-        "合作金庫銀行",
         "台北富邦銀行",
         "台灣土地銀行"
       ]
@@ -10002,10 +8384,6 @@
       "url": "https://roo.cash/blog/car-insurance-electric-motor-gogoro/",
       "filename": "article_220_content.txt",
       "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "永豐銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     },
@@ -10014,11 +8392,8 @@
       "url": "https://roo.cash/blog/johntea-company-menu/",
       "filename": "article_539_content.txt",
       "partners": [
-        "永豐銀行",
         "滙豐銀行",
         "國泰世華銀行",
-        "遠東銀行",
-        "永豐投信",
         "LINE Pay"
       ]
     }
