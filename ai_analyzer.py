@@ -1,4 +1,5 @@
 import os
+import re
 import jieba
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -22,66 +23,49 @@ api_key = os.getenv("OPENAI_API_KEY")
 if api_key:
     client = OpenAI(api_key=api_key)
 else:
-    print(f"{Fore.RED}警告: 未設置 OPENAI_API_KEY 環境變數。AI 分析功能將不可用。{Style.RESET_ALL}")
-    print(f"{Fore.YELLOW}請設置環境變數或創建 .env 檔案並包含: OPENAI_API_KEY=您的金鑰{Style.RESET_ALL}")
+    print(
+        f"{Fore.RED}警告: 未設置 OPENAI_API_KEY 環境變數。AI 分析功能將不可用。{Style.RESET_ALL}"
+    )
+    print(
+        f"{Fore.YELLOW}請設置環境變數或創建 .env 檔案並包含: OPENAI_API_KEY=您的金鑰{Style.RESET_ALL}"
+    )
 
 # 設置日誌
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
-    handlers=[
-        logging.FileHandler("text_analysis.log"),
-        logging.StreamHandler()
-    ]
+    handlers=[logging.FileHandler("text_analysis.log"), logging.StreamHandler()],
 )
 logger = logging.getLogger("text_analyzer")
 
 # 初始化 colorama
 init(autoreset=True)
 
-# 停用詞清單，可自行擴充 (原有代碼)
+
 STOPWORDS = set(
-    ["的","了","是","在","有","和","與","也","就","都","及","為","或","而","於","被",
-      "由","到","這","那","一個","我們","你們","他們","她們","它們","我","你","他","她",
-      "它","其","之","及","等","上","下","後","前","更", "再","又", "還","會","能","要",
-      "把", "但","並", "如果","因為","所以","而且","但是","就是","沒有","不是","可以","可能",
-      "已經","正在","以及","其中", "對於","關於","關係","相關","方面" ]
+    [
+        "的", "了", "是", "在", "有", "和", "與", "也", "就", "都", "及", "為", "或",
+        "而", "於", "被", "由", "到", "這", "那", "一個", "我們", "你們", "他們", "她們",
+        "它們", "我", "你", "他", "她", "它", "其", "之", "及", "等", "上", "下", "後",
+        "前", "更", "再", "又", "還", "會", "能", "要", "把", "但", "並", "如果", "因為",
+        "所以", "而且", "但是", "就是", "沒有", "不是", "可以", "可能", "已經", "正在",
+        "以及", "其中", "對於", "關於", "關係", "相關", "方面",
+    ]
 )
 
 # 關鍵字分類 (原有代碼)
 KEYWORD_CATEGORIES = {
     "銀行": [
-        "富邦銀行",
-        "玉山銀行",
-        "中信銀行",
-        "永豐銀行",
-        "滙豐銀行",
-        "台新銀行",
-        "國泰世華銀行",
-        "彰化銀行",
-        "華南銀行",
-        "第一銀行",
+        "富邦銀行", "玉山銀行", "中信銀行", "永豐銀行", "滙豐銀行",
+        "台新銀行", "國泰世華銀行", "彰化銀行", "華南銀行", "第一銀行",
     ],
     "信貸": [
-        "富邦信貸",
-        "玉山信貸",
-        "中信信貸",
-        "永豐信貸",
-        "台新信貸",
-        "國泰信貸",
-        "彰化信貸",
-        "華南信貸",
-        "第一信貸",
+        "富邦信貸", "玉山信貸", "中信信貸", "永豐信貸", "台新信貸",
+        "國泰信貸", "彰化信貸", "華南信貸", "第一信貸",
     ],
     "證券": [
-        "富邦證券",
-        "元富證券",
-        "中信證券",
-        "康和證券",
-        "鉅亨網",
-        "永豐金證券",
-        "台新證券",
-        "國泰證券",
+        "富邦證券", "元富證券", "中信證券", "康和證券", "鉅亨網",
+        "永豐金證券", "台新證券", "國泰證券",
     ],
     "支付": ["LINE Pay", "Apple Pay", "Google Pay", "Samsung Pay", "PayPal"],
     "金融商品": ["ETF", "美股", "台股", "基金", "信用卡"],
@@ -96,7 +80,7 @@ os.makedirs(output_dir, exist_ok=True)
 ai_analysis_dir = os.path.join(output_dir, "ai_analysis")
 os.makedirs(ai_analysis_dir, exist_ok=True)
 
-# 原有的打印和實用函數 (略)
+
 def print_header(text):
     """打印美觀的標題"""
     width = 70
@@ -144,6 +128,7 @@ def read_all_articles(folder):
 
     return articles, article_names
 
+
 # 原有的分詞和分析函數 (略)
 def tokenize(text):
     """對文本分詞並過濾停用詞"""
@@ -168,7 +153,8 @@ def analyze_keywords(text, categories):
 
     return results, keyword_instances
 
-# 原有的圖表和視覺化函數 (略)
+
+# 創建詞雲圖
 def create_word_cloud(words_freq, title, output_file):
     """創建詞雲圖"""
     try:
@@ -244,20 +230,55 @@ def plot_category_stats(category_stats, output_file):
     print_info(f"類別統計圖已保存至: {output_file}")
 
 
-# 新增 OpenAI 文本分析功能
+def extract_article_metadata(text):
+    """提取文章的標題、連結和分類等元數據"""
+    metadata = {
+        "title": None,
+        "url": None,
+        "categories": [],
+        "publish_date": None
+    }
+    
+    # 尋找標題
+    title_match = re.search(r'標題:\s*(.*?)(?:\r?\n)', text)
+    if title_match:
+        metadata["title"] = title_match.group(1).strip()
+    
+    # 尋找連結
+    url_match = re.search(r'連結:\s*(.*?)(?:\r?\n)', text)
+    if url_match:
+        metadata["url"] = url_match.group(1).strip()
+    
+    # 尋找分類
+    category_match = re.search(r'分類:\s*(.*?)(?:\r?\n)', text)
+    if category_match:
+        categories = category_match.group(1).strip()
+        # 分割分類，通常以逗號分隔
+        metadata["categories"] = [cat.strip() for cat in categories.split(',')]
+    
+    # 尋找發布日期
+    date_match = re.search(r'發布日期:\s*(.*?)(?:\r?\n)', text)
+    if date_match:
+        metadata["publish_date"] = date_match.group(1).strip()
+    
+    return metadata
+
+
+#  OpenAI analysis functions
 def analyze_text_with_openai(text, article_id="", retries=3):
     """使用 OpenAI 進行文本分析"""
     if not api_key:
-        return {
-            "error": "未設置 OPENAI_API_KEY，無法進行 AI 分析"
-        }
+        return {"error": "未設置 OPENAI_API_KEY，無法進行 AI 分析"}
+
+    # 提取文章元數據
+    metadata = extract_article_metadata(text)
     
     # 如果文本過長，截斷
     max_length = 14000  # GPT-4 可處理的大約最大字數 (保守估計)
     if len(text) > max_length:
         print_info(f"文章過長，截斷至 {max_length} 字符")
         text = text[:max_length]
-    
+
     # 分析提示
     prompt = f"""
     請分析以下金融相關文章，並以 JSON 格式輸出以下分析結果:
@@ -273,28 +294,41 @@ def analyze_text_with_openai(text, article_id="", retries=3):
     文章內容:
     {text}
     """
-    
+
     for attempt in range(retries):
         try:
             response = client.chat.completions.create(
-                model="gpt-4o",
+                model="gpt-4o-mini",
                 messages=[
-                    {"role": "system", "content": "你是一個專業金融文本分析助手，擅長識別文章中的金融產品、機構和核心觀點，並提供客觀分析。"},
-                    {"role": "user", "content": prompt}
+                    {
+                        "role": "system",
+                        "content": "你是一個專業金融文本分析助手，擅長識別文章中的金融產品、機構和核心觀點，並提供客觀分析。",
+                    },
+                    {"role": "user", "content": prompt},
                 ],
                 response_format={"type": "json_object"},
-                temperature=0.2
+                temperature=0.2,
             )
-            
+
             # 解析 JSON 結果
             result = json.loads(response.choices[0].message.content)
-            
-            # 添加文章 ID
+
+            # 添加文章 ID 
             if article_id:
                 result["article_id"] = article_id
-                
-            return result
             
+            # 添加元數據到結果中
+            if metadata["title"]:
+                result["title"] = metadata["title"]
+            if metadata["url"]:
+                result["url"] = metadata["url"]
+            if metadata["categories"]:
+                result["categories"] = metadata["categories"]
+            if metadata["publish_date"]:
+                result["publish_date"] = metadata["publish_date"]
+
+            return result
+
         except Exception as e:
             # 如果這不是最後一次嘗試，則等待後重試
             if attempt < retries - 1:
@@ -303,72 +337,222 @@ def analyze_text_with_openai(text, article_id="", retries=3):
                 time.sleep(wait_time)
             else:
                 logger.error(f"AI 分析失敗: {e}")
-                return {
-                    "error": f"AI 分析失敗: {str(e)}",
-                    "article_id": article_id
-                }
+                return {"error": f"AI 分析失敗: {str(e)}", "article_id": article_id}
+
+
+# 新增函數：讓使用者選擇要分析的文章
+def select_articles_for_analysis(articles, article_names):
+    """讓使用者選擇要分析的文章"""
+    print_section("選擇要分析的文章")
+    print_info("可用選項:")
+    print("1. 分析所有文章")
+    print("2. 分析前 N 篇文章")
+    print("3. 手動選擇特定文章")
+    print("4. 根據關鍵字篩選文章")
+
+    choice = (
+        input(f"{Fore.GREEN}請選擇文章選擇方式 (1/2/3/4): {Style.RESET_ALL}").strip()
+        or "1"
+    )
+
+    if choice == "1":
+        print_info(f"已選擇: 分析所有 {len(articles)} 篇文章")
+        return articles, article_names
+
+    elif choice == "2":
+        num = input(f"{Fore.GREEN}請輸入要分析的文章數量: {Style.RESET_ALL}").strip()
+        try:
+            num = int(num)
+            if num <= 0 or num > len(articles):
+                print_info(f"輸入無效，將分析所有 {len(articles)} 篇文章")
+                return articles, article_names
+
+            print_info(f"已選擇: 分析前 {num} 篇文章")
+            return articles[:num], article_names[:num]
+        except ValueError:
+            print_info(f"輸入無效，將分析所有 {len(articles)} 篇文章")
+            return articles, article_names
+
+    elif choice == "3":
+        # 顯示所有文章供選擇
+        print_info("請選擇要分析的文章 (輸入編號，用逗號分隔):")
+
+        # 分頁顯示文章列表
+        page_size = 20
+        for i in range(0, len(article_names), page_size):
+            page_articles = article_names[i : i + page_size]
+
+            table_data = []
+            for j, name in enumerate(page_articles):
+                article_idx = i + j
+                # 顯示文章編號和檔案名
+                table_data.append([article_idx + 1, name])
+
+            print(tabulate(table_data, headers=["編號", "文章檔案名"], tablefmt="grid"))
+
+            if i + page_size < len(article_names):
+                more = (
+                    input(f"{Fore.YELLOW}顯示更多? (Y/n): {Style.RESET_ALL}")
+                    .strip()
+                    .lower()
+                )
+                if more == "n":
+                    break
+
+        # 獲取用戶選擇
+        selected_indices_str = input(
+            f"{Fore.GREEN}請輸入要分析的文章編號 (例如: 1,3,5-7): {Style.RESET_ALL}"
+        ).strip()
+
+        # 解析選擇
+        selected_indices = []
+        parts = selected_indices_str.split(",")
+
+        for part in parts:
+            part = part.strip()
+            if "-" in part:
+                # 範圍選擇，如 "5-7"
+                try:
+                    start, end = map(int, part.split("-"))
+                    # 轉換為 0-based 索引
+                    selected_indices.extend(range(start - 1, end))
+                except ValueError:
+                    continue
+            else:
+                # 單個編號選擇
+                try:
+                    idx = int(part) - 1  # 轉換為 0-based 索引
+                    if 0 <= idx < len(articles):
+                        selected_indices.append(idx)
+                except ValueError:
+                    continue
+
+        # 移除重複並排序
+        selected_indices = sorted(set(selected_indices))
+
+        if not selected_indices:
+            print_info("未選擇任何文章，將分析所有文章")
+            return articles, article_names
+
+        # 根據選擇獲取對應的文章和名稱
+        selected_articles = [
+            articles[idx] for idx in selected_indices if idx < len(articles)
+        ]
+        selected_names = [
+            article_names[idx] for idx in selected_indices if idx < len(article_names)
+        ]
+
+        print_info(f"已選擇 {len(selected_articles)} 篇文章進行分析")
+        return selected_articles, selected_names
+
+    elif choice == "4":
+        # 根據關鍵字篩選文章
+        keyword = input(f"{Fore.GREEN}請輸入要搜尋的關鍵字: {Style.RESET_ALL}").strip()
+
+        if not keyword:
+            print_info("未輸入關鍵字，將分析所有文章")
+            return articles, article_names
+
+        # 篩選包含關鍵字的文章
+        filtered_articles = []
+        filtered_names = []
+
+        print_info(f"正在搜尋包含 '{keyword}' 的文章...")
+
+        for idx, (article, name) in enumerate(zip(articles, article_names)):
+            if keyword.lower() in article.lower() or keyword.lower() in name.lower():
+                filtered_articles.append(article)
+                filtered_names.append(name)
+
+        if not filtered_articles:
+            print_info(f"未找到包含關鍵字 '{keyword}' 的文章，將分析所有文章")
+            return articles, article_names
+
+        print_info(f"找到 {len(filtered_articles)} 篇包含關鍵字 '{keyword}' 的文章")
+
+        # 顯示篩選後的文章
+        table_data = []
+        for i, name in enumerate(filtered_names):
+            table_data.append([i + 1, name])
+
+        print(tabulate(table_data, headers=["編號", "文章檔案名"], tablefmt="grid"))
+
+        confirm = (
+            input(f"{Fore.GREEN}是否要分析這些文章? (Y/n): {Style.RESET_ALL}")
+            .strip()
+            .lower()
+        )
+        if confirm == "n":
+            print_info("將分析所有文章")
+            return articles, article_names
+
+        return filtered_articles, filtered_names
+
+    else:
+        print_info(f"無效選擇，將分析所有 {len(articles)} 篇文章")
+        return articles, article_names
 
 
 def batch_analyze_with_ai(articles, article_names, max_articles=None, batch_size=5):
     """批次處理多篇文章"""
     print_section("OpenAI 智能文本分析")
-    
+
     if not api_key:
         print_info("未設置 OPENAI_API_KEY，跳過 AI 分析")
         return []
-        
+
     if max_articles:
         print_info(f"將處理前 {max_articles} 篇文章")
         articles = articles[:max_articles]
         article_names = article_names[:max_articles]
-        
+
     results = []
-    
+
     print_info(f"開始處理 {len(articles)} 篇文章")
-    
+
     # 分批處理，每批 batch_size 篇文章
     for i in range(0, len(articles), batch_size):
-        batch_articles = articles[i:i+batch_size]
-        batch_names = article_names[i:i+batch_size]
-        
+        batch_articles = articles[i : i + batch_size]
+        batch_names = article_names[i : i + batch_size]
+
         for j, (article, name) in enumerate(zip(batch_articles, batch_names)):
             overall_index = i + j + 1
-            
+
             # 從文件名中提取 ID 或使用索引作為 ID
             article_id = name.replace("_content.txt", "").replace(".txt", "")
             if not article_id:
                 article_id = f"article_{overall_index}"
-                
+
             print_info(f"正在處理第 {overall_index}/{len(articles)} 篇文章: {name}")
-            
+
             # 檢查是否已存在分析結果
             output_file = os.path.join(ai_analysis_dir, f"analysis_{article_id}.json")
             if os.path.exists(output_file):
                 print_info(f"已存在分析結果，跳過: {output_file}")
-                with open(output_file, 'r', encoding='utf-8') as f:
+                with open(output_file, "r", encoding="utf-8") as f:
                     result = json.load(f)
                     results.append(result)
                 continue
-                
+
             # 分析文章
             result = analyze_text_with_openai(article, article_id)
-            
+
             # 保存分析結果
-            with open(output_file, 'w', encoding='utf-8') as f:
+            with open(output_file, "w", encoding="utf-8") as f:
                 json.dump(result, f, ensure_ascii=False, indent=2)
-                
+
             results.append(result)
             print_info(f"已保存分析結果: {output_file}")
-            
+
             # 避免 API 速率限制
             if j < len(batch_articles) - 1:
                 time.sleep(1)
-                
+
         # 批次之間的等待，避免 API 限制
         if i + batch_size < len(articles):
             print_info(f"等待 3 秒後處理下一批...")
             time.sleep(3)
-            
+
     return results
 
 
@@ -376,66 +560,108 @@ def create_ai_analysis_summary(ai_results):
     """生成 AI 分析結果的摘要報告"""
     if not ai_results:
         return
-        
+
     print_section("AI 分析摘要報告")
-    
+
     # 1. 提取所有金融產品
     all_products = []
     for result in ai_results:
-        if 'financial_products' in result:
-            all_products.extend(result['financial_products'])
-            
+        if "financial_products" in result:
+            all_products.extend(result["financial_products"])
+
     product_counter = Counter(all_products)
     top_products = product_counter.most_common(10)
-    
+
     print_info("最常提及的金融產品:")
-    product_table = [[i+1, prod, count] for i, (prod, count) in enumerate(top_products)]
-    print(tabulate(product_table, headers=["排名", "金融產品", "提及次數"], tablefmt="grid"))
-    
+    product_table = [
+        [i + 1, prod, count] for i, (prod, count) in enumerate(top_products)
+    ]
+    print(
+        tabulate(
+            product_table, headers=["排名", "金融產品", "提及次數"], tablefmt="grid"
+        )
+    )
+
     # 2. 提取所有金融機構
     all_institutions = []
     for result in ai_results:
-        if 'financial_institutions' in result:
-            all_institutions.extend(result['financial_institutions'])
-            
+        if "financial_institutions" in result:
+            all_institutions.extend(result["financial_institutions"])
+
     institution_counter = Counter(all_institutions)
     top_institutions = institution_counter.most_common(10)
-    
+
     print_info("最常提及的金融機構:")
-    institution_table = [[i+1, inst, count] for i, (inst, count) in enumerate(top_institutions)]
-    print(tabulate(institution_table, headers=["排名", "金融機構", "提及次數"], tablefmt="grid"))
-    
+    institution_table = [
+        [i + 1, inst, count] for i, (inst, count) in enumerate(top_institutions)
+    ]
+    print(
+        tabulate(
+            institution_table, headers=["排名", "金融機構", "提及次數"], tablefmt="grid"
+        )
+    )
+
     # 3. 主題分類
-    topics = [result.get('main_topic', 'N/A') for result in ai_results if 'main_topic' in result]
-    
+    topics = [
+        result.get("main_topic", "N/A")
+        for result in ai_results
+        if "main_topic" in result
+    ]
+
     print_info(f"分析了 {len(topics)} 個主題:")
     for i, topic in enumerate(topics[:10], 1):  # 只顯示前 10 個主題
         print(f"{i}. {topic}")
-        
+
     if len(topics) > 10:
         print_info(f"...以及其他 {len(topics) - 10} 個主題")
         
+    # 4. 收集文章分類信息
+    all_categories = []
+    for result in ai_results:
+        if "categories" in result:
+            all_categories.extend(result["categories"])
+            
+    category_counter = Counter(all_categories)
+    top_categories = category_counter.most_common()
+    
+    print_info("最常見的文章分類:")
+    category_table = [
+        [i + 1, cat, count] for i, (cat, count) in enumerate(top_categories)
+    ]
+    print(
+        tabulate(
+            category_table, headers=["排名", "文章分類", "出現次數"], tablefmt="grid"
+        )
+    )
+
     # 保存摘要分析
     summary_data = {
         "top_products": dict(top_products),
         "top_institutions": dict(top_institutions),
-        "topics": topics
+        "topics": topics,
+        "categories": dict(top_categories)
     }
-    
-    with open(os.path.join(ai_analysis_dir, "ai_summary.json"), 'w', encoding='utf-8') as f:
+
+    with open(
+        os.path.join(ai_analysis_dir, "ai_summary.json"), "w", encoding="utf-8"
+    ) as f:
         json.dump(summary_data, f, ensure_ascii=False, indent=2)
-    
+
     # 保存為 CSV 方便在 Excel 中查看
     df_products = pd.DataFrame(top_products, columns=["產品", "提及次數"])
     df_institutions = pd.DataFrame(top_institutions, columns=["機構", "提及次數"])
     df_topics = pd.DataFrame({"主題": topics})
-    
+    df_categories = pd.DataFrame(top_categories, columns=["分類", "出現次數"])
+
     with pd.ExcelWriter(os.path.join(ai_analysis_dir, "ai_summary.xlsx")) as writer:
         df_products.to_excel(writer, sheet_name="金融產品", index=False)
         df_institutions.to_excel(writer, sheet_name="金融機構", index=False)
         df_topics.to_excel(writer, sheet_name="主題分類", index=False)
-        
-    print_info(f"AI 分析摘要已保存至: {os.path.join(ai_analysis_dir, 'ai_summary.json')} 和 {os.path.join(ai_analysis_dir, 'ai_summary.xlsx')}")
+        df_categories.to_excel(writer, sheet_name="文章分類", index=False)
+
+    print_info(
+        f"AI 分析摘要已保存至: {os.path.join(ai_analysis_dir, 'ai_summary.json')} 和 {os.path.join(ai_analysis_dir, 'ai_summary.xlsx')}"
+    )
 
 
 def main():
@@ -456,15 +682,18 @@ def main():
         return
 
     print_info(f"成功讀取 {len(articles)} 篇文章")
-    
+
     # 詢問使用者要執行哪種分析
     print_section("選擇分析模式")
     print("1. 基本詞頻統計和關鍵字分析")
     print("2. 使用 OpenAI API 進行深度文本分析")
     print("3. 執行所有分析")
-    
-    choice = input(f"{Fore.GREEN}請選擇分析模式 (1/2/3) [預設:3]: {Style.RESET_ALL}").strip() or "3"
-    
+
+    choice = (
+        input(f"{Fore.GREEN}請選擇分析模式 (1/2/3) [預設:3]: {Style.RESET_ALL}").strip()
+        or "3"
+    )
+
     # 基本詞頻分析
     if choice in ["1", "3"]:
         # 1. 基本詞頻統計
@@ -505,7 +734,9 @@ def main():
         all_keyword_instances = defaultdict(list)
 
         for article in tqdm(articles, desc="關鍵字分析", ncols=70):
-            article_stats, keyword_instances = analyze_keywords(article, KEYWORD_CATEGORIES)
+            article_stats, keyword_instances = analyze_keywords(
+                article, KEYWORD_CATEGORIES
+            )
             for category, count in article_stats.items():
                 category_stats[category] += count
                 all_keyword_instances[category].extend(keyword_instances[category])
@@ -516,16 +747,24 @@ def main():
         cat_table = [
             [i + 1, category, count] for i, (category, count) in enumerate(sorted_stats)
         ]
-        print(tabulate(cat_table, headers=["排名", "類別", "出現次數"], tablefmt="grid"))
+        print(
+            tabulate(cat_table, headers=["排名", "類別", "出現次數"], tablefmt="grid")
+        )
 
         # 保存分類統計
         df_cats = pd.DataFrame(sorted_stats, columns=["類別", "出現次數"])
         df_cats.index = range(1, len(df_cats) + 1)
-        df_cats.to_csv(os.path.join(output_dir, "category_stats.csv"), encoding="utf-8-sig")
-        print_info(f"類別統計已保存至: {os.path.join(output_dir, 'category_stats.csv')}")
+        df_cats.to_csv(
+            os.path.join(output_dir, "category_stats.csv"), encoding="utf-8-sig"
+        )
+        print_info(
+            f"類別統計已保存至: {os.path.join(output_dir, 'category_stats.csv')}"
+        )
 
         # 繪製分類統計圖
-        plot_category_stats(category_stats, os.path.join(output_dir, "category_stats.png"))
+        plot_category_stats(
+            category_stats, os.path.join(output_dir, "category_stats.png")
+        )
 
         # 3. 關鍵字實例分析
         print_section("關鍵字實例分析")
@@ -557,7 +796,9 @@ def main():
         article_results = []
 
         for i, (article, name) in enumerate(zip(articles, article_names)):
-            article_stats, keyword_instances = analyze_keywords(article, KEYWORD_CATEGORIES)
+            article_stats, keyword_instances = analyze_keywords(
+                article, KEYWORD_CATEGORIES
+            )
 
             if sum(article_stats.values()) > 0:  # 只處理有關鍵字的文章
                 result = {
@@ -611,28 +852,32 @@ def main():
             )
         else:
             print_info("未找到包含關鍵字的文章")
-    
+
     # OpenAI API 深度文本分析
     if choice in ["2", "3"] and api_key:
-        # 詢問要分析多少篇文章
-        max_articles = input(f"{Fore.GREEN}要使用 OpenAI 分析多少篇文章? (輸入數字，留空則分析全部): {Style.RESET_ALL}").strip()
-        if max_articles and max_articles.isdigit():
-            max_articles = int(max_articles)
-            print_info(f"將分析前 {max_articles} 篇文章")
-        else:
-            if len(articles) > 10:
-                confirm = input(f"{Fore.YELLOW}警告: 您有 {len(articles)} 篇文章，這可能耗費大量 API 額度。確定要分析全部嗎? (y/n): {Style.RESET_ALL}").strip().lower()
-                if confirm != 'y':
-                    max_articles = 10
-                    print_info(f"將只分析前 {max_articles} 篇文章")
-                else:
-                    max_articles = None
-            else:
-                max_articles = None
-                
+        # 使用新增加的選擇文章功能選擇要分析的文章
+        selected_articles, selected_article_names = select_articles_for_analysis(
+            articles, article_names
+        )
+
+        # 如果選擇的文章數量過多，提示確認
+        if len(selected_articles) > 10:
+            confirm = (
+                input(
+                    f"{Fore.YELLOW}警告: 您選擇了 {len(selected_articles)} 篇文章，這可能耗費大量 API 額度。確定要分析全部嗎? (y/n): {Style.RESET_ALL}"
+                )
+                .strip()
+                .lower()
+            )
+            if confirm != "y":
+                max_articles = 10
+                print_info(f"將只分析前 {max_articles} 篇文章")
+                selected_articles = selected_articles[:max_articles]
+                selected_article_names = selected_article_names[:max_articles]
+
         # 執行 AI 分析
-        ai_results = batch_analyze_with_ai(articles, article_names, max_articles)
-        
+        ai_results = batch_analyze_with_ai(selected_articles, selected_article_names)
+
         # 生成 AI 分析摘要
         if ai_results:
             create_ai_analysis_summary(ai_results)
@@ -649,4 +894,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n{Fore.RED}分析過程中發生錯誤: {e}{Style.RESET_ALL}")
         import traceback
+
         traceback.print_exc()
