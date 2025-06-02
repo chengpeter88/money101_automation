@@ -53,7 +53,7 @@ class BaseCrawler:
             # 滾動到頁面底部
             self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             # 等待頁面加載
-            time.sleep(2)
+            time.sleep(1)
             # 計算新的滾動高度
             new_height = self.driver.execute_script("return document.body.scrollHeight")
             # 如果高度沒有變化，表示已滾動到底部

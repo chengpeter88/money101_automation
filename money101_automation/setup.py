@@ -11,8 +11,8 @@ if os.path.exists(readme_path):
 setup(
     name="money101_automation",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Peter Cheng",
+    author_email="peter88620@email@example.com",
     description="A web scraping project for credit card and personal loan information.",
     long_description=long_description,
     long_description_content_type="text/markdown",

@@ -1,4 +1,3 @@
-# 如果安裝了套件，可以直接導入
 from src.crawlers.credit_card_crawler import CreditCardCrawler
 from src.crawlers.personal_loan_crawler import PersonalLoanCrawler
 
