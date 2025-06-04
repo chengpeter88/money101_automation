@@ -5,8 +5,8 @@ CREDIT_CARD_URL = "https://roo.cash/creditcard"
 PERSONAL_LOAN_URL = "https://roo.cash/personal-loan"
 
 # Timeouts
-PAGE_LOAD_TIMEOUT = 10  # seconds
-ELEMENT_WAIT_TIMEOUT = 10  # seconds
+PAGE_LOAD_TIMEOUT = 3  # seconds
+ELEMENT_WAIT_TIMEOUT = 3  # seconds
 
 # Output file paths
 CREDIT_CARD_OUTPUT_PATH = "output/credit_cards/"

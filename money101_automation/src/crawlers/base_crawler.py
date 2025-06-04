@@ -46,25 +46,26 @@ class BaseCrawler:
             return
 
         print("滾動頁面以載入所有內容...")
-        # 獲取當前頁面高度
+        
+        # 優化滾動策略 - 一次滾動更多距離
         last_height = self.driver.execute_script("return document.body.scrollHeight")
-
+        
         while True:
-            # 滾動到頁面底部
+            # 一次滾動到底部，而非逐步滾動
             self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            # 等待頁面加載
-            time.sleep(1)
-            # 計算新的滾動高度
+            
+            # 減少等待時間
+            time.sleep(0.5)  # 從 1 秒減少到 0.5 秒
+            
             new_height = self.driver.execute_script("return document.body.scrollHeight")
-            # 如果高度沒有變化，表示已滾動到底部
             if new_height == last_height:
                 break
             last_height = new_height
-
-        # 滾動回頁面頂部
+        
+        # 滾動回頂部的時間也減少
         self.driver.execute_script("window.scrollTo(0, 0);")
-        time.sleep(1)
-    
+        time.sleep(0.5)  # 從 1 秒減少到 0.5 秒
+
     def scroll_to_element(self, element):
         """滾動到特定元素使其在視窗內"""
         if self.driver is None:
@@ -72,13 +73,13 @@ class BaseCrawler:
             return
 
         try:
+            # 使用 JavaScript 快速滾動，不使用 smooth 動畫
             self.driver.execute_script(
-                "arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});",
+                "arguments[0].scrollIntoView({block: 'center'});",  # 移除 smooth behavior
                 element,
             )
-            # 稍微向上滾動一點以避免頂部導航欄遮擋
-            self.driver.execute_script("window.scrollBy(0, -100);")
-            time.sleep(0.5)
+            # 減少等待時間
+            time.sleep(0.1)  # 從 0.5 秒減少到 0.1 秒
         except Exception as e:
             print(f"滾動到元素時出錯: {e}")
     

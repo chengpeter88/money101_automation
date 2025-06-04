@@ -1,0 +1,15 @@
+2025-06-02 14:21:42,092 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:21:49,461 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:29:16,623 - DEBUG - Building prefix dict from the default dictionary ...
+2025-06-02 14:29:17,023 - DEBUG - Dumping model to file cache /var/folders/4p/_w7sb0h97x989ymb8f68ts_h0000gn/T/jieba.cache
+2025-06-02 14:29:17,058 - DEBUG - Loading model cost 0.434 seconds.
+2025-06-02 14:29:17,058 - DEBUG - Prefix dict has been built successfully.
+2025-06-02 15:30:52,269 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 15:50:37,490 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 15:50:58,856 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 15:51:08,308 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 15:51:23,645 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 15:51:30,920 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 15:51:48,962 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 15:51:59,429 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 15:52:08,683 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

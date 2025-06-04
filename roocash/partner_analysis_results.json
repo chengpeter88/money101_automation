@@ -140,11 +140,7 @@
       "title": "article_118_tables",
       "url": "無連結",
       "filename": "article_118_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "遠東商銀",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "遠東商銀", "渣打銀行"]
     },
     {
       "title": "article_407_tables",
@@ -180,21 +176,13 @@
       "title": "article_110_content",
       "url": "https://roo.cash/blog/obank-vs-cathay/",
       "filename": "article_110_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "王道銀行",
-        "國泰銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "王道銀行", "國泰銀行"]
     },
     {
       "title": "article_352_tables",
       "url": "無連結",
       "filename": "article_352_tables.txt",
-      "partners": [
-        "Apple Pay",
-        "美股"
-      ]
+      "partners": ["Apple Pay", "美股"]
     },
     {
       "title": "article_31_content",
@@ -231,42 +219,25 @@
       "title": "article_271_tables",
       "url": "無連結",
       "filename": "article_271_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽",
-        "台灣人壽"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽", "台灣人壽"]
     },
     {
       "title": "article_522_content",
       "url": "https://roo.cash/blog/goshuin-introduction/",
       "filename": "article_522_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_246_tables",
       "url": "無連結",
       "filename": "article_246_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽",
-        "明台產險",
-        "和泰產險"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽", "明台產險", "和泰產險"]
     },
     {
       "title": "article_29_tables",
       "url": "無連結",
       "filename": "article_29_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_465_tables",
@@ -286,19 +257,13 @@
       "title": "article_160_content",
       "url": "https://roo.cash/blog/loan-good-or-not/",
       "filename": "article_160_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "匯豐銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "匯豐銀行"]
     },
     {
       "title": "article_430_content",
       "url": "https://roo.cash/blog/declare-tax-schedule/",
       "filename": "article_430_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_452_tables",
@@ -331,136 +296,85 @@
       "title": "article_213_tables",
       "url": "無連結",
       "filename": "article_213_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽",
-        "明台產險",
-        "和泰產險"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽", "明台產險", "和泰產險"]
     },
     {
       "title": "article_224_tables",
       "url": "無連結",
       "filename": "article_224_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_377_content",
       "url": "https://roo.cash/blog/ko-stock-article/",
       "filename": "article_377_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_185_tables",
       "url": "無連結",
       "filename": "article_185_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_92_content",
       "url": "https://roo.cash/blog/hongkong-travel-credit-card-article/",
       "filename": "article_92_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "遠東商銀",
-        "Apple Pay",
-        "Google Pay"
-      ]
+      "partners": ["滙豐銀行", "遠東商銀", "Apple Pay", "Google Pay"]
     },
     {
       "title": "article_83_tables",
       "url": "無連結",
       "filename": "article_83_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "LINE Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "LINE Pay", "PayPal", "美股"]
     },
     {
       "title": "article_581_content",
       "url": "https://roo.cash/blog/hachiyotea-drink-recommendation-article/",
       "filename": "article_581_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "台中銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "台中銀行"]
     },
     {
       "title": "article_307_content",
       "url": "https://roo.cash/blog/hawk-and-dove/",
       "filename": "article_307_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_298_content",
       "url": "https://roo.cash/blog/pltr-article/",
       "filename": "article_298_content.txt",
-      "partners": [
-        "ETF",
-        "美股"
-      ]
+      "partners": ["ETF", "美股"]
     },
     {
       "title": "article_538_tables",
       "url": "無連結",
       "filename": "article_538_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_402_content",
       "url": "https://roo.cash/blog/estate-tax-gift-tax-income-tax-regulation/",
       "filename": "article_402_content.txt",
-      "partners": [
-        "星展銀行",
-        "LINE Pay"
-      ]
+      "partners": ["星展銀行", "LINE Pay"]
     },
     {
       "title": "article_152_content",
       "url": "https://roo.cash/blog/skb-credit-loan/",
       "filename": "article_152_content.txt",
-      "partners": [
-        "富邦銀行",
-        "新光銀行",
-        "渣打銀行",
-        "LINE Pay"
-      ]
+      "partners": ["富邦銀行", "新光銀行", "渣打銀行", "LINE Pay"]
     },
     {
       "title": "article_560_content",
       "url": "https://roo.cash/blog/nap-tea-menu/",
       "filename": "article_560_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行"]
     },
     {
       "title": "article_133_tables",
       "url": "無連結",
       "filename": "article_133_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_60_tables",
@@ -528,70 +442,49 @@
       "title": "article_238_tables",
       "url": "無連結",
       "filename": "article_238_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_472_content",
       "url": "https://roo.cash/blog/asset-allocation-3/",
       "filename": "article_472_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_122_content",
       "url": "https://roo.cash/blog/credit-loan/",
       "filename": "article_122_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_510_content",
       "url": "https://roo.cash/blog/viet-headspa-store-domei/",
       "filename": "article_510_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_4_content",
       "url": "https://roo.cash/blog/hospital-credit-card-notice/",
       "filename": "article_4_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_166_tables",
       "url": "無連結",
       "filename": "article_166_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_35_tables",
       "url": "無連結",
       "filename": "article_35_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_396_content",
       "url": "https://roo.cash/blog/mobile-payment-tax-discount/",
       "filename": "article_396_content.txt",
-      "partners": [
-        "台灣土地銀行",
-        "LINE Pay"
-      ]
+      "partners": ["台灣土地銀行", "LINE Pay"]
     },
     {
       "title": "article_479_tables",
@@ -611,20 +504,13 @@
       "title": "article_199_tables",
       "url": "無連結",
       "filename": "article_199_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_486_tables",
       "url": "無連結",
       "filename": "article_486_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_386_tables",
@@ -643,28 +529,19 @@
       "title": "article_345_content",
       "url": "https://roo.cash/blog/cryptocurrency-article/",
       "filename": "article_345_content.txt",
-      "partners": [
-        "幣安"
-      ]
+      "partners": ["幣安"]
     },
     {
       "title": "article_48_content",
       "url": "https://roo.cash/blog/penalty-creditcard-recommendation/",
       "filename": "article_48_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_169_content",
       "url": "https://roo.cash/blog/bad-credit/",
       "filename": "article_169_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行",
-        "匯豐銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行", "匯豐銀行"]
     },
     {
       "title": "article_397_tables",
@@ -686,50 +563,31 @@
       "title": "article_583_tables",
       "url": "無連結",
       "filename": "article_583_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_38_content",
       "url": "https://roo.cash/blog/ub-jihocard/",
       "filename": "article_38_content.txt",
-      "partners": [
-        "LINE Pay",
-        "Apple Pay"
-      ]
+      "partners": ["LINE Pay", "Apple Pay"]
     },
     {
       "title": "article_119_content",
       "url": "https://roo.cash/blog/stock-pledged-loan-bank-recommendation/",
       "filename": "article_119_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_291_content",
       "url": "https://roo.cash/blog/00980a-etf-article/",
       "filename": "article_291_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_24_tables",
       "url": "無連結",
       "filename": "article_24_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "LINE Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "LINE Pay", "PayPal", "美股"]
     },
     {
       "title": "article_468_tables",
@@ -749,48 +607,31 @@
       "title": "article_66_content",
       "url": "https://roo.cash/blog/ctbc-creditcard-verification/",
       "filename": "article_66_content.txt",
-      "partners": [
-        "Apple Pay",
-        "Google Pay"
-      ]
+      "partners": ["Apple Pay", "Google Pay"]
     },
     {
       "title": "article_13_tables",
       "url": "無連結",
       "filename": "article_13_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_147_content",
       "url": "https://roo.cash/blog/apply-loan-requirement/",
       "filename": "article_147_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_417_content",
       "url": "https://roo.cash/blog/house-and-land-transactions-income-tax/",
       "filename": "article_417_content.txt",
-      "partners": [
-        "星展銀行",
-        "LINE Pay"
-      ]
+      "partners": ["星展銀行", "LINE Pay"]
     },
     {
       "title": "article_575_content",
       "url": "https://roo.cash/blog/lalaport-nangang-introduction/",
       "filename": "article_575_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "台中銀行"
-      ]
+      "partners": ["滙豐銀行", "台中銀行"]
     },
     {
       "title": "article_229_tables",
@@ -811,20 +652,13 @@
       "title": "article_115_tables",
       "url": "無連結",
       "filename": "article_115_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_46_tables",
       "url": "無連結",
       "filename": "article_46_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_368_tables",
@@ -845,95 +679,61 @@
       "title": "article_16_content",
       "url": "https://roo.cash/blog/vietnam-travel-credit-card/",
       "filename": "article_16_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "LINE Pay"
-      ]
+      "partners": ["滙豐銀行", "LINE Pay"]
     },
     {
       "title": "article_71_tables",
       "url": "無連結",
       "filename": "article_71_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股",
-        "台股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股", "台股"]
     },
     {
       "title": "article_122_tables",
       "url": "無連結",
       "filename": "article_122_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_467_content",
       "url": "https://roo.cash/blog/retirement-pension-tax/",
       "filename": "article_467_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_505_content",
       "url": "https://roo.cash/blog/tainan-viet-headspa/",
       "filename": "article_505_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_529_tables",
       "url": "無連結",
       "filename": "article_529_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_383_content",
       "url": "https://roo.cash/blog/googl-stock-article/",
       "filename": "article_383_content.txt",
-      "partners": [
-        "Google Pay",
-        "美股"
-      ]
+      "partners": ["Google Pay", "美股"]
     },
     {
       "title": "article_200_content",
       "url": "https://roo.cash/blog/nantou-loans-article/",
       "filename": "article_200_content.txt",
-      "partners": [
-        "國泰世華銀行"
-      ]
+      "partners": ["國泰世華銀行"]
     },
     {
       "title": "article_92_tables",
       "url": "無連結",
       "filename": "article_92_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "LINE Pay",
-        "Apple Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "LINE Pay", "Apple Pay", "PayPal", "美股"]
     },
     {
       "title": "article_362_content",
       "url": "https://roo.cash/blog/schw-stock-article/",
       "filename": "article_362_content.txt",
-      "partners": [
-        "ETF",
-        "美股"
-      ]
+      "partners": ["ETF", "美股"]
     },
     {
       "title": "article_87_content",
@@ -951,64 +751,43 @@
       "title": "article_312_content",
       "url": "https://roo.cash/blog/back-end-sales-load-fund/",
       "filename": "article_312_content.txt",
-      "partners": [
-        "ETF",
-        "基金"
-      ]
+      "partners": ["ETF", "基金"]
     },
     {
       "title": "article_235_tables",
       "url": "無連結",
       "filename": "article_235_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽",
-        "明台產險",
-        "和泰產險"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽", "明台產險", "和泰產險"]
     },
     {
       "title": "article_560_tables",
       "url": "無連結",
       "filename": "article_560_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行"]
     },
     {
       "title": "article_24_content",
       "url": "https://roo.cash/blog/credit-card-welcome-gift-suitcase/",
       "filename": "article_24_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_202_tables",
       "url": "無連結",
       "filename": "article_202_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_455_content",
       "url": "https://roo.cash/blog/insurance-physical-examination-hospital/",
       "filename": "article_455_content.txt",
-      "partners": [
-        "台灣人壽"
-      ]
+      "partners": ["台灣人壽"]
     },
     {
       "title": "article_105_content",
       "url": "https://roo.cash/blog/loan-increasing-interest-mortgage-loan/",
       "filename": "article_105_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_443_tables",
@@ -1042,35 +821,25 @@
       "title": "article_474_tables",
       "url": "無連結",
       "filename": "article_474_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_257_tables",
       "url": "無連結",
       "filename": "article_257_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_260_tables",
       "url": "無連結",
       "filename": "article_260_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_54_content",
       "url": "https://roo.cash/blog/lol-debit-card/",
       "filename": "article_54_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_421_tables",
@@ -1104,11 +873,7 @@
       "title": "article_109_tables",
       "url": "無連結",
       "filename": "article_109_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "匯豐銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "匯豐銀行"]
     },
     {
       "title": "article_374_tables",
@@ -1129,28 +894,19 @@
       "title": "article_500_content",
       "url": "https://roo.cash/blog/viet-headspa-store-rosa/",
       "filename": "article_500_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_579_tables",
       "url": "無連結",
       "filename": "article_579_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_219_content",
       "url": "https://roo.cash/blog/car-insurance-excess-liability-types/",
       "filename": "article_219_content.txt",
-      "partners": [
-        "國泰人壽"
-      ]
+      "partners": ["國泰人壽"]
     },
     {
       "title": "article_16_tables",
@@ -1169,45 +925,31 @@
       "title": "article_338_tables",
       "url": "無連結",
       "filename": "article_338_tables.txt",
-      "partners": [
-        "國泰世華銀行"
-      ]
+      "partners": ["國泰世華銀行"]
     },
     {
       "title": "article_13_content",
       "url": "https://roo.cash/blog/steam-credit-card-cashback/",
       "filename": "article_13_content.txt",
-      "partners": [
-        "Apple Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["Apple Pay", "PayPal", "美股"]
     },
     {
       "title": "article_132_content",
       "url": "https://roo.cash/blog/card-debt-negotiate/",
       "filename": "article_132_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_462_content",
       "url": "https://roo.cash/blog/civil-servant-pension-tax/",
       "filename": "article_462_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_172_tables",
       "url": "無連結",
       "filename": "article_172_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_21_tables",
@@ -1225,27 +967,19 @@
       "title": "article_279_tables",
       "url": "無連結",
       "filename": "article_279_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_294_content",
       "url": "https://roo.cash/blog/water-fund-article/",
       "filename": "article_294_content.txt",
-      "partners": [
-        "基金"
-      ]
+      "partners": ["基金"]
     },
     {
       "title": "article_127_tables",
       "url": "無連結",
       "filename": "article_127_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "匯豐銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "匯豐銀行"]
     },
     {
       "title": "article_74_tables",
@@ -1293,19 +1027,13 @@
       "title": "article_110_tables",
       "url": "無連結",
       "filename": "article_110_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "遠東商銀",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "遠東商銀", "渣打銀行"]
     },
     {
       "title": "article_412_content",
       "url": "https://roo.cash/blog/citizen-digital-certificate-application/",
       "filename": "article_412_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_286_tables",
@@ -1354,10 +1082,7 @@
       "title": "article_159_tables",
       "url": "無連結",
       "filename": "article_159_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_446_tables",
@@ -1377,58 +1102,37 @@
       "title": "article_565_tables",
       "url": "無連結",
       "filename": "article_565_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_207_tables",
       "url": "無連結",
       "filename": "article_207_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "明台產險"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "明台產險"]
     },
     {
       "title": "article_230_tables",
       "url": "無連結",
       "filename": "article_230_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_51_content",
       "url": "https://roo.cash/blog/new-graduate-card-recommendation/",
       "filename": "article_51_content.txt",
-      "partners": [
-        "LINE Pay",
-        "Apple Pay"
-      ]
+      "partners": ["LINE Pay", "Apple Pay"]
     },
     {
       "title": "article_420_content",
       "url": "https://roo.cash/blog/tax-relief-package/",
       "filename": "article_420_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_170_content",
       "url": "https://roo.cash/blog/line-bank-loan/",
       "filename": "article_170_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行",
-        "LINE Pay"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行", "LINE Pay"]
     },
     {
       "title": "article_413_tables",
@@ -1448,11 +1152,7 @@
       "title": "article_532_content",
       "url": "https://roo.cash/blog/macutea-drink-recommendation/",
       "filename": "article_532_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay"]
     },
     {
       "title": "article_371_tables",
@@ -1502,105 +1202,61 @@
       "title": "article_265_tables",
       "url": "無連結",
       "filename": "article_265_tables.txt",
-      "partners": [
-        "LINE Pay",
-        "富邦人壽",
-        "國泰人壽",
-        "明台產險",
-        "和泰產險"
-      ]
+      "partners": ["LINE Pay", "富邦人壽", "國泰人壽", "明台產險", "和泰產險"]
     },
     {
       "title": "article_507_tables",
       "url": "無連結",
       "filename": "article_507_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_349_content",
       "url": "https://roo.cash/blog/us-stock-handling-fee/",
       "filename": "article_349_content.txt",
-      "partners": [
-        "ETF",
-        "美股"
-      ]
+      "partners": ["ETF", "美股"]
     },
     {
       "title": "article_530_tables",
       "url": "無連結",
       "filename": "article_530_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_21_content",
       "url": "https://roo.cash/blog/alipay-taiwan-card-article/",
       "filename": "article_21_content.txt",
-      "partners": [
-        "渣打銀行",
-        "LINE Pay"
-      ]
+      "partners": ["渣打銀行", "LINE Pay"]
     },
     {
       "title": "article_450_content",
       "url": "https://roo.cash/blog/income-tax-filing/",
       "filename": "article_450_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_252_tables",
       "url": "無連結",
       "filename": "article_252_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "新光人壽",
-        "明台產險",
-        "和泰產險"
-      ]
+      "partners": ["富邦人壽", "新光人壽", "明台產險", "和泰產險"]
     },
     {
       "title": "article_100_content",
       "url": "https://roo.cash/blog/telecom-creditcard/",
       "filename": "article_100_content.txt",
-      "partners": [
-        "Google Pay",
-        "美股",
-        "台股"
-      ]
+      "partners": ["Google Pay", "美股", "台股"]
     },
     {
       "title": "article_317_content",
       "url": "https://roo.cash/blog/stock-open-account-recommendation/",
       "filename": "article_317_content.txt",
-      "partners": [
-        "富邦證券",
-        "永豐金證券",
-        "新光證券",
-        "凱基證券",
-        "台股"
-      ]
+      "partners": ["富邦證券", "永豐金證券", "新光證券", "凱基證券", "台股"]
     },
     {
       "title": "article_97_tables",
       "url": "無連結",
       "filename": "article_97_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "星展銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "星展銀行", "PayPal", "美股"]
     },
     {
       "title": "article_82_content",
@@ -1631,105 +1287,67 @@
       "title": "article_367_content",
       "url": "https://roo.cash/blog/dis-stock-article/",
       "filename": "article_367_content.txt",
-      "partners": [
-        "Apple Pay",
-        "美股"
-      ]
+      "partners": ["Apple Pay", "美股"]
     },
     {
       "title": "article_8_content",
       "url": "https://roo.cash/blog/travel-co-brand-mileage-card-comparison/",
       "filename": "article_8_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "星展銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "星展銀行"]
     },
     {
       "title": "article_483_content",
       "url": "https://roo.cash/blog/tax-withholding-voucher-download/",
       "filename": "article_483_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_302_content",
       "url": "https://roo.cash/blog/us-stock-open-accounts/",
       "filename": "article_302_content.txt",
-      "partners": [
-        "Apple Pay",
-        "ETF",
-        "美股"
-      ]
+      "partners": ["Apple Pay", "ETF", "美股"]
     },
     {
       "title": "article_97_content",
       "url": "https://roo.cash/blog/movie-vieshow-cinemas-creditcard/",
       "filename": "article_97_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "星展銀行"
-      ]
+      "partners": ["滙豐銀行", "星展銀行"]
     },
     {
       "title": "article_579_content",
       "url": "https://roo.cash/blog/taotaotea-recommendation-article/",
       "filename": "article_579_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay"]
     },
     {
       "title": "article_372_content",
       "url": "https://roo.cash/blog/unh-stock-article/",
       "filename": "article_372_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_86_tables",
       "url": "無連結",
       "filename": "article_86_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_509_content",
       "url": "https://roo.cash/blog/burger-king-menu/",
       "filename": "article_509_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行"]
     },
     {
       "title": "article_243_tables",
       "url": "無連結",
       "filename": "article_243_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽",
-        "明台產險",
-        "和泰產險"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽", "明台產險", "和泰產險"]
     },
     {
       "title": "article_274_tables",
       "url": "無連結",
       "filename": "article_274_tables.txt",
-      "partners": [
-        "LINE Pay",
-        "富邦人壽"
-      ]
+      "partners": ["LINE Pay", "富邦人壽"]
     },
     {
       "title": "article_79_tables",
@@ -1767,10 +1385,7 @@
       "title": "article_165_content",
       "url": "https://roo.cash/blog/low-loan-rate-comparison-recommendation/",
       "filename": "article_165_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_402_tables",
@@ -1791,9 +1406,7 @@
       "title": "article_435_content",
       "url": "https://roo.cash/blog/fuel-tax-overdue/",
       "filename": "article_435_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_44_content",
@@ -1811,17 +1424,13 @@
       "title": "article_221_tables",
       "url": "無連結",
       "filename": "article_221_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_216_tables",
       "url": "無連結",
       "filename": "article_216_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_457_tables",
@@ -1841,18 +1450,13 @@
       "title": "article_115_content",
       "url": "https://roo.cash/blog/government-loan/",
       "filename": "article_115_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_445_content",
       "url": "https://roo.cash/blog/premium-listed-deduction/",
       "filename": "article_445_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_302_tables",
@@ -1890,38 +1494,25 @@
       "title": "article_109_content",
       "url": "https://roo.cash/blog/how-to-calculate-loan-rate/",
       "filename": "article_109_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_459_content",
       "url": "https://roo.cash/blog/estate-tax-gift-tax-pros-and-cons/",
       "filename": "article_459_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_28_content",
       "url": "https://roo.cash/blog/onlyfans-credit-card-article/",
       "filename": "article_28_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "LINE Pay",
-        "Google Pay"
-      ]
+      "partners": ["滙豐銀行", "LINE Pay", "Google Pay"]
     },
     {
       "title": "article_5_tables",
       "url": "無連結",
       "filename": "article_5_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_483_tables",
@@ -1941,37 +1532,25 @@
       "title": "article_429_content",
       "url": "https://roo.cash/blog/line-pay-money-license-tax/",
       "filename": "article_429_content.txt",
-      "partners": [
-        "台中銀行",
-        "LINE Pay"
-      ]
+      "partners": ["台中銀行", "LINE Pay"]
     },
     {
       "title": "article_58_content",
       "url": "https://roo.cash/blog/license-tax-creditcard-recommendation/",
       "filename": "article_58_content.txt",
-      "partners": [
-        "台北富邦銀行",
-        "Google Pay"
-      ]
+      "partners": ["台北富邦銀行", "Google Pay"]
     },
     {
       "title": "article_330_content",
       "url": "https://roo.cash/blog/ntd-usd-exchange-rate/",
       "filename": "article_330_content.txt",
-      "partners": [
-        "滙豐銀行"
-      ]
+      "partners": ["滙豐銀行"]
     },
     {
       "title": "article_184_content",
       "url": "https://roo.cash/blog/loan-interest-calculation-article/",
       "filename": "article_184_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_383_tables",
@@ -1993,11 +1572,7 @@
       "title": "article_101_tables",
       "url": "無連結",
       "filename": "article_101_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "台北富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "台北富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_52_tables",
@@ -2016,11 +1591,7 @@
       "title": "article_65_tables",
       "url": "無連結",
       "filename": "article_65_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_429_tables",
@@ -2040,175 +1611,115 @@
       "title": "article_393_content",
       "url": "https://roo.cash/blog/hawk-and-dove/",
       "filename": "article_393_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_136_tables",
       "url": "無連結",
       "filename": "article_136_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_268_tables",
       "url": "無連結",
       "filename": "article_268_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_477_content",
       "url": "https://roo.cash/blog/couple-gift-tax/",
       "filename": "article_477_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_127_content",
       "url": "https://roo.cash/blog/apply-loan-categories/",
       "filename": "article_127_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "匯豐銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "匯豐銀行"]
     },
     {
       "title": "article_565_content",
       "url": "https://roo.cash/blog/chingshin-drink-recommendation/",
       "filename": "article_565_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行"]
     },
     {
       "title": "article_30_tables",
       "url": "無連結",
       "filename": "article_30_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_163_tables",
       "url": "無連結",
       "filename": "article_163_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_154_tables",
       "url": "無連結",
       "filename": "article_154_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "渣打銀行",
-        "匯豐銀行"
-      ]
+      "partners": ["滙豐銀行", "渣打銀行", "匯豐銀行"]
     },
     {
       "title": "article_407_content",
       "url": "https://roo.cash/blog/renter-and-landlord-income-tax-notice/",
       "filename": "article_407_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_157_content",
       "url": "https://roo.cash/blog/card-loan/",
       "filename": "article_157_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_76_content",
       "url": "https://roo.cash/blog/hypermarket-cashback-creditcard-comparison/",
       "filename": "article_76_content.txt",
-      "partners": [
-        "LINE Pay",
-        "Apple Pay",
-        "Google Pay",
-        "美股"
-      ]
+      "partners": ["LINE Pay", "Apple Pay", "Google Pay", "美股"]
     },
     {
       "title": "article_474_content",
       "url": "https://roo.cash/blog/chaotian-palace-mazu-pilgrimage-article/",
       "filename": "article_474_content.txt",
-      "partners": [
-        "Google Pay"
-      ]
+      "partners": ["Google Pay"]
     },
     {
       "title": "article_124_content",
       "url": "https://roo.cash/blog/loan-criteria/",
       "filename": "article_124_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_258_tables",
       "url": "無連結",
       "filename": "article_258_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_106_tables",
       "url": "無連結",
       "filename": "article_106_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "遠東商銀",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "遠東商銀", "渣打銀行"]
     },
     {
       "title": "article_55_tables",
       "url": "無連結",
       "filename": "article_55_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_390_content",
       "url": "https://roo.cash/blog/tsla-stock-article/",
       "filename": "article_390_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_419_tables",
       "url": "無連結",
       "filename": "article_419_tables.txt",
-      "partners": [
-        "LINE Pay",
-        "Apple Pay",
-        "Google Pay",
-        "Samsung Pay"
-      ]
+      "partners": ["LINE Pay", "Apple Pay", "Google Pay", "Samsung Pay"]
     },
     {
       "title": "article_62_tables",
@@ -2242,10 +1753,7 @@
       "title": "article_489_content",
       "url": "https://roo.cash/blog/franklin-article/",
       "filename": "article_489_content.txt",
-      "partners": [
-        "ETF",
-        "美股"
-      ]
+      "partners": ["ETF", "美股"]
     },
     {
       "title": "article_2_content",
@@ -2265,95 +1773,55 @@
       "title": "article_404_content",
       "url": "https://roo.cash/blog/estate-tax-filing/",
       "filename": "article_404_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_154_content",
       "url": "https://roo.cash/blog/obank-credit-loan/",
       "filename": "article_154_content.txt",
-      "partners": [
-        "富邦銀行",
-        "新光銀行",
-        "渣打銀行",
-        "LINE Pay"
-      ]
+      "partners": ["富邦銀行", "新光銀行", "渣打銀行", "LINE Pay"]
     },
     {
       "title": "article_75_content",
       "url": "https://roo.cash/blog/louisacoffee-creditcard/",
       "filename": "article_75_content.txt",
-      "partners": [
-        "LINE Pay",
-        "Apple Pay",
-        "Google Pay",
-        "Samsung Pay"
-      ]
+      "partners": ["LINE Pay", "Apple Pay", "Google Pay", "Samsung Pay"]
     },
     {
       "title": "article_558_tables",
       "url": "無連結",
       "filename": "article_558_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_37_tables",
       "url": "無連結",
       "filename": "article_37_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay", "PayPal", "美股"]
     },
     {
       "title": "article_164_tables",
       "url": "無連結",
       "filename": "article_164_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "國泰世華銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "國泰世華銀行", "渣打銀行"]
     },
     {
       "title": "article_88_content",
       "url": "https://roo.cash/blog/cashback-introduction/",
       "filename": "article_88_content.txt",
-      "partners": [
-        "LINE Pay",
-        "美股"
-      ]
+      "partners": ["LINE Pay", "美股"]
     },
     {
       "title": "article_153_tables",
       "url": "無連結",
       "filename": "article_153_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "滙豐銀行",
-        "樂天銀行",
-        "渣打銀行",
-        "匯豐銀行"
-      ]
+      "partners": ["富邦銀行", "滙豐銀行", "樂天銀行", "渣打銀行", "匯豐銀行"]
     },
     {
       "title": "article_538_content",
       "url": "https://roo.cash/blog/truedan-menu/",
       "filename": "article_538_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay"]
     },
     {
       "title": "article_484_tables",
@@ -2373,9 +1841,7 @@
       "title": "article_221_content",
       "url": "https://roo.cash/blog/car-insurance-mini-electric-vehicle/",
       "filename": "article_221_content.txt",
-      "partners": [
-        "國泰人壽"
-      ]
+      "partners": ["國泰人壽"]
     },
     {
       "title": "article_343_content",
@@ -2395,21 +1861,13 @@
       "title": "article_2_tables",
       "url": "無連結",
       "filename": "article_2_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_187_content",
       "url": "https://roo.cash/blog/kgi-revolving-credit/",
       "filename": "article_187_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_384_tables",
@@ -2430,27 +1888,19 @@
       "title": "article_290_tables",
       "url": "無連結",
       "filename": "article_290_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_166_content",
       "url": "https://roo.cash/blog/loan-raising/",
       "filename": "article_166_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_436_content",
       "url": "https://roo.cash/blog/fuel-tax-search/",
       "filename": "article_436_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_350_tables",
@@ -2520,61 +1970,37 @@
       "title": "article_244_tables",
       "url": "無連結",
       "filename": "article_244_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽",
-        "明台產險",
-        "和泰產險"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽", "明台產險", "和泰產險"]
     },
     {
       "title": "article_511_tables",
       "url": "無連結",
       "filename": "article_511_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_273_tables",
       "url": "無連結",
       "filename": "article_273_tables.txt",
-      "partners": [
-        "LINE Pay",
-        "富邦人壽"
-      ]
+      "partners": ["LINE Pay", "富邦人壽"]
     },
     {
       "title": "article_116_content",
       "url": "https://roo.cash/blog/ctbc-credit-loan/",
       "filename": "article_116_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "匯豐銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "匯豐銀行"]
     },
     {
       "title": "article_446_content",
       "url": "https://roo.cash/blog/income-tax-receipts-download/",
       "filename": "article_446_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_37_content",
       "url": "https://roo.cash/blog/ubereats-creditcard-recommendation/",
       "filename": "article_37_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay"]
     },
     {
       "title": "article_450_tables",
@@ -2608,71 +2034,49 @@
       "title": "article_226_tables",
       "url": "無連結",
       "filename": "article_226_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽"]
     },
     {
       "title": "article_211_tables",
       "url": "無連結",
       "filename": "article_211_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "明台產險",
-        "和泰產險"
-      ]
+      "partners": ["富邦人壽", "明台產險", "和泰產險"]
     },
     {
       "title": "article_94_content",
       "url": "https://roo.cash/blog/fradulent-card-charges/",
       "filename": "article_94_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_187_tables",
       "url": "無連結",
       "filename": "article_187_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_418_content",
       "url": "https://roo.cash/blog/couple-income-tax/",
       "filename": "article_418_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_398_tables",
       "url": "無連結",
       "filename": "article_398_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_371_content",
       "url": "https://roo.cash/blog/mcd-stock-article/",
       "filename": "article_371_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_468_content",
       "url": "https://roo.cash/blog/income-tax-overdue/",
       "filename": "article_468_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_81_tables",
@@ -2692,24 +2096,13 @@
       "title": "article_90_tables",
       "url": "無連結",
       "filename": "article_90_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "LINE Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "LINE Pay", "PayPal", "美股"]
     },
     {
       "title": "article_81_content",
       "url": "https://roo.cash/blog/carrefour-creditcard-recommendation/",
       "filename": "article_81_content.txt",
-      "partners": [
-        "LINE Pay",
-        "Apple Pay",
-        "Google Pay",
-        "Samsung Pay",
-        "美股"
-      ]
+      "partners": ["LINE Pay", "Apple Pay", "Google Pay", "Samsung Pay", "美股"]
     },
     {
       "title": "article_389_tables",
@@ -2729,96 +2122,61 @@
       "title": "article_314_content",
       "url": "https://roo.cash/blog/how-to-hedge/",
       "filename": "article_314_content.txt",
-      "partners": [
-        "ETF",
-        "台股",
-        "基金"
-      ]
+      "partners": ["ETF", "台股", "基金"]
     },
     {
       "title": "article_480_content",
       "url": "https://roo.cash/blog/tax-donation-credit/",
       "filename": "article_480_content.txt",
-      "partners": [
-        "星展銀行",
-        "LINE Pay"
-      ]
+      "partners": ["星展銀行", "LINE Pay"]
     },
     {
       "title": "article_399_content",
       "url": "https://roo.cash/blog/tax-overpaid-return/",
       "filename": "article_399_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_489_tables",
       "url": "無連結",
       "filename": "article_489_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "ETF",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "ETF", "美股"]
     },
     {
       "title": "article_364_content",
       "url": "https://roo.cash/blog/abbv-stock-article/",
       "filename": "article_364_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_52_content",
       "url": "https://roo.cash/blog/nagomi-shinyeh-credit-cards/",
       "filename": "article_52_content.txt",
-      "partners": [
-        "Garmin Pay",
-        "Apple Pay",
-        "Google Pay",
-        "Samsung Pay"
-      ]
+      "partners": ["Garmin Pay", "Apple Pay", "Google Pay", "Samsung Pay"]
     },
     {
       "title": "article_562_tables",
       "url": "無連結",
       "filename": "article_562_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_423_content",
       "url": "https://roo.cash/blog/income-tax-calculation/",
       "filename": "article_423_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_173_content",
       "url": "https://roo.cash/blog/credit-loan-recommendation-article/",
       "filename": "article_173_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行",
-        "匯豐銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行", "匯豐銀行"]
     },
     {
       "title": "article_237_tables",
       "url": "無連結",
       "filename": "article_237_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_476_tables",
@@ -2839,66 +2197,43 @@
       "title": "article_169_tables",
       "url": "無連結",
       "filename": "article_169_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_441_tables",
       "url": "無連結",
       "filename": "article_441_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_22_content",
       "url": "https://roo.cash/blog/anniversary-skm-pay/",
       "filename": "article_22_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "台北富邦銀行",
-        "星展銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "台北富邦銀行", "星展銀行"]
     },
     {
       "title": "article_453_content",
       "url": "https://roo.cash/blog/nhi-card-income-tax-introduction/",
       "filename": "article_453_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_262_tables",
       "url": "無連結",
       "filename": "article_262_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "新光人壽"
-      ]
+      "partners": ["富邦人壽", "新光人壽"]
     },
     {
       "title": "article_103_content",
       "url": "https://roo.cash/blog/youth-farmland-loan/",
       "filename": "article_103_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_255_tables",
       "url": "無連結",
       "filename": "article_255_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_376_tables",
@@ -2919,9 +2254,7 @@
       "title": "article_228_content",
       "url": "https://roo.cash/blog/travel-accident-insurance-hsbc/",
       "filename": "article_228_content.txt",
-      "partners": [
-        "滙豐銀行"
-      ]
+      "partners": ["滙豐銀行"]
     },
     {
       "title": "article_58_tables",
@@ -2978,25 +2311,19 @@
       "title": "article_531_content",
       "url": "https://roo.cash/blog/soma-menu/",
       "filename": "article_531_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_281_tables",
       "url": "無連結",
       "filename": "article_281_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_234_content",
       "url": "https://roo.cash/blog/travel-accident-insurance-dbs/",
       "filename": "article_234_content.txt",
-      "partners": [
-        "星展銀行"
-      ]
+      "partners": ["星展銀行"]
     },
     {
       "title": "article_395_tables",
@@ -3016,68 +2343,43 @@
       "title": "article_356_content",
       "url": "https://roo.cash/blog/stock-bond-introduction/",
       "filename": "article_356_content.txt",
-      "partners": [
-        "ETF",
-        "基金"
-      ]
+      "partners": ["ETF", "基金"]
     },
     {
       "title": "article_581_tables",
       "url": "無連結",
       "filename": "article_581_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_326_content",
       "url": "https://roo.cash/blog/usd-invest-introduction/",
       "filename": "article_326_content.txt",
-      "partners": [
-        "Apple Pay",
-        "Google Pay",
-        "ETF",
-        "美股"
-      ]
+      "partners": ["Apple Pay", "Google Pay", "ETF", "美股"]
     },
     {
       "title": "article_10_content",
       "url": "https://roo.cash/blog/green-credit-cards/",
       "filename": "article_10_content.txt",
-      "partners": [
-        "星展銀行"
-      ]
+      "partners": ["星展銀行"]
     },
     {
       "title": "article_11_tables",
       "url": "無連結",
       "filename": "article_11_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_131_content",
       "url": "https://roo.cash/blog/company-loan-introduction/",
       "filename": "article_131_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_461_content",
       "url": "https://roo.cash/blog/spillover-insurance-intro/",
       "filename": "article_461_content.txt",
-      "partners": [
-        "Apple Pay",
-        "Google Pay"
-      ]
+      "partners": ["Apple Pay", "Google Pay"]
     },
     {
       "title": "article_26_tables",
@@ -3096,25 +2398,19 @@
       "title": "article_378_content",
       "url": "https://roo.cash/blog/cost-stock-article/",
       "filename": "article_378_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_385_content",
       "url": "https://roo.cash/blog/amd-stock-article/",
       "filename": "article_385_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_503_content",
       "url": "https://roo.cash/blog/zhongli-viet-headspa/",
       "filename": "article_503_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_60_content",
@@ -3132,11 +2428,7 @@
       "title": "article_120_tables",
       "url": "無連結",
       "filename": "article_120_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_73_tables",
@@ -3156,20 +2448,13 @@
       "title": "article_411_content",
       "url": "https://roo.cash/blog/income-tax-deduction/",
       "filename": "article_411_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_44_tables",
       "url": "無連結",
       "filename": "article_44_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_408_tables",
@@ -3189,28 +2474,19 @@
       "title": "article_308_content",
       "url": "https://roo.cash/blog/buy-fund-teaching/",
       "filename": "article_308_content.txt",
-      "partners": [
-        "鉅亨網",
-        "ETF",
-        "基金"
-      ]
+      "partners": ["鉅亨網", "ETF", "基金"]
     },
     {
       "title": "article_117_tables",
       "url": "無連結",
       "filename": "article_117_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_249_tables",
       "url": "無連結",
       "filename": "article_249_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_444_tables",
@@ -3230,46 +2506,31 @@
       "title": "article_473_tables",
       "url": "無連結",
       "filename": "article_473_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_534_content",
       "url": "https://roo.cash/blog/wanpo-drink-recommendation/",
       "filename": "article_534_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay"]
     },
     {
       "title": "article_27_content",
       "url": "https://roo.cash/blog/taobao-credit-card/",
       "filename": "article_27_content.txt",
-      "partners": [
-        "LINE Pay",
-        "Apple Pay"
-      ]
+      "partners": ["LINE Pay", "Apple Pay"]
     },
     {
       "title": "article_232_tables",
       "url": "無連結",
       "filename": "article_232_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_456_content",
       "url": "https://roo.cash/blog/mortgage-interest-tax-credit/",
       "filename": "article_456_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_106_content",
@@ -3288,9 +2549,7 @@
       "title": "article_205_tables",
       "url": "無連結",
       "filename": "article_205_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_426_tables",
@@ -3339,90 +2598,61 @@
       "title": "article_250_tables",
       "url": "無連結",
       "filename": "article_250_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_57_content",
       "url": "https://roo.cash/blog/happygopay-creditcard-recommend/",
       "filename": "article_57_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "星展銀行",
-        "遠東商銀"
-      ]
+      "partners": ["滙豐銀行", "星展銀行", "遠東商銀"]
     },
     {
       "title": "article_426_content",
       "url": "https://roo.cash/blog/house-tax-calculate/",
       "filename": "article_426_content.txt",
-      "partners": [
-        "台中銀行",
-        "LINE Pay"
-      ]
+      "partners": ["台中銀行", "LINE Pay"]
     },
     {
       "title": "article_532_tables",
       "url": "無連結",
       "filename": "article_532_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_176_content",
       "url": "https://roo.cash/blog/acquittance-proof-article/",
       "filename": "article_176_content.txt",
-      "partners": [
-        "匯豐銀行"
-      ]
+      "partners": ["匯豐銀行"]
     },
     {
       "title": "article_267_tables",
       "url": "無連結",
       "filename": "article_267_tables.txt",
-      "partners": [
-        "LINE Pay",
-        "明台產險"
-      ]
+      "partners": ["LINE Pay", "明台產險"]
     },
     {
       "title": "article_361_content",
       "url": "https://roo.cash/blog/abt-stock-article/",
       "filename": "article_361_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_128_content",
       "url": "https://roo.cash/blog/sinopac-credit-loan/",
       "filename": "article_128_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_478_content",
       "url": "https://roo.cash/blog/overseas-income-tax-introduction/",
       "filename": "article_478_content.txt",
-      "partners": [
-        "LINE Pay",
-        "ETF"
-      ]
+      "partners": ["LINE Pay", "ETF"]
     },
     {
       "title": "article_485_content",
       "url": "https://roo.cash/blog/baishatun-mazu-pilgrimage-article/",
       "filename": "article_485_content.txt",
-      "partners": [
-        "台中銀行"
-      ]
+      "partners": ["台中銀行"]
     },
     {
       "title": "article_95_tables",
@@ -3442,10 +2672,7 @@
       "title": "article_311_content",
       "url": "https://roo.cash/blog/hedge-fund/",
       "filename": "article_311_content.txt",
-      "partners": [
-        "ETF",
-        "基金"
-      ]
+      "partners": ["ETF", "基金"]
     },
     {
       "title": "article_79_content",
@@ -3467,92 +2694,61 @@
       "title": "article_158_content",
       "url": "https://roo.cash/blog/2022-phoenix-entrepreneurs-loan/",
       "filename": "article_158_content.txt",
-      "partners": [
-        "富邦銀行",
-        "台灣土地銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "台灣土地銀行", "渣打銀行"]
     },
     {
       "title": "article_408_content",
       "url": "https://roo.cash/blog/gift-tax-calculate/",
       "filename": "article_408_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_273_content",
       "url": "https://roo.cash/blog/travel-inconvenience-insurance-introduction/",
       "filename": "article_273_content.txt",
-      "partners": [
-        "新光人壽"
-      ]
+      "partners": ["新光人壽"]
     },
     {
       "title": "article_219_tables",
       "url": "無連結",
       "filename": "article_219_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_98_content",
       "url": "https://roo.cash/blog/cashback-creditcard-recommendation/",
       "filename": "article_98_content.txt",
-      "partners": [
-        "星展銀行",
-        "LINE Pay",
-        "Apple Pay",
-        "Samsung Pay",
-        "美股"
-      ]
+      "partners": ["星展銀行", "LINE Pay", "Apple Pay", "Samsung Pay", "美股"]
     },
     {
       "title": "article_23_tables",
       "url": "無連結",
       "filename": "article_23_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_170_tables",
       "url": "無連結",
       "filename": "article_170_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_414_content",
       "url": "https://roo.cash/blog/tax-citizen-certificate-password/",
       "filename": "article_414_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_292_content",
       "url": "https://roo.cash/blog/2357-dividend-article/",
       "filename": "article_292_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_147_tables",
       "url": "無連結",
       "filename": "article_147_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_14_tables",
@@ -3586,54 +2782,37 @@
       "title": "article_380_content",
       "url": "https://roo.cash/blog/brkb-stock-article/",
       "filename": "article_380_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_499_content",
       "url": "https://roo.cash/blog/viet-headspa-store-purplebeauty/",
       "filename": "article_499_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_506_content",
       "url": "https://roo.cash/blog/subway-article/",
       "filename": "article_506_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行"]
     },
     {
       "title": "article_15_content",
       "url": "https://roo.cash/blog/video-platform-creditcard-comparison/",
       "filename": "article_15_content.txt",
-      "partners": [
-        "國泰世華銀行",
-        "美股"
-      ]
+      "partners": ["國泰世華銀行", "美股"]
     },
     {
       "title": "article_134_content",
       "url": "https://roo.cash/blog/relief-loan/",
       "filename": "article_134_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_112_tables",
       "url": "無連結",
       "filename": "article_112_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "匯豐銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "匯豐銀行"]
     },
     {
       "title": "article_41_tables",
@@ -3654,47 +2833,31 @@
       "title": "article_76_tables",
       "url": "無連結",
       "filename": "article_76_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_125_tables",
       "url": "無連結",
       "filename": "article_125_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_358_tables",
       "url": "無連結",
       "filename": "article_358_tables.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_89_tables",
       "url": "無連結",
       "filename": "article_89_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_323_content",
       "url": "https://roo.cash/blog/tsmc-american-depository-receipts/",
       "filename": "article_323_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "台股"
-      ]
+      "partners": ["滙豐銀行", "台股"]
     },
     {
       "title": "article_390_tables",
@@ -3714,59 +2877,37 @@
       "title": "article_558_content",
       "url": "https://roo.cash/blog/milksha-drink-recommendation/",
       "filename": "article_558_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行"]
     },
     {
       "title": "article_241_content",
       "url": "https://roo.cash/blog/travel-accident-insurance-fubon-j/",
       "filename": "article_241_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_353_content",
       "url": "https://roo.cash/blog/us-stock-exchangetradedfund-article/",
       "filename": "article_353_content.txt",
-      "partners": [
-        "Apple Pay",
-        "Google Pay",
-        "ETF",
-        "美股"
-      ]
+      "partners": ["Apple Pay", "Google Pay", "ETF", "美股"]
     },
     {
       "title": "article_490_tables",
       "url": "無連結",
       "filename": "article_490_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "ETF",
-        "美股",
-        "台股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "ETF", "美股", "台股"]
     },
     {
       "title": "article_231_content",
       "url": "https://roo.cash/blog/travel-accident-insurance-ctbc/",
       "filename": "article_231_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_7_tables",
       "url": "無連結",
       "filename": "article_7_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_481_tables",
@@ -3786,30 +2927,19 @@
       "title": "article_346_content",
       "url": "https://roo.cash/blog/south-african-rand-fund/",
       "filename": "article_346_content.txt",
-      "partners": [
-        "ETF",
-        "基金"
-      ]
+      "partners": ["ETF", "基金"]
     },
     {
       "title": "article_381_tables",
       "url": "無連結",
       "filename": "article_381_tables.txt",
-      "partners": [
-        "國泰證券",
-        "新光證券",
-        "凱基證券",
-        "Apple Pay",
-        "ETF"
-      ]
+      "partners": ["國泰證券", "新光證券", "凱基證券", "Apple Pay", "ETF"]
     },
     {
       "title": "article_224_content",
       "url": "https://roo.cash/blog/travel-insurence-card-fubon/",
       "filename": "article_224_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_98_tables",
@@ -3830,20 +2960,13 @@
       "title": "article_134_tables",
       "url": "無連結",
       "filename": "article_134_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_67_tables",
       "url": "無連結",
       "filename": "article_67_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_349_tables",
@@ -3867,39 +2990,25 @@
       "title": "article_563_content",
       "url": "https://roo.cash/blog/lephare-article/",
       "filename": "article_563_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay"]
     },
     {
       "title": "article_50_tables",
       "url": "無連結",
       "filename": "article_50_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_103_tables",
       "url": "無連結",
       "filename": "article_103_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_401_content",
       "url": "https://roo.cash/blog/license-tax-overdue/",
       "filename": "article_401_content.txt",
-      "partners": [
-        "LINE Pay",
-        "Google Pay"
-      ]
+      "partners": ["LINE Pay", "Google Pay"]
     },
     {
       "title": "article_70_content",
@@ -3922,57 +3031,37 @@
       "title": "article_318_content",
       "url": "https://roo.cash/blog/stock-anuefund-app-intro-corp/",
       "filename": "article_318_content.txt",
-      "partners": [
-        "鉅亨網",
-        "Google Pay"
-      ]
+      "partners": ["鉅亨網", "Google Pay"]
     },
     {
       "title": "article_508_tables",
       "url": "無連結",
       "filename": "article_508_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_287_content",
       "url": "https://roo.cash/blog/strike-travel-inconvenience-insurance/",
       "filename": "article_287_content.txt",
-      "partners": [
-        "台灣人壽",
-        "明台產險"
-      ]
+      "partners": ["台灣人壽", "明台產險"]
     },
     {
       "title": "article_395_content",
       "url": "https://roo.cash/blog/tax-introduction/",
       "filename": "article_395_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_156_tables",
       "url": "無連結",
       "filename": "article_156_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_161_tables",
       "url": "無連結",
       "filename": "article_161_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_32_tables",
@@ -3992,79 +3081,55 @@
       "title": "article_513_content",
       "url": "https://roo.cash/blog/taichung-viet-headspa/",
       "filename": "article_513_content.txt",
-      "partners": [
-        "台中銀行",
-        "LINE Pay"
-      ]
+      "partners": ["台中銀行", "LINE Pay"]
     },
     {
       "title": "article_471_content",
       "url": "https://roo.cash/blog/itemized-deduction-tax/",
       "filename": "article_471_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_121_content",
       "url": "https://roo.cash/blog/electric-car-loan/",
       "filename": "article_121_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "基金"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "基金"]
     },
     {
       "title": "article_208_tables",
       "url": "無連結",
       "filename": "article_208_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_368_content",
       "url": "https://roo.cash/blog/cvx-stock-article/",
       "filename": "article_368_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_374_content",
       "url": "https://roo.cash/blog/v-stock-article/",
       "filename": "article_374_content.txt",
-      "partners": [
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["PayPal", "美股"]
     },
     {
       "title": "article_182_tables",
       "url": "無連結",
       "filename": "article_182_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_490_content",
       "url": "https://roo.cash/blog/manulifeim-article/",
       "filename": "article_490_content.txt",
-      "partners": [
-        "宏利投信",
-        "ETF"
-      ]
+      "partners": ["宏利投信", "ETF"]
     },
     {
       "title": "article_389_content",
       "url": "https://roo.cash/blog/avgo-stock-article/",
       "filename": "article_389_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_84_tables",
@@ -4083,83 +3148,55 @@
       "title": "article_304_content",
       "url": "https://roo.cash/blog/mutual-fund/",
       "filename": "article_304_content.txt",
-      "partners": [
-        "ETF",
-        "基金"
-      ]
+      "partners": ["ETF", "基金"]
     },
     {
       "title": "article_582_content",
       "url": "https://roo.cash/blog/50-lan-drink-recommendation/",
       "filename": "article_582_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "台中銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "台中銀行"]
     },
     {
       "title": "article_289_tables",
       "url": "無連結",
       "filename": "article_289_tables.txt",
-      "partners": [
-        "LINE Pay",
-        "國泰人壽"
-      ]
+      "partners": ["LINE Pay", "國泰人壽"]
     },
     {
       "title": "article_238_content",
       "url": "https://roo.cash/blog/car-insurance-d/",
       "filename": "article_238_content.txt",
-      "partners": [
-        "LINE Pay",
-        "富邦人壽",
-        "新安東京海上保險",
-        "明台產險"
-      ]
+      "partners": ["LINE Pay", "富邦人壽", "新安東京海上保險", "明台產險"]
     },
     {
       "title": "article_276_tables",
       "url": "無連結",
       "filename": "article_276_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_241_tables",
       "url": "無連結",
       "filename": "article_241_tables.txt",
-      "partners": [
-        "美股",
-        "富邦人壽"
-      ]
+      "partners": ["美股", "富邦人壽"]
     },
     {
       "title": "article_113_content",
       "url": "https://roo.cash/blog/tax-loan/",
       "filename": "article_113_content.txt",
-      "partners": [
-        "遠東商銀"
-      ]
+      "partners": ["遠東商銀"]
     },
     {
       "title": "article_362_tables",
       "url": "無連結",
       "filename": "article_362_tables.txt",
-      "partners": [
-        "新光證券",
-        "凱基證券",
-        "Apple Pay"
-      ]
+      "partners": ["新光證券", "凱基證券", "Apple Pay"]
     },
     {
       "title": "article_443_content",
       "url": "https://roo.cash/blog/land-value-tax-self-use-residential/",
       "filename": "article_443_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_32_content",
@@ -4205,43 +3242,25 @@
       "title": "article_128_tables",
       "url": "無連結",
       "filename": "article_128_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_214_tables",
       "url": "無連結",
       "filename": "article_214_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽",
-        "明台產險",
-        "和泰產險"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽", "明台產險", "和泰產險"]
     },
     {
       "title": "article_223_tables",
       "url": "無連結",
       "filename": "article_223_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽",
-        "和泰產險"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽", "和泰產險"]
     },
     {
       "title": "article_163_content",
       "url": "https://roo.cash/blog/cub-credit-loan/",
       "filename": "article_163_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_462_tables",
@@ -4281,29 +3300,19 @@
       "title": "article_19_tables",
       "url": "無連結",
       "filename": "article_19_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_455_tables",
       "url": "無連結",
       "filename": "article_455_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_185_content",
       "url": "https://roo.cash/blog/jcic-record/",
       "filename": "article_185_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_287_tables",
@@ -4322,18 +3331,13 @@
       "title": "article_59_content",
       "url": "https://roo.cash/blog/hamipay-creditcard/",
       "filename": "article_59_content.txt",
-      "partners": [
-        "PayPal"
-      ]
+      "partners": ["PayPal"]
     },
     {
       "title": "article_428_content",
       "url": "https://roo.cash/blog/quantum-computing-stock/",
       "filename": "article_428_content.txt",
-      "partners": [
-        "Google Pay",
-        "台股"
-      ]
+      "partners": ["Google Pay", "台股"]
     },
     {
       "title": "article_29_content",
@@ -4357,58 +3361,37 @@
       "title": "article_458_content",
       "url": "https://roo.cash/blog/house-tax-payment/",
       "filename": "article_458_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_108_content",
       "url": "https://roo.cash/blog/cathay-vs-esun/",
       "filename": "article_108_content.txt",
-      "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "渣打銀行",
-        "國泰銀行"
-      ]
+      "partners": ["富邦銀行", "玉山銀行", "渣打銀行", "國泰銀行"]
     },
     {
       "title": "article_156_content",
       "url": "https://roo.cash/blog/integrate-debt-restore-credit-score/",
       "filename": "article_156_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_406_content",
       "url": "https://roo.cash/blog/house-and-land-transactions-income-tax-new/",
       "filename": "article_406_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_17_tables",
       "url": "無連結",
       "filename": "article_17_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_20_tables",
       "url": "無連結",
       "filename": "article_20_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_173_tables",
@@ -4431,54 +3414,37 @@
       "title": "article_564_content",
       "url": "https://roo.cash/blog/19teahouse-recommendation-article/",
       "filename": "article_564_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行"]
     },
     {
       "title": "article_126_content",
       "url": "https://roo.cash/blog/credit-analysis/",
       "filename": "article_126_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_476_content",
       "url": "https://roo.cash/blog/tax-mobile-citizen-digital-certificate/",
       "filename": "article_476_content.txt",
-      "partners": [
-        "星展銀行",
-        "LINE Pay"
-      ]
+      "partners": ["星展銀行", "LINE Pay"]
     },
     {
       "title": "article_278_tables",
       "url": "無連結",
       "filename": "article_278_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_439_tables",
       "url": "無連結",
       "filename": "article_439_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_392_content",
       "url": "https://roo.cash/blog/twd-appreciate/",
       "filename": "article_392_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_75_tables",
@@ -4499,28 +3465,19 @@
       "title": "article_126_tables",
       "url": "無連結",
       "filename": "article_126_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_111_tables",
       "url": "無連結",
       "filename": "article_111_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "遠東商銀",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "遠東商銀", "渣打銀行"]
     },
     {
       "title": "article_514_content",
       "url": "https://roo.cash/blog/california-disneyland-tickets/",
       "filename": "article_514_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_42_tables",
@@ -4540,10 +3497,7 @@
       "title": "article_508_content",
       "url": "https://roo.cash/blog/kfc-menu/",
       "filename": "article_508_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行"]
     },
     {
       "title": "article_96_tables",
@@ -4565,37 +3519,25 @@
       "title": "article_373_content",
       "url": "https://roo.cash/blog/lly-stock-article/",
       "filename": "article_373_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_96_content",
       "url": "https://roo.cash/blog/japan-mobilepayment/",
       "filename": "article_96_content.txt",
-      "partners": [
-        "Apple Pay"
-      ]
+      "partners": ["Apple Pay"]
     },
     {
       "title": "article_9_tables",
       "url": "無連結",
       "filename": "article_9_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "Apple Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "Apple Pay", "PayPal", "美股"]
     },
     {
       "title": "article_303_content",
       "url": "https://roo.cash/blog/sovereign-wealth-fund/",
       "filename": "article_303_content.txt",
-      "partners": [
-        "ETF",
-        "基金"
-      ]
+      "partners": ["ETF", "基金"]
     },
     {
       "title": "article_470_tables",
@@ -4615,35 +3557,25 @@
       "title": "article_312_tables",
       "url": "無連結",
       "filename": "article_312_tables.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_444_content",
       "url": "https://roo.cash/blog/nhi-card-and-phone-income-tax-comparison/",
       "filename": "article_444_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_114_content",
       "url": "https://roo.cash/blog/kgibank-loan/",
       "filename": "article_114_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_325_tables",
       "url": "無連結",
       "filename": "article_325_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "台北富邦銀行"
-      ]
+      "partners": ["滙豐銀行", "台北富邦銀行"]
     },
     {
       "title": "article_447_tables",
@@ -4663,46 +3595,31 @@
       "title": "article_158_tables",
       "url": "無連結",
       "filename": "article_158_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_206_tables",
       "url": "無連結",
       "filename": "article_206_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_564_tables",
       "url": "無連結",
       "filename": "article_564_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_526_content",
       "url": "https://roo.cash/blog/osaka-shopping-guide/",
       "filename": "article_526_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_231_tables",
       "url": "無連結",
       "filename": "article_231_tables.txt",
-      "partners": [
-        "LINE Pay",
-        "富邦人壽"
-      ]
+      "partners": ["LINE Pay", "富邦人壽"]
     },
     {
       "title": "article_370_tables",
@@ -4723,20 +3640,13 @@
       "title": "article_45_content",
       "url": "https://roo.cash/blog/sushi-express-credit-cards/",
       "filename": "article_45_content.txt",
-      "partners": [
-        "LINE Pay",
-        "Apple Pay",
-        "Google Pay",
-        "Samsung Pay"
-      ]
+      "partners": ["LINE Pay", "Apple Pay", "Google Pay", "Samsung Pay"]
     },
     {
       "title": "article_434_content",
       "url": "https://roo.cash/blog/year-end-bonus-tax/",
       "filename": "article_434_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_412_tables",
@@ -4756,78 +3666,49 @@
       "title": "article_164_content",
       "url": "https://roo.cash/blog/loan-repayment-in-advance/",
       "filename": "article_164_content.txt",
-      "partners": [
-        "富邦銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_425_tables",
       "url": "無連結",
       "filename": "article_425_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_69_tables",
       "url": "無連結",
       "filename": "article_69_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_506_tables",
       "url": "無連結",
       "filename": "article_506_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_264_tables",
       "url": "無連結",
       "filename": "article_264_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_253_tables",
       "url": "無連結",
       "filename": "article_253_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "新光人壽",
-        "明台產險",
-        "和泰產險"
-      ]
+      "partners": ["富邦人壽", "新光人壽", "明台產險", "和泰產險"]
     },
     {
       "title": "article_199_content",
       "url": "https://roo.cash/blog/business-tax-return-401/",
       "filename": "article_199_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_556_content",
       "url": "https://roo.cash/blog/kebuke-drink-recommendation/",
       "filename": "article_556_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行"]
     },
     {
       "title": "article_101_content",
@@ -4845,21 +3726,13 @@
       "title": "article_242_tables",
       "url": "無連結",
       "filename": "article_242_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽",
-        "明台產險",
-        "和泰產險"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽", "明台產險", "和泰產險"]
     },
     {
       "title": "article_451_content",
       "url": "https://roo.cash/blog/income-tax-withholding-tax-statement/",
       "filename": "article_451_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_20_content",
@@ -4877,20 +3750,13 @@
       "title": "article_348_content",
       "url": "https://roo.cash/blog/stock-sinopac-open-accounts/",
       "filename": "article_348_content.txt",
-      "partners": [
-        "永豐金證券",
-        "Apple Pay",
-        "Google Pay",
-        "ETF"
-      ]
+      "partners": ["永豐金證券", "Apple Pay", "Google Pay", "ETF"]
     },
     {
       "title": "article_275_tables",
       "url": "無連結",
       "filename": "article_275_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_434_tables",
@@ -4910,11 +3776,7 @@
       "title": "article_78_tables",
       "url": "無連結",
       "filename": "article_78_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_361_tables",
@@ -4946,20 +3808,13 @@
       "title": "article_171_content",
       "url": "https://roo.cash/blog/government-loan-recommendation/",
       "filename": "article_171_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_421_content",
       "url": "https://roo.cash/blog/tax-installment-pros-and-cons/",
       "filename": "article_421_content.txt",
-      "partners": [
-        "台灣企銀",
-        "LINE Pay"
-      ]
+      "partners": ["台灣企銀", "LINE Pay"]
     },
     {
       "title": "article_50_content",
@@ -4978,17 +3833,13 @@
       "title": "article_220_tables",
       "url": "無連結",
       "filename": "article_220_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_217_tables",
       "url": "無連結",
       "filename": "article_217_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_575_tables",
@@ -5020,45 +3871,31 @@
       "title": "article_181_tables",
       "url": "無連結",
       "filename": "article_181_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "國泰世華銀行",
-        "星展銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "國泰世華銀行", "星展銀行", "渣打銀行"]
     },
     {
       "title": "article_482_content",
       "url": "https://roo.cash/blog/tax-calculation-notice/",
       "filename": "article_482_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_9_content",
       "url": "https://roo.cash/blog/music-platform-creditcard-recommendation/",
       "filename": "article_9_content.txt",
-      "partners": [
-        "國泰世華銀行",
-        "Apple Pay"
-      ]
+      "partners": ["國泰世華銀行", "Apple Pay"]
     },
     {
       "title": "article_366_content",
       "url": "https://roo.cash/blog/gs-stock-article/",
       "filename": "article_366_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_83_content",
       "url": "https://roo.cash/blog/line-bank-debit-card-introduction/",
       "filename": "article_83_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_87_tables",
@@ -5078,103 +3915,67 @@
       "title": "article_316_content",
       "url": "https://roo.cash/blog/0050-vs-006208/",
       "filename": "article_316_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_413_content",
       "url": "https://roo.cash/blog/tax-citizen-certificate-expired/",
       "filename": "article_413_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_53_tables",
       "url": "無連結",
       "filename": "article_53_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_100_tables",
       "url": "無連結",
       "filename": "article_100_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "Google Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "Google Pay", "PayPal", "美股"]
     },
     {
       "title": "article_62_content",
       "url": "https://roo.cash/blog/garmin-pay/",
       "filename": "article_62_content.txt",
-      "partners": [
-        "Garmin Pay",
-        "LINE Pay",
-        "Apple Pay"
-      ]
+      "partners": ["Garmin Pay", "LINE Pay", "Apple Pay"]
     },
     {
       "title": "article_428_tables",
       "url": "無連結",
       "filename": "article_428_tables.txt",
-      "partners": [
-        "台股"
-      ]
+      "partners": ["台股"]
     },
     {
       "title": "article_64_tables",
       "url": "無連結",
       "filename": "article_64_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_295_content",
       "url": "https://roo.cash/blog/bond-fund/",
       "filename": "article_295_content.txt",
-      "partners": [
-        "ETF",
-        "基金"
-      ]
+      "partners": ["ETF", "基金"]
     },
     {
       "title": "article_269_tables",
       "url": "無連結",
       "filename": "article_269_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_162_tables",
       "url": "無連結",
       "filename": "article_162_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "匯豐銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "匯豐銀行"]
     },
     {
       "title": "article_133_content",
       "url": "https://roo.cash/blog/2022-youth-entrepreneurs-loan/",
       "filename": "article_133_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_31_tables",
@@ -5195,73 +3996,49 @@
       "title": "article_12_content",
       "url": "https://roo.cash/blog/spotify-creditcard-recommendations/",
       "filename": "article_12_content.txt",
-      "partners": [
-        "PayPal"
-      ]
+      "partners": ["PayPal"]
     },
     {
       "title": "article_328_tables",
       "url": "無連結",
       "filename": "article_328_tables.txt",
-      "partners": [
-        "國泰世華銀行"
-      ]
+      "partners": ["國泰世華銀行"]
     },
     {
       "title": "article_155_tables",
       "url": "無連結",
       "filename": "article_155_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_218_content",
       "url": "https://roo.cash/blog/car-insurance-faqs/",
       "filename": "article_218_content.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽",
-        "安達保險"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽", "安達保險"]
     },
     {
       "title": "article_387_content",
       "url": "https://roo.cash/blog/msft-stock-article/",
       "filename": "article_387_content.txt",
-      "partners": [
-        "Google Pay",
-        "美股"
-      ]
+      "partners": ["Google Pay", "美股"]
     },
     {
       "title": "article_501_content",
       "url": "https://roo.cash/blog/kaohsiung-viet-headspa/",
       "filename": "article_501_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_4_tables",
       "url": "無連結",
       "filename": "article_4_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_324_content",
       "url": "https://roo.cash/blog/stock-fund-redemption/",
       "filename": "article_324_content.txt",
-      "partners": [
-        "ETF",
-        "基金"
-      ]
+      "partners": ["ETF", "基金"]
     },
     {
       "title": "article_482_tables",
@@ -5281,18 +4058,13 @@
       "title": "article_236_content",
       "url": "https://roo.cash/blog/travel-inconvenience-insurance/",
       "filename": "article_236_content.txt",
-      "partners": [
-        "國泰世華銀行",
-        "美股"
-      ]
+      "partners": ["國泰世華銀行", "美股"]
     },
     {
       "title": "article_296_tables",
       "url": "無連結",
       "filename": "article_296_tables.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_382_tables",
@@ -5310,10 +4082,7 @@
       "title": "article_313_content",
       "url": "https://roo.cash/blog/fund-type/",
       "filename": "article_313_content.txt",
-      "partners": [
-        "ETF",
-        "基金"
-      ]
+      "partners": ["ETF", "基金"]
     },
     {
       "title": "article_184_tables",
@@ -5332,29 +4101,19 @@
       "title": "article_271_content",
       "url": "https://roo.cash/blog/airport-travel-safety-insurance/",
       "filename": "article_271_content.txt",
-      "partners": [
-        "國泰人壽",
-        "新光人壽",
-        "台灣人壽"
-      ]
+      "partners": ["國泰人壽", "新光人壽", "台灣人壽"]
     },
     {
       "title": "article_363_content",
       "url": "https://roo.cash/blog/amgn-stock-article/",
       "filename": "article_363_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_82_tables",
       "url": "無連結",
       "filename": "article_82_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_364_tables",
@@ -5414,25 +4173,19 @@
       "title": "article_189_content",
       "url": "https://roo.cash/blog/pawn-shop-interest-continue-article/",
       "filename": "article_189_content.txt",
-      "partners": [
-        "匯豐銀行"
-      ]
+      "partners": ["匯豐銀行"]
     },
     {
       "title": "article_353_tables",
       "url": "無連結",
       "filename": "article_353_tables.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_424_content",
       "url": "https://roo.cash/blog/house-tax-pay-prove-overdue-payment/",
       "filename": "article_424_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_55_content",
@@ -5450,46 +4203,31 @@
       "title": "article_270_tables",
       "url": "無連結",
       "filename": "article_270_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_247_tables",
       "url": "無連結",
       "filename": "article_247_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_464_tables",
       "url": "無連結",
       "filename": "article_464_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_28_tables",
       "url": "無連結",
       "filename": "article_28_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "LINE Pay",
-        "Apple Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "LINE Pay", "Apple Pay", "PayPal", "美股"]
     },
     {
       "title": "article_536_content",
       "url": "https://roo.cash/blog/chage-article/",
       "filename": "article_536_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行"]
     },
     {
       "title": "article_453_tables",
@@ -5509,116 +4247,79 @@
       "title": "article_104_content",
       "url": "https://roo.cash/blog/loan-customer-service-hotline/",
       "filename": "article_104_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_454_content",
       "url": "https://roo.cash/blog/income-tax-split-bill/",
       "filename": "article_454_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_212_tables",
       "url": "無連結",
       "filename": "article_212_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_25_content",
       "url": "https://roo.cash/blog/hsbc-credit-card-flashsale/",
       "filename": "article_25_content.txt",
-      "partners": [
-        "滙豐銀行"
-      ]
+      "partners": ["滙豐銀行"]
     },
     {
       "title": "article_225_tables",
       "url": "無連結",
       "filename": "article_225_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽"]
     },
     {
       "title": "article_487_tables",
       "url": "無連結",
       "filename": "article_487_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_351_content",
       "url": "https://roo.cash/blog/gold-bankbook-article/",
       "filename": "article_351_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_198_tables",
       "url": "無連結",
       "filename": "article_198_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_118_content",
       "url": "https://roo.cash/blog/esun-credit-loan/",
       "filename": "article_118_content.txt",
-      "partners": [
-        "富邦銀行",
-        "玉山銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "玉山銀行", "渣打銀行"]
     },
     {
       "title": "article_448_content",
       "url": "https://roo.cash/blog/civil-law-18-tax-new-system/",
       "filename": "article_448_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_39_content",
       "url": "https://roo.cash/blog/tv-credit-card-article/",
       "filename": "article_39_content.txt",
-      "partners": [
-        "台北富邦銀行",
-        "LINE Pay"
-      ]
+      "partners": ["台北富邦銀行", "LINE Pay"]
     },
     {
       "title": "article_1_tables",
       "url": "無連結",
       "filename": "article_1_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_233_content",
       "url": "https://roo.cash/blog/infectious-diseases-travel-insurance/",
       "filename": "article_233_content.txt",
-      "partners": [
-        "新光人壽"
-      ]
+      "partners": ["新光人壽"]
     },
     {
       "title": "article_387_tables",
@@ -5638,87 +4339,55 @@
       "title": "article_168_content",
       "url": "https://roo.cash/blog/salary-statement/",
       "filename": "article_168_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_438_content",
       "url": "https://roo.cash/blog/land-value-tax-search/",
       "filename": "article_438_content.txt",
-      "partners": [
-        "LINE Pay",
-        "Google Pay"
-      ]
+      "partners": ["LINE Pay", "Google Pay"]
     },
     {
       "title": "article_539_tables",
       "url": "無連結",
       "filename": "article_539_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_382_content",
       "url": "https://roo.cash/blog/goog-stock-article/",
       "filename": "article_382_content.txt",
-      "partners": [
-        "Google Pay",
-        "美股"
-      ]
+      "partners": ["Google Pay", "美股"]
     },
     {
       "title": "article_504_content",
       "url": "https://roo.cash/blog/viet-headspa-store-vivi/",
       "filename": "article_504_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_61_tables",
       "url": "無連結",
       "filename": "article_61_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay", "PayPal", "美股"]
     },
     {
       "title": "article_466_content",
       "url": "https://roo.cash/blog/phone-income-tax/",
       "filename": "article_466_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_132_tables",
       "url": "無連結",
       "filename": "article_132_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_136_content",
       "url": "https://roo.cash/blog/food-delivery-loan-comparison/",
       "filename": "article_136_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_378_tables",
@@ -5740,36 +4409,25 @@
       "title": "article_105_tables",
       "url": "無連結",
       "filename": "article_105_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_56_tables",
       "url": "無連結",
       "filename": "article_56_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_239_tables",
       "url": "無連結",
       "filename": "article_239_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_416_content",
       "url": "https://roo.cash/blog/how-to-calculate-income-tax/",
       "filename": "article_416_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_478_tables",
@@ -5789,31 +4447,19 @@
       "title": "article_34_tables",
       "url": "無連結",
       "filename": "article_34_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_167_tables",
       "url": "無連結",
       "filename": "article_167_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_290_content",
       "url": "https://roo.cash/blog/car-insurance-a/",
       "filename": "article_290_content.txt",
-      "partners": [
-        "LINE Pay",
-        "富邦人壽",
-        "新安東京海上保險",
-        "明台產險"
-      ]
+      "partners": ["LINE Pay", "富邦人壽", "新安東京海上保險", "明台產險"]
     },
     {
       "title": "article_397_content",
@@ -5845,51 +4491,31 @@
       "title": "article_25_tables",
       "url": "無連結",
       "filename": "article_25_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_511_content",
       "url": "https://roo.cash/blog/8way-menu/",
       "filename": "article_511_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay",
-        "Google Pay"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay", "Google Pay"]
     },
     {
       "title": "article_12_tables",
       "url": "無連結",
       "filename": "article_12_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay", "PayPal", "美股"]
     },
     {
       "title": "article_123_content",
       "url": "https://roo.cash/blog/integrate-debt-fraud-trap/",
       "filename": "article_123_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_228_tables",
       "url": "無連結",
       "filename": "article_228_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_369_tables",
@@ -5910,33 +4536,19 @@
       "title": "article_47_tables",
       "url": "無連結",
       "filename": "article_47_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "樂天銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "樂天銀行", "PayPal", "美股"]
     },
     {
       "title": "article_114_tables",
       "url": "無連結",
       "filename": "article_114_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "遠東商銀",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "遠東商銀", "渣打銀行"]
     },
     {
       "title": "article_123_tables",
       "url": "無連結",
       "filename": "article_123_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_70_tables",
@@ -5955,64 +4567,43 @@
       "title": "article_561_content",
       "url": "https://roo.cash/blog/tenren-tea-article/",
       "filename": "article_561_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行"]
     },
     {
       "title": "article_72_content",
       "url": "https://roo.cash/blog/cub-cube-card-introduction/",
       "filename": "article_72_content.txt",
-      "partners": [
-        "國泰世華銀行",
-        "Apple Pay",
-        "Google Pay",
-        "美股"
-      ]
+      "partners": ["國泰世華銀行", "Apple Pay", "Google Pay", "美股"]
     },
     {
       "title": "article_153_content",
       "url": "https://roo.cash/blog/reasonable-loan-rate/",
       "filename": "article_153_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_403_content",
       "url": "https://roo.cash/blog/tax-abandon-inheritance/",
       "filename": "article_403_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_285_content",
       "url": "https://roo.cash/blog/jko-insurance/",
       "filename": "article_285_content.txt",
-      "partners": [
-        "滙豐銀行"
-      ]
+      "partners": ["滙豐銀行"]
     },
     {
       "title": "article_344_content",
       "url": "https://roo.cash/blog/fubon-account-article/",
       "filename": "article_344_content.txt",
-      "partners": [
-        "富邦證券",
-        "中信證券",
-        "台股"
-      ]
+      "partners": ["富邦證券", "中信證券", "台股"]
     },
     {
       "title": "article_282_tables",
       "url": "無連結",
       "filename": "article_282_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_396_tables",
@@ -6033,59 +4624,37 @@
       "title": "article_582_tables",
       "url": "無連結",
       "filename": "article_582_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_556_tables",
       "url": "無連結",
       "filename": "article_556_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_234_tables",
       "url": "無連結",
       "filename": "article_234_tables.txt",
-      "partners": [
-        "星展銀行",
-        "富邦人壽"
-      ]
+      "partners": ["星展銀行", "富邦人壽"]
     },
     {
       "title": "article_203_tables",
       "url": "無連結",
       "filename": "article_203_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "新光人壽",
-        "明台產險"
-      ]
+      "partners": ["富邦人壽", "新光人壽", "明台產險"]
     },
     {
       "title": "article_561_tables",
       "url": "無連結",
       "filename": "article_561_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行"]
     },
     {
       "title": "article_40_content",
       "url": "https://roo.cash/blog/travel-fair-credit-cards-discount-article/",
       "filename": "article_40_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_442_tables",
@@ -6105,9 +4674,7 @@
       "title": "article_431_content",
       "url": "https://roo.cash/blog/line-pay-tax/",
       "filename": "article_431_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_475_tables",
@@ -6127,19 +4694,13 @@
       "title": "article_39_tables",
       "url": "無連結",
       "filename": "article_39_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_328_content",
       "url": "https://roo.cash/blog/travel-how-to-exchange-money/",
       "filename": "article_328_content.txt",
-      "partners": [
-        "國泰世華銀行"
-      ]
+      "partners": ["國泰世華銀行"]
     },
     {
       "title": "article_317_tables",
@@ -6164,28 +4725,19 @@
       "title": "article_256_tables",
       "url": "無連結",
       "filename": "article_256_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_534_tables",
       "url": "無連結",
       "filename": "article_534_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_261_tables",
       "url": "無連結",
       "filename": "article_261_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_420_tables",
@@ -6205,23 +4757,13 @@
       "title": "article_30_content",
       "url": "https://roo.cash/blog/youtube-premium-intro/",
       "filename": "article_30_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "Apple Pay",
-        "Google Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "Apple Pay", "Google Pay", "PayPal", "美股"]
     },
     {
       "title": "article_111_content",
       "url": "https://roo.cash/blog/interior-decoration-loan/",
       "filename": "article_111_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_375_tables",
@@ -6243,11 +4785,7 @@
       "title": "article_108_tables",
       "url": "無連結",
       "filename": "article_108_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "遠東商銀",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "遠東商銀", "渣打銀行"]
     },
     {
       "title": "article_417_tables",
@@ -6268,120 +4806,79 @@
       "title": "article_358_content",
       "url": "https://roo.cash/blog/etf-type-article/",
       "filename": "article_358_content.txt",
-      "partners": [
-        "ETF",
-        "美股"
-      ]
+      "partners": ["ETF", "美股"]
     },
     {
       "title": "article_299_content",
       "url": "https://roo.cash/blog/foreign-bond/",
       "filename": "article_299_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_306_content",
       "url": "https://roo.cash/blog/twd-appreciate/",
       "filename": "article_306_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_93_tables",
       "url": "無連結",
       "filename": "article_93_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_580_content",
       "url": "https://roo.cash/blog/oolongproject-drink-recommendation-article/",
       "filename": "article_580_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay"]
     },
     {
       "title": "article_376_content",
       "url": "https://roo.cash/blog/jpm-stock-article/",
       "filename": "article_376_content.txt",
-      "partners": [
-        "美股",
-        "亮點App"
-      ]
+      "partners": ["美股", "亮點App"]
     },
     {
       "title": "article_267_content",
       "url": "https://roo.cash/blog/domestic-creditcard-travel-insurance/",
       "filename": "article_267_content.txt",
-      "partners": [
-        "LINE Pay",
-        "富邦人壽",
-        "國泰人壽",
-        "明台產險"
-      ]
+      "partners": ["LINE Pay", "富邦人壽", "國泰人壽", "明台產險"]
     },
     {
       "title": "article_90_content",
       "url": "https://roo.cash/blog/fubon-credit-card-recommendation/",
       "filename": "article_90_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_583_content",
       "url": "https://roo.cash/blog/familymart-icecream-article/",
       "filename": "article_583_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay"]
     },
     {
       "title": "article_94_tables",
       "url": "無連結",
       "filename": "article_94_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_305_content",
       "url": "https://roo.cash/blog/conflict-between-india-and-pakistan/",
       "filename": "article_305_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_388_content",
       "url": "https://roo.cash/blog/aapl-stock-article/",
       "filename": "article_388_content.txt",
-      "partners": [
-        "Apple Pay",
-        "美股"
-      ]
+      "partners": ["Apple Pay", "美股"]
     },
     {
       "title": "article_375_content",
       "url": "https://roo.cash/blog/nflx-stock-article/",
       "filename": "article_375_content.txt",
-      "partners": [
-        "Apple Pay",
-        "美股"
-      ]
+      "partners": ["Apple Pay", "美股"]
     },
     {
       "title": "article_445_tables",
@@ -6401,17 +4898,13 @@
       "title": "article_43_content",
       "url": "https://roo.cash/blog/taipei-101-credit-card/",
       "filename": "article_43_content.txt",
-      "partners": [
-        "亮點App"
-      ]
+      "partners": ["亮點App"]
     },
     {
       "title": "article_432_content",
       "url": "https://roo.cash/blog/tariff-war/",
       "filename": "article_432_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_162_content",
@@ -6429,17 +4922,13 @@
       "title": "article_233_tables",
       "url": "無連結",
       "filename": "article_233_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_204_tables",
       "url": "無連結",
       "filename": "article_204_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_427_tables",
@@ -6493,9 +4982,7 @@
       "title": "article_442_content",
       "url": "https://roo.cash/blog/tax-labor-pension/",
       "filename": "article_442_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_372_tables",
@@ -6516,21 +5003,13 @@
       "title": "article_112_content",
       "url": "https://roo.cash/blog/loan-rates-calculation/",
       "filename": "article_112_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_251_tables",
       "url": "無連結",
       "filename": "article_251_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "新光人壽",
-        "明台產險",
-        "和泰產險"
-      ]
+      "partners": ["富邦人壽", "新光人壽", "明台產險", "和泰產險"]
     },
     {
       "title": "article_266_tables",
@@ -6549,21 +5028,13 @@
       "title": "article_239_content",
       "url": "https://roo.cash/blog/sudden-illness-travel-insurance-article/",
       "filename": "article_239_content.txt",
-      "partners": [
-        "台灣人壽",
-        "安達保險"
-      ]
+      "partners": ["台灣人壽", "安達保險"]
     },
     {
       "title": "article_88_tables",
       "url": "無連結",
       "filename": "article_88_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "LINE Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "LINE Pay", "PayPal", "美股"]
     },
     {
       "title": "article_285_tables",
@@ -6582,18 +5053,13 @@
       "title": "article_347_content",
       "url": "https://roo.cash/blog/ctbcbank-account-article/",
       "filename": "article_347_content.txt",
-      "partners": [
-        "ETF",
-        "亮點App"
-      ]
+      "partners": ["ETF", "亮點App"]
     },
     {
       "title": "article_255_content",
       "url": "https://roo.cash/blog/excess-liability-insurance/",
       "filename": "article_255_content.txt",
-      "partners": [
-        "國泰人壽"
-      ]
+      "partners": ["國泰人壽"]
     },
     {
       "title": "article_183_content",
@@ -6611,46 +5077,31 @@
       "title": "article_218_tables",
       "url": "無連結",
       "filename": "article_218_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_369_content",
       "url": "https://roo.cash/blog/mu-stock-article/",
       "filename": "article_369_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_120_content",
       "url": "https://roo.cash/blog/policy-loan/",
       "filename": "article_120_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_470_content",
       "url": "https://roo.cash/blog/standard-deduction-vs-itemized-deduction/",
       "filename": "article_470_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_6_content",
       "url": "https://roo.cash/blog/nitori-credit-card/",
       "filename": "article_6_content.txt",
-      "partners": [
-        "台北富邦銀行",
-        "LINE Pay",
-        "Apple Pay",
-        "Google Pay"
-      ]
+      "partners": ["台北富邦銀行", "LINE Pay", "Apple Pay", "Google Pay"]
     },
     {
       "title": "article_171_tables",
@@ -6668,9 +5119,7 @@
       "title": "article_512_content",
       "url": "https://roo.cash/blog/viet-headspa-store-venus/",
       "filename": "article_512_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_22_tables",
@@ -6704,52 +5153,31 @@
       "title": "article_15_tables",
       "url": "無連結",
       "filename": "article_15_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_286_content",
       "url": "https://roo.cash/blog/line-pay-insurance/",
       "filename": "article_286_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "LINE Pay",
-        "富邦人壽"
-      ]
+      "partners": ["滙豐銀行", "LINE Pay", "富邦人壽"]
     },
     {
       "title": "article_319_content",
       "url": "https://roo.cash/blog/2885-dividend-article/",
       "filename": "article_319_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_71_content",
       "url": "https://roo.cash/blog/mobilebill-creditcard-recommendation/",
       "filename": "article_71_content.txt",
-      "partners": [
-        "LINE Pay",
-        "Apple Pay",
-        "Google Pay",
-        "美股",
-        "台股"
-      ]
+      "partners": ["LINE Pay", "Apple Pay", "Google Pay", "美股", "台股"]
     },
     {
       "title": "article_400_content",
       "url": "https://roo.cash/blog/license-tax-search/",
       "filename": "article_400_content.txt",
-      "partners": [
-        "LINE Pay",
-        "Apple Pay",
-        "Google Pay",
-        "Samsung Pay"
-      ]
+      "partners": ["LINE Pay", "Apple Pay", "Google Pay", "Samsung Pay"]
     },
     {
       "title": "article_40_tables",
@@ -6771,19 +5199,13 @@
       "title": "article_562_content",
       "url": "https://roo.cash/blog/tp-tea-drink-recommendation/",
       "filename": "article_562_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行"]
     },
     {
       "title": "article_124_tables",
       "url": "無連結",
       "filename": "article_124_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_77_tables",
@@ -6803,105 +5225,67 @@
       "title": "article_348_tables",
       "url": "無連結",
       "filename": "article_348_tables.txt",
-      "partners": [
-        "美股",
-        "台股"
-      ]
+      "partners": ["美股", "台股"]
     },
     {
       "title": "article_66_tables",
       "url": "無連結",
       "filename": "article_66_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_135_tables",
       "url": "無連結",
       "filename": "article_135_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "滙豐銀行",
-        "渣打銀行",
-        "匯豐銀行"
-      ]
+      "partners": ["富邦銀行", "滙豐銀行", "渣打銀行", "匯豐銀行"]
     },
     {
       "title": "article_465_content",
       "url": "https://roo.cash/blog/medical-expense-itemized-deduction-notice/",
       "filename": "article_465_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_135_content",
       "url": "https://roo.cash/blog/loan-financial-industry/",
       "filename": "article_135_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_51_tables",
       "url": "無連結",
       "filename": "article_51_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "LINE Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "LINE Pay", "PayPal", "美股"]
     },
     {
       "title": "article_507_content",
       "url": "https://roo.cash/blog/yuloong-menu/",
       "filename": "article_507_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行"]
     },
     {
       "title": "article_498_content",
       "url": "https://roo.cash/blog/viet-headspa-store-lelexi/",
       "filename": "article_498_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_381_content",
       "url": "https://roo.cash/blog/pltr-stock-article/",
       "filename": "article_381_content.txt",
-      "partners": [
-        "Google Pay",
-        "美股"
-      ]
+      "partners": ["Google Pay", "美股"]
     },
     {
       "title": "article_509_tables",
       "url": "無連結",
       "filename": "article_509_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_157_tables",
       "url": "無連結",
       "filename": "article_157_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_448_tables",
@@ -6921,9 +5305,7 @@
       "title": "article_415_content",
       "url": "https://roo.cash/blog/exemption-tax/",
       "filename": "article_415_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_33_tables",
@@ -6955,54 +5337,37 @@
       "title": "article_64_content",
       "url": "https://roo.cash/blog/dbs-eco-card-change/",
       "filename": "article_64_content.txt",
-      "partners": [
-        "星展銀行"
-      ]
+      "partners": ["星展銀行"]
     },
     {
       "title": "article_99_content",
       "url": "https://roo.cash/blog/tk3c-credit-cards/",
       "filename": "article_99_content.txt",
-      "partners": [
-        "星展銀行",
-        "LINE Pay",
-        "Apple Pay"
-      ]
+      "partners": ["星展銀行", "LINE Pay", "Apple Pay"]
     },
     {
       "title": "article_209_tables",
       "url": "無連結",
       "filename": "article_209_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_230_content",
       "url": "https://roo.cash/blog/ev-insurence-intro/",
       "filename": "article_230_content.txt",
-      "partners": [
-        "LINE Pay",
-        "新安東京海上保險"
-      ]
+      "partners": ["LINE Pay", "新安東京海上保險"]
     },
     {
       "title": "article_6_tables",
       "url": "無連結",
       "filename": "article_6_tables.txt",
-      "partners": [
-        "台北富邦銀行"
-      ]
+      "partners": ["台北富邦銀行"]
     },
     {
       "title": "article_529_content",
       "url": "https://roo.cash/blog/mcdonald-sweetcard/",
       "filename": "article_529_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay"]
     },
     {
       "title": "article_480_tables",
@@ -7023,29 +5388,19 @@
       "title": "article_352_content",
       "url": "https://roo.cash/blog/us-stock-index/",
       "filename": "article_352_content.txt",
-      "partners": [
-        "Apple Pay",
-        "Google Pay",
-        "美股"
-      ]
+      "partners": ["Apple Pay", "Google Pay", "美股"]
     },
     {
       "title": "article_294_tables",
       "url": "無連結",
       "filename": "article_294_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_559_content",
       "url": "https://roo.cash/blog/chunshuitang-menu-article/",
       "filename": "article_559_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_380_tables",
@@ -7066,56 +5421,37 @@
       "title": "article_322_content",
       "url": "https://roo.cash/blog/close-position/",
       "filename": "article_322_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_99_tables",
       "url": "無連結",
       "filename": "article_99_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_277_tables",
       "url": "無連結",
       "filename": "article_277_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_427_content",
       "url": "https://roo.cash/blog/house-tax-search-calculate/",
       "filename": "article_427_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_56_content",
       "url": "https://roo.cash/blog/kol-lixiang-life-creditcard-digital-account/",
       "filename": "article_56_content.txt",
-      "partners": [
-        "LINE Pay",
-        "美股"
-      ]
+      "partners": ["LINE Pay", "美股"]
     },
     {
       "title": "article_240_tables",
       "url": "無連結",
       "filename": "article_240_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽",
-        "明台產險",
-        "和泰產險"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽", "明台產險", "和泰產險"]
     },
     {
       "title": "article_401_tables",
@@ -7135,21 +5471,13 @@
       "title": "article_363_tables",
       "url": "無連結",
       "filename": "article_363_tables.txt",
-      "partners": [
-        "永豐金證券",
-        "新光證券",
-        "凱基證券",
-        "Apple Pay"
-      ]
+      "partners": ["永豐金證券", "新光證券", "凱基證券", "Apple Pay"]
     },
     {
       "title": "article_129_tables",
       "url": "無連結",
       "filename": "article_129_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_436_tables",
@@ -7169,75 +5497,49 @@
       "title": "article_215_tables",
       "url": "無連結",
       "filename": "article_215_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽"
-      ]
+      "partners": ["富邦人壽", "國泰人壽"]
     },
     {
       "title": "article_107_content",
       "url": "https://roo.cash/blog/apr/",
       "filename": "article_107_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_457_content",
       "url": "https://roo.cash/blog/first-tax-filing-guide/",
       "filename": "article_457_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_222_tables",
       "url": "無連結",
       "filename": "article_222_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽"]
     },
     {
       "title": "article_26_content",
       "url": "https://roo.cash/blog/europe-credit-cards/",
       "filename": "article_26_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "台北富邦銀行",
-        "星展銀行",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "台北富邦銀行", "星展銀行", "美股"]
     },
     {
       "title": "article_540_tables",
       "url": "無連結",
       "filename": "article_540_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_301_tables",
       "url": "無連結",
       "filename": "article_301_tables.txt",
-      "partners": [
-        "康和證券"
-      ]
+      "partners": ["康和證券"]
     },
     {
       "title": "article_463_tables",
       "url": "無連結",
       "filename": "article_463_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_454_tables",
@@ -7257,151 +5559,97 @@
       "title": "article_18_tables",
       "url": "無連結",
       "filename": "article_18_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_85_content",
       "url": "https://roo.cash/blog/card-insurance-cashback/",
       "filename": "article_85_content.txt",
-      "partners": [
-        "LINE Pay",
-        "美股"
-      ]
+      "partners": ["LINE Pay", "美股"]
     },
     {
       "title": "article_183_tables",
       "url": "無連結",
       "filename": "article_183_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_409_content",
       "url": "https://roo.cash/blog/stock-etf-0056/",
       "filename": "article_409_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_159_content",
       "url": "https://roo.cash/blog/student-loan-apply-deferred-payment/",
       "filename": "article_159_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_310_content",
       "url": "https://roo.cash/blog/usd-hegemony/",
       "filename": "article_310_content.txt",
-      "partners": [
-        "鉅亨網",
-        "ETF"
-      ]
+      "partners": ["鉅亨網", "ETF"]
     },
     {
       "title": "article_85_tables",
       "url": "無連結",
       "filename": "article_85_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay", "PayPal", "美股"]
     },
     {
       "title": "article_484_content",
       "url": "https://roo.cash/blog/electric-car-license-tax-fuel-tax/",
       "filename": "article_484_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_479_content",
       "url": "https://roo.cash/blog/income-tax-refund/",
       "filename": "article_479_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_129_content",
       "url": "https://roo.cash/blog/loan-imei-code-introduction/",
       "filename": "article_129_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_360_content",
       "url": "https://roo.cash/blog/concords-tool-intro-corp/",
       "filename": "article_360_content.txt",
-      "partners": [
-        "康和證券",
-        "ETF"
-      ]
+      "partners": ["康和證券", "ETF"]
     },
     {
       "title": "article_288_tables",
       "url": "無連結",
       "filename": "article_288_tables.txt",
-      "partners": [
-        "LINE Pay",
-        "富邦人壽"
-      ]
+      "partners": ["LINE Pay", "富邦人壽"]
     },
     {
       "title": "article_327_content",
       "url": "https://roo.cash/blog/usd-index-introduction/",
       "filename": "article_327_content.txt",
-      "partners": [
-        "美股",
-        "台股"
-      ]
+      "partners": ["美股", "台股"]
     },
     {
       "title": "article_485_tables",
       "url": "無連結",
       "filename": "article_485_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_3_tables",
       "url": "無連結",
       "filename": "article_3_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "匯豐銀行",
-        "LINE Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "匯豐銀行", "LINE Pay", "PayPal", "美股"]
     },
     {
       "title": "article_357_content",
       "url": "https://roo.cash/blog/month-dividend-fund/",
       "filename": "article_357_content.txt",
-      "partners": [
-        "ETF",
-        "基金"
-      ]
+      "partners": ["ETF", "基金"]
     },
     {
       "title": "article_385_tables",
@@ -7422,224 +5670,145 @@
       "title": "article_291_tables",
       "url": "無連結",
       "filename": "article_291_tables.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_259_tables",
       "url": "無連結",
       "filename": "article_259_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽"]
     },
     {
       "title": "article_418_tables",
       "url": "無連結",
       "filename": "article_418_tables.txt",
-      "partners": [
-        "LINE Pay",
-        "Apple Pay",
-        "Google Pay",
-        "Samsung Pay"
-      ]
+      "partners": ["LINE Pay", "Apple Pay", "Google Pay", "Samsung Pay"]
     },
     {
       "title": "article_54_tables",
       "url": "無連結",
       "filename": "article_54_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_309_content",
       "url": "https://roo.cash/blog/fund-manager/",
       "filename": "article_309_content.txt",
-      "partners": [
-        "ETF",
-        "基金"
-      ]
+      "partners": ["ETF", "基金"]
     },
     {
       "title": "article_107_tables",
       "url": "無連結",
       "filename": "article_107_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_296_content",
       "url": "https://roo.cash/blog/usstock-qqq-etf-article/",
       "filename": "article_296_content.txt",
-      "partners": [
-        "Apple Pay",
-        "Google Pay",
-        "ETF",
-        "美股"
-      ]
+      "partners": ["Apple Pay", "Google Pay", "ETF", "美股"]
     },
     {
       "title": "article_410_content",
       "url": "https://roo.cash/blog/stock-income-tax/",
       "filename": "article_410_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_130_tables",
       "url": "無連結",
       "filename": "article_130_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_61_content",
       "url": "https://roo.cash/blog/giguo-12hotpot-12mini-creditcard-remommendations/",
       "filename": "article_61_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_63_tables",
       "url": "無連結",
       "filename": "article_63_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "LINE Pay",
-        "PayPal",
-        "美股",
-        "富邦人壽"
-      ]
+      "partners": ["滙豐銀行", "LINE Pay", "PayPal", "美股", "富邦人壽"]
     },
     {
       "title": "article_502_content",
       "url": "https://roo.cash/blog/hsinchu-viet-headspa/",
       "filename": "article_502_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_559_tables",
       "url": "無連結",
       "filename": "article_559_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_384_content",
       "url": "https://roo.cash/blog/meta-stock-article/",
       "filename": "article_384_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_379_content",
       "url": "https://roo.cash/blog/amzn-stock-article/",
       "filename": "article_379_content.txt",
-      "partners": [
-        "Google Pay",
-        "美股"
-      ]
+      "partners": ["Google Pay", "美股"]
     },
     {
       "title": "article_165_tables",
       "url": "無連結",
       "filename": "article_165_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_36_tables",
       "url": "無連結",
       "filename": "article_36_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_152_tables",
       "url": "無連結",
       "filename": "article_152_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "新光銀行",
-        "渣打銀行",
-        "匯豐銀行"
-      ]
+      "partners": ["滙豐銀行", "新光銀行", "渣打銀行", "匯豐銀行"]
     },
     {
       "title": "article_460_content",
       "url": "https://roo.cash/blog/travel-subsidy/",
       "filename": "article_460_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_130_content",
       "url": "https://roo.cash/blog/taishin-loan/",
       "filename": "article_130_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_11_content",
       "url": "https://roo.cash/blog/disney-plus-card-recommendation/",
       "filename": "article_11_content.txt",
-      "partners": [
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_365_content",
       "url": "https://roo.cash/blog/nke-stock-article/",
       "filename": "article_365_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_186_tables",
       "url": "無連結",
       "filename": "article_186_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_481_content",
       "url": "https://roo.cash/blog/standard-deduction-tax/",
       "filename": "article_481_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_399_tables",
@@ -7659,40 +5828,25 @@
       "title": "article_80_tables",
       "url": "無連結",
       "filename": "article_80_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "台灣土地銀行",
-        "LINE Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "台灣土地銀行", "LINE Pay", "PayPal", "美股"]
     },
     {
       "title": "article_351_tables",
       "url": "無連結",
       "filename": "article_351_tables.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_530_content",
       "url": "https://roo.cash/blog/mcdonald-menu-and-discount/",
       "filename": "article_530_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay"]
     },
     {
       "title": "article_433_tables",
       "url": "無連結",
       "filename": "article_433_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_404_tables",
@@ -7712,21 +5866,13 @@
       "title": "article_48_tables",
       "url": "無連結",
       "filename": "article_48_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_366_tables",
       "url": "無連結",
       "filename": "article_366_tables.txt",
-      "partners": [
-        "新光證券",
-        "凱基證券",
-        "Apple Pay"
-      ]
+      "partners": ["新光證券", "凱基證券", "Apple Pay"]
     },
     {
       "title": "article_245_tables",
@@ -7745,35 +5891,25 @@
       "title": "article_272_tables",
       "url": "無連結",
       "filename": "article_272_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_452_content",
       "url": "https://roo.cash/blog/tax-income-query-code/",
       "filename": "article_452_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_23_content",
       "url": "https://roo.cash/blog/18-years-old-creditcard/",
       "filename": "article_23_content.txt",
-      "partners": [
-        "LINE Pay",
-        "台股"
-      ]
+      "partners": ["LINE Pay", "台股"]
     },
     {
       "title": "article_540_content",
       "url": "https://roo.cash/blog/comebuy-menu/",
       "filename": "article_540_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行"]
     },
     {
       "title": "article_451_tables",
@@ -7793,20 +5929,13 @@
       "title": "article_304_tables",
       "url": "無連結",
       "filename": "article_304_tables.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_259_content",
       "url": "https://roo.cash/blog/online-insurance/",
       "filename": "article_259_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "LINE Pay",
-        "國泰人壽",
-        "新光人壽"
-      ]
+      "partners": ["滙豐銀行", "LINE Pay", "國泰人壽", "新光人壽"]
     },
     {
       "title": "article_466_tables",
@@ -7826,13 +5955,7 @@
       "title": "article_227_tables",
       "url": "無連結",
       "filename": "article_227_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽",
-        "明台產險",
-        "和泰產險"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽", "明台產險", "和泰產險"]
     },
     {
       "title": "article_172_content",
@@ -7850,67 +5973,43 @@
       "title": "article_422_content",
       "url": "https://roo.cash/blog/income-tax-calculation-guide/",
       "filename": "article_422_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_53_content",
       "url": "https://roo.cash/blog/movie-showtime-cinemas-card/",
       "filename": "article_53_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "LINE Pay",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "LINE Pay", "美股"]
     },
     {
       "title": "article_210_tables",
       "url": "無連結",
       "filename": "article_210_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_563_tables",
       "url": "無連結",
       "filename": "article_563_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_201_tables",
       "url": "無連結",
       "filename": "article_201_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_236_tables",
       "url": "無連結",
       "filename": "article_236_tables.txt",
-      "partners": [
-        "富邦人壽",
-        "國泰人壽",
-        "新光人壽"
-      ]
+      "partners": ["富邦人壽", "國泰人壽", "新光人壽"]
     },
     {
       "title": "article_168_tables",
       "url": "無連結",
       "filename": "article_168_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "遠東商銀",
-        "渣打銀行",
-        "匯豐銀行"
-      ]
+      "partners": ["滙豐銀行", "遠東商銀", "渣打銀行", "匯豐銀行"]
     },
     {
       "title": "article_477_tables",
@@ -7930,57 +6029,37 @@
       "title": "article_440_tables",
       "url": "無連結",
       "filename": "article_440_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_447_content",
       "url": "https://roo.cash/blog/freelance-tax-return/",
       "filename": "article_447_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_117_content",
       "url": "https://roo.cash/blog/guarantor/",
       "filename": "article_117_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行",
-        "匯豐銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行", "匯豐銀行"]
     },
     {
       "title": "article_263_tables",
       "url": "無連結",
       "filename": "article_263_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_536_tables",
       "url": "無連結",
       "filename": "article_536_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_254_tables",
       "url": "無連結",
       "filename": "article_254_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_415_tables",
@@ -8031,19 +6110,13 @@
       "title": "article_46_content",
       "url": "https://roo.cash/blog/skb-credit-card-verification/",
       "filename": "article_46_content.txt",
-      "partners": [
-        "LINE Pay",
-        "Apple Pay",
-        "Google Pay"
-      ]
+      "partners": ["LINE Pay", "Apple Pay", "Google Pay"]
     },
     {
       "title": "article_437_content",
       "url": "https://roo.cash/blog/car-and-scooter-tax/",
       "filename": "article_437_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_422_tables",
@@ -8063,29 +6136,19 @@
       "title": "article_167_content",
       "url": "https://roo.cash/blog/rakuten-credit-loan-article/",
       "filename": "article_167_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_469_content",
       "url": "https://roo.cash/blog/income-tax-proof-of-support/",
       "filename": "article_469_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_91_tables",
       "url": "無連結",
       "filename": "article_91_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "美股"]
     },
     {
       "title": "article_388_tables",
@@ -8106,9 +6169,7 @@
       "title": "article_370_content",
       "url": "https://roo.cash/blog/intc-stock-article/",
       "filename": "article_370_content.txt",
-      "partners": [
-        "美股"
-      ]
+      "partners": ["美股"]
     },
     {
       "title": "article_68_content",
@@ -8126,86 +6187,55 @@
       "title": "article_149_content",
       "url": "https://roo.cash/blog/taipei-pawnshop-article/",
       "filename": "article_149_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_419_content",
       "url": "https://roo.cash/blog/parenting-income-tax/",
       "filename": "article_419_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_300_content",
       "url": "https://roo.cash/blog/reits/",
       "filename": "article_300_content.txt",
-      "partners": [
-        "ETF",
-        "基金"
-      ]
+      "partners": ["ETF", "基金"]
     },
     {
       "title": "article_488_tables",
       "url": "無連結",
       "filename": "article_488_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "PayPal",
-        "ETF",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "PayPal", "ETF", "美股"]
     },
     {
       "title": "article_262_content",
       "url": "https://roo.cash/blog/europe-travel-insurance/",
       "filename": "article_262_content.txt",
-      "partners": [
-        "國泰人壽",
-        "新光人壽"
-      ]
+      "partners": ["國泰人壽", "新光人壽"]
     },
     {
       "title": "article_95_content",
       "url": "https://roo.cash/blog/electricitybill-and-phonebill-cashback-creditcard/",
       "filename": "article_95_content.txt",
-      "partners": [
-        "台股"
-      ]
+      "partners": ["台股"]
     },
     {
       "title": "article_10_tables",
       "url": "無連結",
       "filename": "article_10_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "星展銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "星展銀行", "PayPal", "美股"]
     },
     {
       "title": "article_89_content",
       "url": "https://roo.cash/blog/first-credit-card-verification/",
       "filename": "article_89_content.txt",
-      "partners": [
-        "LINE Pay",
-        "Google Pay"
-      ]
+      "partners": ["LINE Pay", "Google Pay"]
     },
     {
       "title": "article_27_tables",
       "url": "無連結",
       "filename": "article_27_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "LINE Pay",
-        "Apple Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "LINE Pay", "Apple Pay", "PayPal", "美股"]
     },
     {
       "title": "article_74_content",
@@ -8226,28 +6256,19 @@
       "title": "article_155_content",
       "url": "https://roo.cash/blog/jcic-credit-score/",
       "filename": "article_155_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_405_content",
       "url": "https://roo.cash/blog/estate-tax-regulation/",
       "filename": "article_405_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_488_content",
       "url": "https://roo.cash/blog/dws-article/",
       "filename": "article_488_content.txt",
-      "partners": [
-        "DWS 投信",
-        "ETF"
-      ]
+      "partners": ["DWS 投信", "ETF"]
     },
     {
       "title": "article_72_tables",
@@ -8267,135 +6288,85 @@
       "title": "article_121_tables",
       "url": "無連結",
       "filename": "article_121_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_116_tables",
       "url": "無連結",
       "filename": "article_116_tables.txt",
-      "partners": [
-        "富邦銀行",
-        "遠東商銀",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "遠東商銀", "渣打銀行"]
     },
     {
       "title": "article_391_content",
       "url": "https://roo.cash/blog/podcast-stranger-tale-finance-weekly/",
       "filename": "article_391_content.txt",
-      "partners": [
-        "LINE Pay",
-        "Apple Pay",
-        "Google Pay",
-        "ETF",
-        "美股",
-        "台股"
-      ]
+      "partners": ["LINE Pay", "Apple Pay", "Google Pay", "ETF", "美股", "台股"]
     },
     {
       "title": "article_45_tables",
       "url": "無連結",
       "filename": "article_45_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "Apple Pay",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "Apple Pay", "PayPal", "美股"]
     },
     {
       "title": "article_248_tables",
       "url": "無連結",
       "filename": "article_248_tables.txt",
-      "partners": [
-        "富邦人壽"
-      ]
+      "partners": ["富邦人壽"]
     },
     {
       "title": "article_125_content",
       "url": "https://roo.cash/blog/case-study-suspend-card/",
       "filename": "article_125_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行"]
     },
     {
       "title": "article_475_content",
       "url": "https://roo.cash/blog/tax-overdue-search-how-to/",
       "filename": "article_475_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_280_tables",
       "url": "無連結",
       "filename": "article_280_tables.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_332_content",
       "url": "https://roo.cash/blog/stock-foreign-exchange-investment/",
       "filename": "article_332_content.txt",
-      "partners": [
-        "ETF"
-      ]
+      "partners": ["ETF"]
     },
     {
       "title": "article_186_content",
       "url": "https://roo.cash/blog/stock-pledged-loan-maintenance-rate/",
       "filename": "article_186_content.txt",
-      "partners": [
-        "富邦銀行",
-        "渣打銀行",
-        "台新國際商業銀行"
-      ]
+      "partners": ["富邦銀行", "渣打銀行", "台新國際商業銀行"]
     },
     {
       "title": "article_580_tables",
       "url": "無連結",
       "filename": "article_580_tables.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "PayPal",
-        "美股"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "PayPal", "美股"]
     },
     {
       "title": "article_342_content",
       "url": "https://roo.cash/blog/stock-epassbook-introduction/",
       "filename": "article_342_content.txt",
-      "partners": [
-        "國泰世華銀行",
-        "台北富邦銀行",
-        "台灣土地銀行"
-      ]
+      "partners": ["國泰世華銀行", "台北富邦銀行", "台灣土地銀行"]
     },
     {
       "title": "article_220_content",
       "url": "https://roo.cash/blog/car-insurance-electric-motor-gogoro/",
       "filename": "article_220_content.txt",
-      "partners": [
-        "LINE Pay"
-      ]
+      "partners": ["LINE Pay"]
     },
     {
       "title": "article_539_content",
       "url": "https://roo.cash/blog/johntea-company-menu/",
       "filename": "article_539_content.txt",
-      "partners": [
-        "滙豐銀行",
-        "國泰世華銀行",
-        "LINE Pay"
-      ]
+      "partners": ["滙豐銀行", "國泰世華銀行", "LINE Pay"]
     }
   ]
 }
