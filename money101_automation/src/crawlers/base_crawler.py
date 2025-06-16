@@ -7,12 +7,14 @@ import time
 import json
 import pandas as pd
 from datetime import datetime
+from pathlib import Path
 
 class BaseCrawler:
     def __init__(self):
         self.driver = None
         # 建立輸出目錄基本路徑
-        self.base_output_dir = "output"
+        project_root  = Path(__file__).resolve().parent.parent
+        self.base_output_dir = project_root / "output"
         os.makedirs(self.base_output_dir, exist_ok=True)
 
     def initialize_driver(self):

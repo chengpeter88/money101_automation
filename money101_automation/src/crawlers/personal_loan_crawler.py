@@ -30,7 +30,7 @@ class PersonalLoanCrawler(BaseCrawler):
         try:
             self.driver.get(self.url)
             # 使用 WebDriverWait 替代固定等待
-            WebDriverWait(self.driver, 10).until(
+            WebDriverWait(self.driver, 3).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, "div[data-testid='product-card']"))
             )
         except Exception as e:
@@ -52,8 +52,8 @@ class PersonalLoanCrawler(BaseCrawler):
 
         loans_data = []
         
-        # 批次處理，每次處理5個產品
-        batch_size = 5
+        # 批次處理，每次處理10個產品
+        batch_size = 10
         for i in range(0, len(loan_elements), batch_size):
             batch = loan_elements[i:i+batch_size]
             print(f"處理第 {i+1}-{min(i+batch_size, len(loan_elements))} 個貸款產品...")
@@ -218,9 +218,9 @@ class PersonalLoanCrawler(BaseCrawler):
             record["分類標籤"] = ", ".join(loan.get("分類標籤", []))
             
             # 廣告橫幅
-            banner = loan.get("廣告橫幅", {})
-            record["廣告橫幅_URL"] = banner.get("url", "")
-            record["廣告橫幅_ALT"] = banner.get("alt", "")
+            # banner = loan.get("廣告橫幅", {})
+            # record["廣告橫幅_URL"] = banner.get("url", "")
+            # record["廣告橫幅_ALT"] = banner.get("alt", "")
             
             # 操作按鈕
             buttons = loan.get("操作按鈕", {})
